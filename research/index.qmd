@@ -30,6 +30,8 @@ and policy context behind this work, see the thematic hubs: [Brexit](/brexit/ind
 [Trade Wars](/trade-wars/index.qmd), [Ukraine](/ukraine/index.qmd), and
 [Firms](/firms/index.qmd).
 
+{{< iconify academicons orcid >}} ORCID: [0000-0003-4990-6025](https://orcid.org/0000-0003-4990-6025)
+
 ## Work in Progress
 
 ::: {#wip-research}
