@@ -1,6 +1,12 @@
 ---
 title: "Transforming East Asia: Regional Integration in a Trade War Era"
-description: "Open Economies Review, 2023. With Karen Jackson."
+description: >-
+  **Open Economies Review, 2023. With Karen Jackson.**
+  <details class="abstract-toggle"><summary onclick="event.preventDefault();
+  event.stopPropagation(); this.closest('details').open =
+  !this.closest('details').open;">Show abstract</summary>
+  We evaluate the trade and welfare implications of deeper East Asian integration — via a China-Japan-Korea free trade agreement — against the backdrop of continuing US-China trade tensions, using a structural gravity approach. For China, the FTA can offset continued trade tensions with the US; tariff reductions deliver larger welfare gains than reductions in non-tariff barriers, and a deeper agreement is more welfare-enhancing for all members. East Asian integration looks more attractive to its members in light of US tensions, not less.
+  </details>
 date: "2023-01-01"
 status: "published"
 categories: [trade-wars]

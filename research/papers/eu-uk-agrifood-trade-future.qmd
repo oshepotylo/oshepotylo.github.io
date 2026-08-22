@@ -1,6 +1,12 @@
 ---
 title: "Harvesting Trade Opportunities: Staggered DID of Impact and Structural Gravity of Future of EU-UK Agrifood Trade"
-description: "Conference paper, International Agricultural Trade Research Consortium, 2023."
+description: >-
+  **Conference paper, International Agricultural Trade Research Consortium, 2023.**
+  <details class="abstract-toggle"><summary onclick="event.preventDefault();
+  event.stopPropagation(); this.closest('details').open =
+  !this.closest('details').open;">Show abstract</summary>
+  Combining a staggered difference-in-differences estimate of the Trade and Cooperation Agreement's realised impact on EU-UK agrifood trade with a structural gravity projection of plausible future trading arrangements, we ask how much of the post-Brexit agrifood trade loss is recoverable under alternative UK-EU relationships — including a veterinary/SPS agreement — and how much looks permanent under the current trading relationship.
+  </details>
 date: "2023-01-01"
 status: "wip"
 categories: [brexit, agrifood]

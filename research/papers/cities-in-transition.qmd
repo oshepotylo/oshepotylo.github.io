@@ -1,6 +1,12 @@
 ---
 title: "Cities in Transition"
-description: "Comparative Economic Studies, 2012."
+description: >-
+  **Comparative Economic Studies, 2012.**
+  <details class="abstract-toggle"><summary onclick="event.preventDefault();
+  event.stopPropagation(); this.closest('details').open =
+  !this.closest('details').open;">Show abstract</summary>
+  We examine urban development in transition countries from 1991 to 2010, focusing on the more recent decade. Socialist-era urban policy restrained the growth of the largest cities and pushed the spatial distribution of population toward artificial uniformity; the shift to a market economy is reducing these distortions, but convergence is slow. Housing market rigidities, inadequate urban infrastructure, and inconsistent government policy continue to prevent people from moving to the largest, most productive cities.
+  </details>
 date: "2012-01-01"
 status: "published"
 categories: [other, urban-economics, transition-economies]

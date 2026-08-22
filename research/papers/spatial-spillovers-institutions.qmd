@@ -1,6 +1,12 @@
 ---
 title: "Spatial spillovers in the development of institutions"
-description: "Journal of Development Economics, 2013. With Harry H. Kelejian and Peter Murrell."
+description: >-
+  **Journal of Development Economics, 2013. With Harry H. Kelejian and Peter Murrell.**
+  <details class="abstract-toggle"><summary onclick="event.preventDefault();
+  event.stopPropagation(); this.closest('details').open =
+  !this.closest('details').open;">Show abstract</summary>
+  We examine spatial spillovers in institutional development, where the explanatory variable of interest is the level of institutions in bordering countries — a spatial lag of the dependent variable — using new results in spatial econometrics to address the missing-data problems that usually plague spatial empirical work. Spatial institutional spillovers are statistically significant and economically important; a counterfactual removing the USSR reveals large direct and indirect spillovers, a result that holds up across yearly cross-sections, fixed-effects estimates, and numerous additional robustness checks.
+  </details>
 date: "2013-01-01"
 status: "published"
 categories: [other, institutions, spatial-econometrics]

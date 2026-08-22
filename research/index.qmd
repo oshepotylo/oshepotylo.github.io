@@ -9,7 +9,7 @@ listing:
     type: table
     sort: "date desc"
     categories: true
-    fields: [date, title, categories]
+    fields: [title, description, categories]
     page-size: 50
   - id: published-research
     contents: papers
@@ -20,7 +20,7 @@ listing:
     categories: true
     filter-ui: true
     sort-ui: [date, title]
-    fields: [date, title, categories]
+    fields: [title, description, categories]
     page-size: 50
 ---
 

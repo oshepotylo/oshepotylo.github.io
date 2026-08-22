@@ -1,6 +1,12 @@
 ---
 title: "Post-Brexit trade survival: Looking beyond the European Union"
-description: "Economic Modelling, 2018. With Karen Jackson."
+description: >-
+  **Economic Modelling, 2018. With Karen Jackson.**
+  <details class="abstract-toggle"><summary onclick="event.preventDefault();
+  event.stopPropagation(); this.closest('details').open =
+  !this.closest('details').open;">Show abstract</summary>
+  We explore the welfare implications of a new EU-UK relationship alongside major trade policy initiatives, evaluating five Brexit scenarios that vary in their assumptions about a UK-EU deal, TTIP, and new free trade agreements with the US or Commonwealth countries, tracking welfare changes over two decades. The impact of Brexit is negative under every scenario, with losses smallest under a soft Brexit and worse if TTIP proceeds — underscoring the value of large-bloc membership. Losses occur gradually and can be partly offset by new trade agreements, but a hard Brexit should be avoided to minimise them.
+  </details>
 date: "2018-01-01"
 status: "published"
 categories: [brexit, consultancy, gravity]

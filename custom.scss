@@ -24,3 +24,27 @@
     object-fit: cover;
   }
 }
+
+// Abstract disclosure toggles in research listings
+.listing-description,
+.quarto-listing-container-table td {
+  details.abstract-toggle {
+    margin-top: 0.35rem;
+
+    summary {
+      cursor: pointer;
+      font-size: 0.9rem;
+      color: #6c757d;
+      list-style-position: outside;
+
+      &:hover {
+        color: #495057;
+        text-decoration: underline;
+      }
+    }
+
+    &[open] summary {
+      margin-bottom: 0.35rem;
+    }
+  }
+}

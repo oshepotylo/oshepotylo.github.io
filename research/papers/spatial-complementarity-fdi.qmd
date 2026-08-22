@@ -1,6 +1,12 @@
 ---
 title: "Spatial complementarity of FDI: the example of transition countries"
-description: "Post-Communist Economies, 2012."
+description: >-
+  **Post-Communist Economies, 2012.**
+  <details class="abstract-toggle"><summary onclick="event.preventDefault();
+  event.stopPropagation(); this.closest('details').open =
+  !this.closest('details').open;">Show abstract</summary>
+  We study the spatial determinants of FDI location — FDI in neighbouring countries and foreign market potential — across a panel of 25 transition countries from 1993 to 2010. Spatial FDI spillovers are positive and economically large; omitting them seriously misspecifies models of FDI location. The complementarity is stronger in disaggregated (bilateral, sector-level) data, with substantial heterogeneity across sectors: spillovers are large and positive in services but non-significant or even negative in manufacturing.
+  </details>
 date: "2012-01-01"
 status: "published"
 categories: [other, fdi, spatial-econometrics, transition-economies]

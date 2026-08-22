@@ -1,6 +1,12 @@
 ---
 title: "Political alliances and trade: Europe in a polarized world"
-description: "European Journal of Political Economy, 2024. With Karen Jackson."
+description: >-
+  **European Journal of Political Economy, 2024. With Karen Jackson.**
+  <details class="abstract-toggle"><summary onclick="event.preventDefault();
+  event.stopPropagation(); this.closest('details').open =
+  !this.closest('details').open;">Show abstract</summary>
+  This study investigates how political alliances influence trade and welfare in Europe and major global economies amid escalating geopolitical tensions. Using a panel data approach, we assess the impact of military alliances on trade through structural gravity and staggered difference-in-differences methods, then simulate the effects of alliance strengthening or disintegration. NATO enlargement brings economic benefits for Europe, while a US withdrawal from NATO or a deepening Shanghai Cooperation Organisation would produce significant negative trade and welfare effects.
+  </details>
 date: "2024-01-01"
 status: "published"
 categories: [trade-wars, political-economy, gravity]

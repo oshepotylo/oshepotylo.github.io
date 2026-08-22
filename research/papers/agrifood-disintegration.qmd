@@ -1,6 +1,12 @@
 ---
 title: "Non-tariff measures and productivity of Ukrainian food-processing firms"
-description: "Journal of Agricultural Economics, 2022. With Volodymyr Vakhitov, Veronika Movchan, and Mariia Panga."
+description: >-
+  **Journal of Agricultural Economics, 2022. With Volodymyr Vakhitov, Veronika Movchan, and Mariia Panga.**
+  <details class="abstract-toggle"><summary onclick="event.preventDefault();
+  event.stopPropagation(); this.closest('details').open =
+  !this.closest('details').open;">Show abstract</summary>
+  Using detailed data on veterinary, ecological, sanitary, phytosanitary, and mandatory certification measures, we study how non-tariff measures affect firm productivity in Ukraine's food-processing industry through forward and backward linkages, comparing quantity- and revenue-based measures of total factor productivity. Non-tariff measures on intermediate inputs reduce quantity-based productivity, and firms that rely heavily on imported inputs see the biggest long-run productivity losses when input requirements tighten; revenue-based effects are muted because firms adjust prices and quality instead.
+  </details>
 date: "2022-01-01"
 status: "published"
 categories: [ukraine, trade-wars, firms, agrifood, non-tariff-measures, firm-level]

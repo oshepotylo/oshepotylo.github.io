@@ -12,7 +12,7 @@ listing:
     type: default
     sort: "date desc"
     categories: true
-    fields: [date, title, description, categories]
+    fields: [title, description, categories]
     feed: true
 ---
 

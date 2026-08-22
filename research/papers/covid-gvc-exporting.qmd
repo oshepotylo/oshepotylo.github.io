@@ -1,6 +1,12 @@
 ---
 title: "Shocked by COVID: Exporting along global value chains"
-description: "CEP Discussion Paper dp2105, 2025. With Holger Breinlich and Jun Du."
+description: >-
+  **CEP Discussion Paper dp2105, 2025. With Holger Breinlich and Jun Du.**
+  <details class="abstract-toggle"><summary onclick="event.preventDefault();
+  event.stopPropagation(); this.closest('details').open =
+  !this.closest('details').open;">Show abstract</summary>
+  Using UK customs data from 2017 to 2020 and a shift-share identification strategy that exploits the COVID-19 pandemic as a natural experiment, we estimate an elasticity of exports with respect to intermediate imports of 0.4: a one-standard-deviation increase in COVID-related restrictions in sourcing countries reduced intermediate exports by 3.7%. The result highlights a paradox in protectionist trade policy — measures aimed at self-sufficiency can damage export performance by disrupting the supply chains exporters depend on.
+  </details>
 date: "2025-01-01"
 status: "wip"
 categories: [firms, brexit]

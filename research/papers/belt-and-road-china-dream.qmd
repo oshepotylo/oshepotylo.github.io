@@ -1,6 +1,12 @@
 ---
 title: "Belt and road: The China dream?"
-description: "China Economic Review, 2021. With Karen Jackson."
+description: >-
+  **China Economic Review, 2021. With Karen Jackson.**
+  <details class="abstract-toggle"><summary onclick="event.preventDefault();
+  event.stopPropagation(); this.closest('details').open =
+  !this.closest('details').open;">Show abstract</summary>
+  Using a general equilibrium structural gravity model with mobile capital flows, we assess how the Belt and Road Initiative's effects on trade costs and investment affect trade and consumer welfare in China, the EU, and the rest of the world. A 15% reduction in China-EU transport costs would raise representative-consumer welfare by 1.27% in China and 0.5% in the EU; combining the initiative with a deep EU-China free trade agreement would raise welfare by 4.37% and 1.99% respectively — substantial gains concentrated in the two blocs directly involved.
+  </details>
 date: "2021-01-01"
 status: "published"
 categories: [trade-wars]

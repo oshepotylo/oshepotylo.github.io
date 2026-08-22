@@ -1,6 +1,12 @@
 ---
 title: "Popular Support For Trade Agreements And Partner Country Characteristics"
-description: "Economic Inquiry, 2021. With Tom Coupé."
+description: >-
+  **Economic Inquiry, 2021. With Tom Coupé.**
+  <details class="abstract-toggle"><summary onclick="event.preventDefault();
+  event.stopPropagation(); this.closest('details').open =
+  !this.closest('details').open;">Show abstract</summary>
+  Using quasi-experimental survey data collected immediately before and after the November 2016 US presidential election, we test how the election of Donald Trump affected Europeans' willingness to sign a trade and investment agreement with the United States. The election outcome produced an immediate, sizeable negative shift in Europeans' image of the United States, but no corresponding drop in their willingness to sign a trade agreement — popular support for a deal proved more durable than opinion of the partner country itself.
+  </details>
 date: "2021-01-01"
 status: "published"
 categories: [consultancy, trade-wars]

@@ -1,6 +1,12 @@
 ---
 title: "Services liberalization and productivity of manufacturing firms"
-description: "The Economics of Transition, 2015. With Volodymyr Vakhitov."
+description: >-
+  **The Economics of Transition, 2015. With Volodymyr Vakhitov.**
+  <details class="abstract-toggle"><summary onclick="event.preventDefault();
+  event.stopPropagation(); this.closest('details').open =
+  !this.closest('details').open;">Show abstract</summary>
+  Using a unique panel of Ukrainian firms from 2001 to 2007, we exploit an external push for services-sector liberalization as a source of exogenous variation to identify its effect on the total factor productivity of manufacturing firms that use those services as inputs. A one-standard-deviation increase in services liberalization raises firm TFP by 9.2%, an effect that is stronger for already-productive firms — driving a reallocation of resources within the industry — and reinforced dynamically through the investment channel; the effect is more pronounced for small, domestic firms.
+  </details>
 date: "2015-01-01"
 status: "published"
 categories: [firms, ukraine, services-trade, firm-level]

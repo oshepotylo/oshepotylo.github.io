@@ -1,6 +1,12 @@
 ---
 title: "Conflict and well-being of civilians: The case of the Russian-Ukrainian hybrid war"
-description: "Economic Systems, 2020. With Maryna Osiichuk."
+description: >-
+  **Economic Systems, 2020. With Maryna Osiichuk.**
+  <details class="abstract-toggle"><summary onclick="event.preventDefault();
+  event.stopPropagation(); this.closest('details').open =
+  !this.closest('details').open;">Show abstract</summary>
+  Using two large household surveys spanning 2012–2016 and a multi-dimensional concept of well-being, we estimate the contemporaneous effect of the Russian-Ukrainian hybrid war on civilians living outside the conflict zone in both countries. The conflict significantly worsened financial well-being, an effect that operates mostly through worsened expectations and that fades with distance from the conflict zone, and hit women's financial well-being harder than men's. Chronic disease increased in Ukraine over the longer term, while mental health effects appeared earlier and were more pronounced for men.
+  </details>
 date: "2020-01-01"
 status: "published"
 categories: [ukraine]

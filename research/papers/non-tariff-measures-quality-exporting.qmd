@@ -1,6 +1,12 @@
 ---
 title: "Non-tariff measures, quality and exporting: evidence from microdata"
-description: "European Review of Agricultural Economics, 2020. With Veronika Movchan and Volodymyr Vakhitov."
+description: >-
+  **European Review of Agricultural Economics, 2020. With Veronika Movchan and Volodymyr Vakhitov.**
+  <details class="abstract-toggle"><summary onclick="event.preventDefault();
+  event.stopPropagation(); this.closest('details').open =
+  !this.closest('details').open;">Show abstract</summary>
+  Domestic non-tariff measures influence firms' production and import decisions. We introduce non-tariff measures into a model with heterogeneous firms, where they raise production costs but also act as a positive demand shifter — leaving their net effect on the extensive and intensive margins of trade ambiguous. Testing the model's predictions on Ukrainian food-processing firms in 2008–2013: more SPS regulation on upstream inputs is associated with exports of higher-quality products, while mandatory certification has a negative effect on quality by limiting firms' access to new technology and equipment.
+  </details>
 date: "2020-01-01"
 status: "published"
 categories: [ukraine, consultancy, firms, non-tariff-measures, firm-level]

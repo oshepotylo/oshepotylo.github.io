@@ -1,6 +1,12 @@
 ---
 title: "How did Brexit affect UK trade?"
-description: "Contemporary Social Science, 2023. With Jun Du and Emine Beyza Satoglu."
+description: >-
+  **Contemporary Social Science, 2023. With Jun Du and Emine Beyza Satoglu.**
+  <details class="abstract-toggle"><summary onclick="event.preventDefault();
+  event.stopPropagation(); this.closest('details').open =
+  !this.closest('details').open;">Show abstract</summary>
+  Using COMTRADE data from 2019 to 2022Q1 and synthetic difference-in-differences, we build a counterfactual UK that did not experience the Trade and Cooperation Agreement to assess its effect on UK trade. The negative, large, and statistically significant impact on UK exports persisted throughout the period, with the gap between actual and synthetic UK exports widening to 26% on average. The TCA also caused a significant contraction in the variety of goods the UK exports to the EU.
+  </details>
 date: "2023-01-01"
 status: "published"
 categories: [brexit]

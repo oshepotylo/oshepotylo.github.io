@@ -1,6 +1,19 @@
 ---
 title: "How did the Brexit uncertainty impact services exports of UK firms?"
-description: "Journal of International Business Policy, 2025. With Jun Du and Xiaocan Yuan."
+description: >-
+  **Journal of International Business Policy, 2025.** With Jun Du and Xiaocan Yuan.
+  <details class="abstract-toggle"><summary onclick="event.preventDefault();
+  event.stopPropagation(); this.closest('details').open =
+  !this.closest('details').open;">Show abstract</summary>
+  Using firm-level data and a synthetic difference-in-differences design, we
+  estimate that Brexit-related policy uncertainty reduced UK services exports
+  by 9.2% a year on average, a cumulative loss of roughly USD 146.8 billion
+  between 2016 and 2019 — distinct from, and larger than, the effect of the
+  tariff and non-tariff barriers that eventually took effect. The impact fell
+  disproportionately on small and medium-sized exporters, while multinational
+  enterprises were more likely to relocate operations outside the UK
+  altogether.
+  </details>
 date: "2025-03-01"
 status: "published"
 categories: [brexit, firms, services-trade, firm-level]

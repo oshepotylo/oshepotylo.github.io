@@ -1,6 +1,12 @@
 ---
 title: "Impact of TB Epidemic on Worker and Firm Productivity: Regional Perspective from Ukraine"
-description: "GLO Discussion Paper 1360, 2023. With Olena Nizalova."
+description: >-
+  **GLO Discussion Paper 1360, 2023. With Olena Nizalova.**
+  <details class="abstract-toggle"><summary onclick="event.preventDefault();
+  event.stopPropagation(); this.closest('details').open =
+  !this.closest('details').open;">Show abstract</summary>
+  Tuberculosis remains a significant regional health burden in Ukraine, with prevalence varying sharply across oblasts. We link regional TB incidence to worker- and firm-level productivity outcomes, asking how much of Ukraine's regional productivity gap this specific health channel can account for — evidence with direct relevance to postwar health and labour policy.
+  </details>
 date: "2023-01-01"
 status: "wip"
 categories: [ukraine, firms]

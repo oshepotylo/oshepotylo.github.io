@@ -11,7 +11,7 @@ listing:
       categories: "consultancy"
     type: table
     sort: "date desc"
-    fields: [date, title, description]
+    fields: [title, description]
 ---
 
 ## What I do
