@@ -84,7 +84,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-bb62276ab45c84d9efd712f51ff97b5a.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-207896a8c0d15aa9f86a46b71d112b6d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-1e396d71db4375ab4379ab24dd31ffc4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script src="../site_libs/quarto-contrib/iconify-3.0.0/iconify-icon.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
@@ -123,7 +123,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
       searchColumns: ["listing-date","listing-title","listing-author"],
     };
@@ -346,12 +346,6 @@ window.Quarto = {
     <select id="listing-policy-work-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-policy-work'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
       <option value="" disabled="" selected="" hidden="">Order By</option>
       <option value="index" data-direction="asc">Default</option>
-      <option value="listing-date-sort" data-direction="asc">
-        Date - Oldest
-      </option>
-      <option value="listing-date-sort" data-direction="desc">
-        Date - Newest
-      </option>
       <option value="listing-title-sort" data-direction="asc">
         Title
       </option>
@@ -367,10 +361,6 @@ window.Quarto = {
 <tr>
 
 <th>
-<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
-</th>
-
-<th>
 <a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
 </th>
 
@@ -382,41 +372,53 @@ Description
 </thead>
 <tbody class="list">
 
-<tr data-index="0" data-categories="Y29uc3VsdGFuY3klMkN0cmFkZS13YXJz" data-listing-date-sort="1609459200000" data-listing-file-modified-sort="1787430389888" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="66" data-listing-title-sort="Popular Support For Trade Agreements And Partner Country Characteristics" data-listing-filename-sort="popular-support-trade-agreements.qmd">
-<td>
-<span class="listing-date">Jan 1, 2021</span>
-</td>
+<tr data-index="0" data-categories="Y29uc3VsdGFuY3klMkN0cmFkZS13YXJz" data-listing-date-sort="1609459200000" data-listing-file-modified-sort="1787432212122" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="66" data-listing-title-sort="Popular Support For Trade Agreements And Partner Country Characteristics" data-listing-filename-sort="popular-support-trade-agreements.qmd">
 <td>
 <a href="../research/papers/popular-support-trade-agreements.html" class="title listing-title">Popular Support For Trade Agreements And Partner Country Characteristics</a>
 </td>
 <td>
-<span class="listing-description">Economic Inquiry, 2021. With Tom Coupé.</span>
+<span class="listing-description"><strong>Economic Inquiry, 2021. With Tom Coupé.</strong>
+<details class="abstract-toggle">
+<summary onclick="event.preventDefault(); event.stopPropagation(); this.closest('details').open = !this.closest('details').open;">
+Show abstract
+</summary>
+Using quasi-experimental survey data collected immediately before and after the November 2016 US presidential election, we test how the election of Donald Trump affected Europeans’ willingness to sign a trade and investment agreement with the United States. The election outcome produced an immediate, sizeable negative shift in Europeans’ image of the United States, but no corresponding drop in their willingness to sign a trade agreement — popular support for a deal proved more durable than opinion of the partner country itself.
+</details>
+</span>
 </td>
 
 </tr>
 
-<tr data-index="1" data-categories="dWtyYWluZSUyQ2NvbnN1bHRhbmN5JTJDZmlybXMlMkNub24tdGFyaWZmLW1lYXN1cmVzJTJDZmlybS1sZXZlbA==" data-listing-date-sort="1577836800000" data-listing-file-modified-sort="1787430389888" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="53" data-listing-title-sort="Non-tariff measures, quality and exporting: evidence from microdata" data-listing-filename-sort="non-tariff-measures-quality-exporting.qmd">
-<td>
-<span class="listing-date">Jan 1, 2020</span>
-</td>
+<tr data-index="1" data-categories="dWtyYWluZSUyQ2NvbnN1bHRhbmN5JTJDZmlybXMlMkNub24tdGFyaWZmLW1lYXN1cmVzJTJDZmlybS1sZXZlbA==" data-listing-date-sort="1577836800000" data-listing-file-modified-sort="1787432212122" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="53" data-listing-title-sort="Non-tariff measures, quality and exporting: evidence from microdata" data-listing-filename-sort="non-tariff-measures-quality-exporting.qmd">
 <td>
 <a href="../research/papers/non-tariff-measures-quality-exporting.html" class="title listing-title">Non-tariff measures, quality and exporting: evidence from microdata</a>
 </td>
 <td>
-<span class="listing-description">European Review of Agricultural Economics, 2020. With Veronika Movchan and Volodymyr Vakhitov.</span>
+<span class="listing-description"><strong>European Review of Agricultural Economics, 2020. With Veronika Movchan and Volodymyr Vakhitov.</strong>
+<details class="abstract-toggle">
+<summary onclick="event.preventDefault(); event.stopPropagation(); this.closest('details').open = !this.closest('details').open;">
+Show abstract
+</summary>
+Domestic non-tariff measures influence firms’ production and import decisions. We introduce non-tariff measures into a model with heterogeneous firms, where they raise production costs but also act as a positive demand shifter — leaving their net effect on the extensive and intensive margins of trade ambiguous. Testing the model’s predictions on Ukrainian food-processing firms in 2008–2013: more SPS regulation on upstream inputs is associated with exports of higher-quality products, while mandatory certification has a negative effect on quality by limiting firms’ access to new technology and equipment.
+</details>
+</span>
 </td>
 
 </tr>
 
-<tr data-index="2" data-categories="YnJleGl0JTJDY29uc3VsdGFuY3klMkNncmF2aXR5" data-listing-date-sort="1514764800000" data-listing-file-modified-sort="1787430389888" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="63" data-listing-title-sort="Post-Brexit trade survival: Looking beyond the European Union" data-listing-filename-sort="post-brexit-trade-survival.qmd">
-<td>
-<span class="listing-date">Jan 1, 2018</span>
-</td>
+<tr data-index="2" data-categories="YnJleGl0JTJDY29uc3VsdGFuY3klMkNncmF2aXR5" data-listing-date-sort="1514764800000" data-listing-file-modified-sort="1787432212122" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="63" data-listing-title-sort="Post-Brexit trade survival: Looking beyond the European Union" data-listing-filename-sort="post-brexit-trade-survival.qmd">
 <td>
 <a href="../research/papers/post-brexit-trade-survival.html" class="title listing-title">Post-Brexit trade survival: Looking beyond the European Union</a>
 </td>
 <td>
-<span class="listing-description">Economic Modelling, 2018. With Karen Jackson.</span>
+<span class="listing-description"><strong>Economic Modelling, 2018. With Karen Jackson.</strong>
+<details class="abstract-toggle">
+<summary onclick="event.preventDefault(); event.stopPropagation(); this.closest('details').open = !this.closest('details').open;">
+Show abstract
+</summary>
+We explore the welfare implications of a new EU-UK relationship alongside major trade policy initiatives, evaluating five Brexit scenarios that vary in their assumptions about a UK-EU deal, TTIP, and new free trade agreements with the US or Commonwealth countries, tracking welfare changes over two decades. The impact of Brexit is negative under every scenario, with losses smallest under a soft Brexit and worse if TTIP proceeds — underscoring the value of large-bloc membership. Losses occur gradually and can be partly offset by new trade agreements, but a hard Brexit should be avoided to minimise them.
+</details>
+</span>
 </td>
 
 </tr>
@@ -897,7 +899,7 @@ Description
 <span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a><span class="co">      categories: "consultancy"</span></span>
 <span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a><span class="co">    type: table</span></span>
 <span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a><span class="co">    sort: "date desc"</span></span>
-<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a><span class="co">    fields: [date, title, description]</span></span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a><span class="co">    fields: [title, description]</span></span>
 <span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
 <span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a><span class="fu">## What I do</span></span>

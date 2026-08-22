@@ -84,7 +84,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-bb62276ab45c84d9efd712f51ff97b5a.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-207896a8c0d15aa9f86a46b71d112b6d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-1e396d71db4375ab4379ab24dd31ffc4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script src="../site_libs/quarto-contrib/iconify-3.0.0/iconify-icon.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
@@ -123,7 +123,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-title','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
       searchColumns: ["listing-date","listing-title","listing-author"],
     };
@@ -151,7 +151,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-title','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
       searchColumns: ["listing-date","listing-title","listing-author"],
     };
@@ -356,12 +356,6 @@ window.Quarto = {
     <select id="listing-wip-research-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-wip-research'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
       <option value="" disabled="" selected="" hidden="">Order By</option>
       <option value="index" data-direction="asc">Default</option>
-      <option value="listing-date-sort" data-direction="asc">
-        Date - Oldest
-      </option>
-      <option value="listing-date-sort" data-direction="desc">
-        Date - Newest
-      </option>
       <option value="listing-title-sort" data-direction="asc">
         Title
       </option>
@@ -377,11 +371,11 @@ window.Quarto = {
 <tr>
 
 <th>
-<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
+<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
 </th>
 
 <th>
-<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
+Description
 </th>
 
 <th>
@@ -392,12 +386,19 @@ Categories
 </thead>
 <tbody class="list">
 
-<tr data-index="0" data-categories="ZmlybXMlMkNicmV4aXQ=" data-listing-date-sort="1735689600000" data-listing-file-modified-sort="1787430389888" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="61" data-listing-title-sort="Shocked by COVID: Exporting along global value chains" data-listing-filename-sort="covid-gvc-exporting.qmd">
-<td>
-<span class="listing-date">Jan 1, 2025</span>
-</td>
+<tr data-index="0" data-categories="ZmlybXMlMkNicmV4aXQ=" data-listing-date-sort="1735689600000" data-listing-file-modified-sort="1787432212122" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="61" data-listing-title-sort="Shocked by COVID: Exporting along global value chains" data-listing-filename-sort="covid-gvc-exporting.qmd">
 <td>
 <a href="../research/papers/covid-gvc-exporting.html" class="title listing-title">Shocked by COVID: Exporting along global value chains</a>
+</td>
+<td>
+<span class="listing-description"><strong>CEP Discussion Paper dp2105, 2025. With Holger Breinlich and Jun Du.</strong>
+<details class="abstract-toggle">
+<summary onclick="event.preventDefault(); event.stopPropagation(); this.closest('details').open = !this.closest('details').open;">
+Show abstract
+</summary>
+Using UK customs data from 2017 to 2020 and a shift-share identification strategy that exploits the COVID-19 pandemic as a natural experiment, we estimate an elasticity of exports with respect to intermediate imports of 0.4: a one-standard-deviation increase in COVID-related restrictions in sourcing countries reduced intermediate exports by 3.7%. The result highlights a paradox in protectionist trade policy — measures aimed at self-sufficiency can damage export performance by disrupting the supply chains exporters depend on.
+</details>
+</span>
 </td>
 <td>
 <span class="listing-categories">firms, brexit</span>
@@ -405,12 +406,19 @@ Categories
 
 </tr>
 
-<tr data-index="1" data-categories="YnJleGl0JTJDYWdyaWZvb2Q=" data-listing-date-sort="1672531200000" data-listing-file-modified-sort="1787430389888" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="50" data-listing-title-sort="Harvesting Trade Opportunities: Staggered DID of Impact and Structural Gravity of Future of EU-UK Agrifood Trade" data-listing-filename-sort="eu-uk-agrifood-trade-future.qmd">
-<td>
-<span class="listing-date">Jan 1, 2023</span>
-</td>
+<tr data-index="1" data-categories="YnJleGl0JTJDYWdyaWZvb2Q=" data-listing-date-sort="1672531200000" data-listing-file-modified-sort="1787432212122" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="50" data-listing-title-sort="Harvesting Trade Opportunities: Staggered DID of Impact and Structural Gravity of Future of EU-UK Agrifood Trade" data-listing-filename-sort="eu-uk-agrifood-trade-future.qmd">
 <td>
 <a href="../research/papers/eu-uk-agrifood-trade-future.html" class="title listing-title">Harvesting Trade Opportunities: Staggered DID of Impact and Structural Gravity of Future of EU-UK Agrifood Trade</a>
+</td>
+<td>
+<span class="listing-description"><strong>Conference paper, International Agricultural Trade Research Consortium, 2023.</strong>
+<details class="abstract-toggle">
+<summary onclick="event.preventDefault(); event.stopPropagation(); this.closest('details').open = !this.closest('details').open;">
+Show abstract
+</summary>
+Combining a staggered difference-in-differences estimate of the Trade and Cooperation Agreement’s realised impact on EU-UK agrifood trade with a structural gravity projection of plausible future trading arrangements, we ask how much of the post-Brexit agrifood trade loss is recoverable under alternative UK-EU relationships — including a veterinary/SPS agreement — and how much looks permanent under the current trading relationship.
+</details>
+</span>
 </td>
 <td>
 <span class="listing-categories">brexit, agrifood</span>
@@ -418,12 +426,19 @@ Categories
 
 </tr>
 
-<tr data-index="2" data-categories="dWtyYWluZSUyQ2Zpcm1z" data-listing-date-sort="1672531200000" data-listing-file-modified-sort="1787430389888" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="55" data-listing-title-sort="Impact of TB Epidemic on Worker and Firm Productivity: Regional Perspective from Ukraine" data-listing-filename-sort="tb-epidemic-productivity-ukraine.qmd">
-<td>
-<span class="listing-date">Jan 1, 2023</span>
-</td>
+<tr data-index="2" data-categories="dWtyYWluZSUyQ2Zpcm1z" data-listing-date-sort="1672531200000" data-listing-file-modified-sort="1787432212122" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="55" data-listing-title-sort="Impact of TB Epidemic on Worker and Firm Productivity: Regional Perspective from Ukraine" data-listing-filename-sort="tb-epidemic-productivity-ukraine.qmd">
 <td>
 <a href="../research/papers/tb-epidemic-productivity-ukraine.html" class="title listing-title">Impact of TB Epidemic on Worker and Firm Productivity: Regional Perspective from Ukraine</a>
+</td>
+<td>
+<span class="listing-description"><strong>GLO Discussion Paper 1360, 2023. With Olena Nizalova.</strong>
+<details class="abstract-toggle">
+<summary onclick="event.preventDefault(); event.stopPropagation(); this.closest('details').open = !this.closest('details').open;">
+Show abstract
+</summary>
+Tuberculosis remains a significant regional health burden in Ukraine, with prevalence varying sharply across oblasts. We link regional TB incidence to worker- and firm-level productivity outcomes, asking how much of Ukraine’s regional productivity gap this specific health channel can account for — evidence with direct relevance to postwar health and labour policy.
+</details>
+</span>
 </td>
 <td>
 <span class="listing-categories">ukraine, firms</span>
@@ -445,12 +460,6 @@ Categories
     <select id="listing-published-research-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-published-research'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
       <option value="" disabled="" selected="" hidden="">Order By</option>
       <option value="index" data-direction="asc">Default</option>
-      <option value="listing-date-sort" data-direction="asc">
-        Date - Oldest
-      </option>
-      <option value="listing-date-sort" data-direction="desc">
-        Date - Newest
-      </option>
       <option value="listing-title-sort" data-direction="asc">
         Title
       </option>
@@ -466,11 +475,11 @@ Categories
 <tr>
 
 <th>
-<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
+<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
 </th>
 
 <th>
-<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
+Description
 </th>
 
 <th>
@@ -481,12 +490,19 @@ Categories
 </thead>
 <tbody class="list">
 
-<tr data-index="0" data-categories="YnJleGl0JTJDZmlybXMlMkNzZXJ2aWNlcy10cmFkZSUyQ2Zpcm0tbGV2ZWw=" data-listing-date-sort="1740787200000" data-listing-file-modified-sort="1787430389888" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="73" data-listing-title-sort="How did the Brexit uncertainty impact services exports of UK firms?" data-listing-filename-sort="brexit-services-exports.qmd">
-<td>
-<span class="listing-date">Mar 1, 2025</span>
-</td>
+<tr data-index="0" data-categories="YnJleGl0JTJDZmlybXMlMkNzZXJ2aWNlcy10cmFkZSUyQ2Zpcm0tbGV2ZWw=" data-listing-date-sort="1740787200000" data-listing-file-modified-sort="1787432212122" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="73" data-listing-title-sort="How did the Brexit uncertainty impact services exports of UK firms?" data-listing-filename-sort="brexit-services-exports.qmd">
 <td>
 <a href="../research/papers/brexit-services-exports.html" class="title listing-title">How did the Brexit uncertainty impact services exports of UK firms?</a>
+</td>
+<td>
+<span class="listing-description"><strong>Journal of International Business Policy, 2025.</strong> With Jun Du and Xiaocan Yuan.
+<details class="abstract-toggle">
+<summary onclick="event.preventDefault(); event.stopPropagation(); this.closest('details').open = !this.closest('details').open;">
+Show abstract
+</summary>
+Using firm-level data and a synthetic difference-in-differences design, we estimate that Brexit-related policy uncertainty reduced UK services exports by 9.2% a year on average, a cumulative loss of roughly USD 146.8 billion between 2016 and 2019 — distinct from, and larger than, the effect of the tariff and non-tariff barriers that eventually took effect. The impact fell disproportionately on small and medium-sized exporters, while multinational enterprises were more likely to relocate operations outside the UK altogether.
+</details>
+</span>
 </td>
 <td>
 <span class="listing-categories">brexit, firms, services-trade, firm-level</span>
@@ -494,12 +510,19 @@ Categories
 
 </tr>
 
-<tr data-index="1" data-categories="dHJhZGUtd2FycyUyQ3BvbGl0aWNhbC1lY29ub215JTJDZ3Jhdml0eQ==" data-listing-date-sort="1704067200000" data-listing-file-modified-sort="1787430389888" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="63" data-listing-title-sort="Political alliances and trade: Europe in a polarized world" data-listing-filename-sort="political-alliances-trade.qmd">
-<td>
-<span class="listing-date">Jan 1, 2024</span>
-</td>
+<tr data-index="1" data-categories="dHJhZGUtd2FycyUyQ3BvbGl0aWNhbC1lY29ub215JTJDZ3Jhdml0eQ==" data-listing-date-sort="1704067200000" data-listing-file-modified-sort="1787432212122" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="63" data-listing-title-sort="Political alliances and trade: Europe in a polarized world" data-listing-filename-sort="political-alliances-trade.qmd">
 <td>
 <a href="../research/papers/political-alliances-trade.html" class="title listing-title">Political alliances and trade: Europe in a polarized world</a>
+</td>
+<td>
+<span class="listing-description"><strong>European Journal of Political Economy, 2024. With Karen Jackson.</strong>
+<details class="abstract-toggle">
+<summary onclick="event.preventDefault(); event.stopPropagation(); this.closest('details').open = !this.closest('details').open;">
+Show abstract
+</summary>
+This study investigates how political alliances influence trade and welfare in Europe and major global economies amid escalating geopolitical tensions. Using a panel data approach, we assess the impact of military alliances on trade through structural gravity and staggered difference-in-differences methods, then simulate the effects of alliance strengthening or disintegration. NATO enlargement brings economic benefits for Europe, while a US withdrawal from NATO or a deepening Shanghai Cooperation Organisation would produce significant negative trade and welfare effects.
+</details>
+</span>
 </td>
 <td>
 <span class="listing-categories">trade-wars, political-economy, gravity</span>
@@ -507,12 +530,19 @@ Categories
 
 </tr>
 
-<tr data-index="2" data-categories="dHJhZGUtd2Fycw==" data-listing-date-sort="1672531200000" data-listing-file-modified-sort="1787430389888" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="56" data-listing-title-sort="Transforming East Asia: Regional Integration in a Trade War Era" data-listing-filename-sort="east-asia-trade-war-integration.qmd">
-<td>
-<span class="listing-date">Jan 1, 2023</span>
-</td>
+<tr data-index="2" data-categories="dHJhZGUtd2Fycw==" data-listing-date-sort="1672531200000" data-listing-file-modified-sort="1787432212122" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="56" data-listing-title-sort="Transforming East Asia: Regional Integration in a Trade War Era" data-listing-filename-sort="east-asia-trade-war-integration.qmd">
 <td>
 <a href="../research/papers/east-asia-trade-war-integration.html" class="title listing-title">Transforming East Asia: Regional Integration in a Trade War Era</a>
+</td>
+<td>
+<span class="listing-description"><strong>Open Economies Review, 2023. With Karen Jackson.</strong>
+<details class="abstract-toggle">
+<summary onclick="event.preventDefault(); event.stopPropagation(); this.closest('details').open = !this.closest('details').open;">
+Show abstract
+</summary>
+We evaluate the trade and welfare implications of deeper East Asian integration — via a China-Japan-Korea free trade agreement — against the backdrop of continuing US-China trade tensions, using a structural gravity approach. For China, the FTA can offset continued trade tensions with the US; tariff reductions deliver larger welfare gains than reductions in non-tariff barriers, and a deeper agreement is more welfare-enhancing for all members. East Asian integration looks more attractive to its members in light of US tensions, not less.
+</details>
+</span>
 </td>
 <td>
 <span class="listing-categories">trade-wars</span>
@@ -520,12 +550,19 @@ Categories
 
 </tr>
 
-<tr data-index="3" data-categories="YnJleGl0" data-listing-date-sort="1672531200000" data-listing-file-modified-sort="1787430389888" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="58" data-listing-title-sort="How did Brexit affect UK trade?" data-listing-filename-sort="how-did-brexit-affect-uk-trade.qmd">
-<td>
-<span class="listing-date">Jan 1, 2023</span>
-</td>
+<tr data-index="3" data-categories="YnJleGl0" data-listing-date-sort="1672531200000" data-listing-file-modified-sort="1787432212122" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="58" data-listing-title-sort="How did Brexit affect UK trade?" data-listing-filename-sort="how-did-brexit-affect-uk-trade.qmd">
 <td>
 <a href="../research/papers/how-did-brexit-affect-uk-trade.html" class="title listing-title">How did Brexit affect UK trade?</a>
+</td>
+<td>
+<span class="listing-description"><strong>Contemporary Social Science, 2023. With Jun Du and Emine Beyza Satoglu.</strong>
+<details class="abstract-toggle">
+<summary onclick="event.preventDefault(); event.stopPropagation(); this.closest('details').open = !this.closest('details').open;">
+Show abstract
+</summary>
+Using COMTRADE data from 2019 to 2022Q1 and synthetic difference-in-differences, we build a counterfactual UK that did not experience the Trade and Cooperation Agreement to assess its effect on UK trade. The negative, large, and statistically significant impact on UK exports persisted throughout the period, with the gap between actual and synthetic UK exports widening to 26% on average. The TCA also caused a significant contraction in the variety of goods the UK exports to the EU.
+</details>
+</span>
 </td>
 <td>
 <span class="listing-categories">brexit</span>
@@ -533,12 +570,19 @@ Categories
 
 </tr>
 
-<tr data-index="4" data-categories="dWtyYWluZSUyQ3RyYWRlLXdhcnMlMkNmaXJtcyUyQ2Fncmlmb29kJTJDbm9uLXRhcmlmZi1tZWFzdXJlcyUyQ2Zpcm0tbGV2ZWw=" data-listing-date-sort="1640995200000" data-listing-file-modified-sort="1787430389888" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="70" data-listing-title-sort="Non-tariff measures and productivity of Ukrainian food-processing firms" data-listing-filename-sort="agrifood-disintegration.qmd">
-<td>
-<span class="listing-date">Jan 1, 2022</span>
-</td>
+<tr data-index="4" data-categories="dWtyYWluZSUyQ3RyYWRlLXdhcnMlMkNmaXJtcyUyQ2Fncmlmb29kJTJDbm9uLXRhcmlmZi1tZWFzdXJlcyUyQ2Zpcm0tbGV2ZWw=" data-listing-date-sort="1640995200000" data-listing-file-modified-sort="1787432212122" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="70" data-listing-title-sort="Non-tariff measures and productivity of Ukrainian food-processing firms" data-listing-filename-sort="agrifood-disintegration.qmd">
 <td>
 <a href="../research/papers/agrifood-disintegration.html" class="title listing-title">Non-tariff measures and productivity of Ukrainian food-processing firms</a>
+</td>
+<td>
+<span class="listing-description"><strong>Journal of Agricultural Economics, 2022. With Volodymyr Vakhitov, Veronika Movchan, and Mariia Panga.</strong>
+<details class="abstract-toggle">
+<summary onclick="event.preventDefault(); event.stopPropagation(); this.closest('details').open = !this.closest('details').open;">
+Show abstract
+</summary>
+Using detailed data on veterinary, ecological, sanitary, phytosanitary, and mandatory certification measures, we study how non-tariff measures affect firm productivity in Ukraine’s food-processing industry through forward and backward linkages, comparing quantity- and revenue-based measures of total factor productivity. Non-tariff measures on intermediate inputs reduce quantity-based productivity, and firms that rely heavily on imported inputs see the biggest long-run productivity losses when input requirements tighten; revenue-based effects are muted because firms adjust prices and quality instead.
+</details>
+</span>
 </td>
 <td>
 <span class="listing-categories">ukraine, trade-wars, firms, agrifood, non-tariff-measures, firm-level</span>
@@ -546,12 +590,19 @@ Categories
 
 </tr>
 
-<tr data-index="5" data-categories="dHJhZGUtd2Fycw==" data-listing-date-sort="1609459200000" data-listing-file-modified-sort="1787430389888" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="44" data-listing-title-sort="Belt and road: The China dream?" data-listing-filename-sort="belt-and-road-china-dream.qmd">
-<td>
-<span class="listing-date">Jan 1, 2021</span>
-</td>
+<tr data-index="5" data-categories="dHJhZGUtd2Fycw==" data-listing-date-sort="1609459200000" data-listing-file-modified-sort="1787432212122" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="44" data-listing-title-sort="Belt and road: The China dream?" data-listing-filename-sort="belt-and-road-china-dream.qmd">
 <td>
 <a href="../research/papers/belt-and-road-china-dream.html" class="title listing-title">Belt and road: The China dream?</a>
+</td>
+<td>
+<span class="listing-description"><strong>China Economic Review, 2021. With Karen Jackson.</strong>
+<details class="abstract-toggle">
+<summary onclick="event.preventDefault(); event.stopPropagation(); this.closest('details').open = !this.closest('details').open;">
+Show abstract
+</summary>
+Using a general equilibrium structural gravity model with mobile capital flows, we assess how the Belt and Road Initiative’s effects on trade costs and investment affect trade and consumer welfare in China, the EU, and the rest of the world. A 15% reduction in China-EU transport costs would raise representative-consumer welfare by 1.27% in China and 0.5% in the EU; combining the initiative with a deep EU-China free trade agreement would raise welfare by 4.37% and 1.99% respectively — substantial gains concentrated in the two blocs directly involved.
+</details>
+</span>
 </td>
 <td>
 <span class="listing-categories">trade-wars</span>
@@ -559,12 +610,19 @@ Categories
 
 </tr>
 
-<tr data-index="6" data-categories="Y29uc3VsdGFuY3klMkN0cmFkZS13YXJz" data-listing-date-sort="1609459200000" data-listing-file-modified-sort="1787430389888" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="66" data-listing-title-sort="Popular Support For Trade Agreements And Partner Country Characteristics" data-listing-filename-sort="popular-support-trade-agreements.qmd">
-<td>
-<span class="listing-date">Jan 1, 2021</span>
-</td>
+<tr data-index="6" data-categories="Y29uc3VsdGFuY3klMkN0cmFkZS13YXJz" data-listing-date-sort="1609459200000" data-listing-file-modified-sort="1787432212122" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="66" data-listing-title-sort="Popular Support For Trade Agreements And Partner Country Characteristics" data-listing-filename-sort="popular-support-trade-agreements.qmd">
 <td>
 <a href="../research/papers/popular-support-trade-agreements.html" class="title listing-title">Popular Support For Trade Agreements And Partner Country Characteristics</a>
+</td>
+<td>
+<span class="listing-description"><strong>Economic Inquiry, 2021. With Tom Coupé.</strong>
+<details class="abstract-toggle">
+<summary onclick="event.preventDefault(); event.stopPropagation(); this.closest('details').open = !this.closest('details').open;">
+Show abstract
+</summary>
+Using quasi-experimental survey data collected immediately before and after the November 2016 US presidential election, we test how the election of Donald Trump affected Europeans’ willingness to sign a trade and investment agreement with the United States. The election outcome produced an immediate, sizeable negative shift in Europeans’ image of the United States, but no corresponding drop in their willingness to sign a trade agreement — popular support for a deal proved more durable than opinion of the partner country itself.
+</details>
+</span>
 </td>
 <td>
 <span class="listing-categories">consultancy, trade-wars</span>
@@ -572,12 +630,19 @@ Categories
 
 </tr>
 
-<tr data-index="7" data-categories="dWtyYWluZSUyQ2NvbnN1bHRhbmN5JTJDZmlybXMlMkNub24tdGFyaWZmLW1lYXN1cmVzJTJDZmlybS1sZXZlbA==" data-listing-date-sort="1577836800000" data-listing-file-modified-sort="1787430389888" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="53" data-listing-title-sort="Non-tariff measures, quality and exporting: evidence from microdata" data-listing-filename-sort="non-tariff-measures-quality-exporting.qmd">
-<td>
-<span class="listing-date">Jan 1, 2020</span>
-</td>
+<tr data-index="7" data-categories="dWtyYWluZSUyQ2NvbnN1bHRhbmN5JTJDZmlybXMlMkNub24tdGFyaWZmLW1lYXN1cmVzJTJDZmlybS1sZXZlbA==" data-listing-date-sort="1577836800000" data-listing-file-modified-sort="1787432212122" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="53" data-listing-title-sort="Non-tariff measures, quality and exporting: evidence from microdata" data-listing-filename-sort="non-tariff-measures-quality-exporting.qmd">
 <td>
 <a href="../research/papers/non-tariff-measures-quality-exporting.html" class="title listing-title">Non-tariff measures, quality and exporting: evidence from microdata</a>
+</td>
+<td>
+<span class="listing-description"><strong>European Review of Agricultural Economics, 2020. With Veronika Movchan and Volodymyr Vakhitov.</strong>
+<details class="abstract-toggle">
+<summary onclick="event.preventDefault(); event.stopPropagation(); this.closest('details').open = !this.closest('details').open;">
+Show abstract
+</summary>
+Domestic non-tariff measures influence firms’ production and import decisions. We introduce non-tariff measures into a model with heterogeneous firms, where they raise production costs but also act as a positive demand shifter — leaving their net effect on the extensive and intensive margins of trade ambiguous. Testing the model’s predictions on Ukrainian food-processing firms in 2008–2013: more SPS regulation on upstream inputs is associated with exports of higher-quality products, while mandatory certification has a negative effect on quality by limiting firms’ access to new technology and equipment.
+</details>
+</span>
 </td>
 <td>
 <span class="listing-categories">ukraine, consultancy, firms, non-tariff-measures, firm-level</span>
@@ -585,12 +650,19 @@ Categories
 
 </tr>
 
-<tr data-index="8" data-categories="dWtyYWluZQ==" data-listing-date-sort="1577836800000" data-listing-file-modified-sort="1787430389888" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="49" data-listing-title-sort="Conflict and well-being of civilians: The case of the Russian-Ukrainian hybrid war" data-listing-filename-sort="ukraine-hybrid-war-wellbeing.qmd">
-<td>
-<span class="listing-date">Jan 1, 2020</span>
-</td>
+<tr data-index="8" data-categories="dWtyYWluZQ==" data-listing-date-sort="1577836800000" data-listing-file-modified-sort="1787432212122" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="49" data-listing-title-sort="Conflict and well-being of civilians: The case of the Russian-Ukrainian hybrid war" data-listing-filename-sort="ukraine-hybrid-war-wellbeing.qmd">
 <td>
 <a href="../research/papers/ukraine-hybrid-war-wellbeing.html" class="title listing-title">Conflict and well-being of civilians: The case of the Russian-Ukrainian hybrid war</a>
+</td>
+<td>
+<span class="listing-description"><strong>Economic Systems, 2020. With Maryna Osiichuk.</strong>
+<details class="abstract-toggle">
+<summary onclick="event.preventDefault(); event.stopPropagation(); this.closest('details').open = !this.closest('details').open;">
+Show abstract
+</summary>
+Using two large household surveys spanning 2012–2016 and a multi-dimensional concept of well-being, we estimate the contemporaneous effect of the Russian-Ukrainian hybrid war on civilians living outside the conflict zone in both countries. The conflict significantly worsened financial well-being, an effect that operates mostly through worsened expectations and that fades with distance from the conflict zone, and hit women’s financial well-being harder than men’s. Chronic disease increased in Ukraine over the longer term, while mental health effects appeared earlier and were more pronounced for men.
+</details>
+</span>
 </td>
 <td>
 <span class="listing-categories">ukraine</span>
@@ -598,12 +670,19 @@ Categories
 
 </tr>
 
-<tr data-index="9" data-categories="YnJleGl0JTJDY29uc3VsdGFuY3klMkNncmF2aXR5" data-listing-date-sort="1514764800000" data-listing-file-modified-sort="1787430389888" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="63" data-listing-title-sort="Post-Brexit trade survival: Looking beyond the European Union" data-listing-filename-sort="post-brexit-trade-survival.qmd">
-<td>
-<span class="listing-date">Jan 1, 2018</span>
-</td>
+<tr data-index="9" data-categories="YnJleGl0JTJDY29uc3VsdGFuY3klMkNncmF2aXR5" data-listing-date-sort="1514764800000" data-listing-file-modified-sort="1787432212122" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="63" data-listing-title-sort="Post-Brexit trade survival: Looking beyond the European Union" data-listing-filename-sort="post-brexit-trade-survival.qmd">
 <td>
 <a href="../research/papers/post-brexit-trade-survival.html" class="title listing-title">Post-Brexit trade survival: Looking beyond the European Union</a>
+</td>
+<td>
+<span class="listing-description"><strong>Economic Modelling, 2018. With Karen Jackson.</strong>
+<details class="abstract-toggle">
+<summary onclick="event.preventDefault(); event.stopPropagation(); this.closest('details').open = !this.closest('details').open;">
+Show abstract
+</summary>
+We explore the welfare implications of a new EU-UK relationship alongside major trade policy initiatives, evaluating five Brexit scenarios that vary in their assumptions about a UK-EU deal, TTIP, and new free trade agreements with the US or Commonwealth countries, tracking welfare changes over two decades. The impact of Brexit is negative under every scenario, with losses smallest under a soft Brexit and worse if TTIP proceeds — underscoring the value of large-bloc membership. Losses occur gradually and can be partly offset by new trade agreements, but a hard Brexit should be avoided to minimise them.
+</details>
+</span>
 </td>
 <td>
 <span class="listing-categories">brexit, consultancy, gravity</span>
@@ -611,12 +690,19 @@ Categories
 
 </tr>
 
-<tr data-index="10" data-categories="ZmlybXMlMkN1a3JhaW5lJTJDc2VydmljZXMtdHJhZGUlMkNmaXJtLWxldmVs" data-listing-date-sort="1420070400000" data-listing-file-modified-sort="1787430389888" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="59" data-listing-title-sort="Services liberalization and productivity of manufacturing firms" data-listing-filename-sort="services-liberalization-productivity.qmd">
-<td>
-<span class="listing-date">Jan 1, 2015</span>
-</td>
+<tr data-index="10" data-categories="ZmlybXMlMkN1a3JhaW5lJTJDc2VydmljZXMtdHJhZGUlMkNmaXJtLWxldmVs" data-listing-date-sort="1420070400000" data-listing-file-modified-sort="1787432212122" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="59" data-listing-title-sort="Services liberalization and productivity of manufacturing firms" data-listing-filename-sort="services-liberalization-productivity.qmd">
 <td>
 <a href="../research/papers/services-liberalization-productivity.html" class="title listing-title">Services liberalization and productivity of manufacturing firms</a>
+</td>
+<td>
+<span class="listing-description"><strong>The Economics of Transition, 2015. With Volodymyr Vakhitov.</strong>
+<details class="abstract-toggle">
+<summary onclick="event.preventDefault(); event.stopPropagation(); this.closest('details').open = !this.closest('details').open;">
+Show abstract
+</summary>
+Using a unique panel of Ukrainian firms from 2001 to 2007, we exploit an external push for services-sector liberalization as a source of exogenous variation to identify its effect on the total factor productivity of manufacturing firms that use those services as inputs. A one-standard-deviation increase in services liberalization raises firm TFP by 9.2%, an effect that is stronger for already-productive firms — driving a reallocation of resources within the industry — and reinforced dynamically through the investment channel; the effect is more pronounced for small, domestic firms.
+</details>
+</span>
 </td>
 <td>
 <span class="listing-categories">firms, ukraine, services-trade, firm-level</span>
@@ -624,12 +710,19 @@ Categories
 
 </tr>
 
-<tr data-index="11" data-categories="b3RoZXIlMkNpbnN0aXR1dGlvbnMlMkNzcGF0aWFsLWVjb25vbWV0cmljcw==" data-listing-date-sort="1356998400000" data-listing-file-modified-sort="1787430389888" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="53" data-listing-title-sort="Spatial spillovers in the development of institutions" data-listing-filename-sort="spatial-spillovers-institutions.qmd">
-<td>
-<span class="listing-date">Jan 1, 2013</span>
-</td>
+<tr data-index="11" data-categories="b3RoZXIlMkNpbnN0aXR1dGlvbnMlMkNzcGF0aWFsLWVjb25vbWV0cmljcw==" data-listing-date-sort="1356998400000" data-listing-file-modified-sort="1787432212122" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="53" data-listing-title-sort="Spatial spillovers in the development of institutions" data-listing-filename-sort="spatial-spillovers-institutions.qmd">
 <td>
 <a href="../research/papers/spatial-spillovers-institutions.html" class="title listing-title">Spatial spillovers in the development of institutions</a>
+</td>
+<td>
+<span class="listing-description"><strong>Journal of Development Economics, 2013. With Harry H. Kelejian and Peter Murrell.</strong>
+<details class="abstract-toggle">
+<summary onclick="event.preventDefault(); event.stopPropagation(); this.closest('details').open = !this.closest('details').open;">
+Show abstract
+</summary>
+We examine spatial spillovers in institutional development, where the explanatory variable of interest is the level of institutions in bordering countries — a spatial lag of the dependent variable — using new results in spatial econometrics to address the missing-data problems that usually plague spatial empirical work. Spatial institutional spillovers are statistically significant and economically important; a counterfactual removing the USSR reveals large direct and indirect spillovers, a result that holds up across yearly cross-sections, fixed-effects estimates, and numerous additional robustness checks.
+</details>
+</span>
 </td>
 <td>
 <span class="listing-categories">other, institutions, spatial-econometrics</span>
@@ -637,12 +730,19 @@ Categories
 
 </tr>
 
-<tr data-index="12" data-categories="b3RoZXIlMkN1cmJhbi1lY29ub21pY3MlMkN0cmFuc2l0aW9uLWVjb25vbWllcw==" data-listing-date-sort="1325376000000" data-listing-file-modified-sort="1787430389888" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="45" data-listing-title-sort="Cities in Transition" data-listing-filename-sort="cities-in-transition.qmd">
-<td>
-<span class="listing-date">Jan 1, 2012</span>
-</td>
+<tr data-index="12" data-categories="b3RoZXIlMkN1cmJhbi1lY29ub21pY3MlMkN0cmFuc2l0aW9uLWVjb25vbWllcw==" data-listing-date-sort="1325376000000" data-listing-file-modified-sort="1787432212122" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="45" data-listing-title-sort="Cities in Transition" data-listing-filename-sort="cities-in-transition.qmd">
 <td>
 <a href="../research/papers/cities-in-transition.html" class="title listing-title">Cities in Transition</a>
+</td>
+<td>
+<span class="listing-description"><strong>Comparative Economic Studies, 2012.</strong>
+<details class="abstract-toggle">
+<summary onclick="event.preventDefault(); event.stopPropagation(); this.closest('details').open = !this.closest('details').open;">
+Show abstract
+</summary>
+We examine urban development in transition countries from 1991 to 2010, focusing on the more recent decade. Socialist-era urban policy restrained the growth of the largest cities and pushed the spatial distribution of population toward artificial uniformity; the shift to a market economy is reducing these distortions, but convergence is slow. Housing market rigidities, inadequate urban infrastructure, and inconsistent government policy continue to prevent people from moving to the largest, most productive cities.
+</details>
+</span>
 </td>
 <td>
 <span class="listing-categories">other, urban-economics, transition-economies</span>
@@ -650,12 +750,19 @@ Categories
 
 </tr>
 
-<tr data-index="13" data-categories="b3RoZXIlMkNmZGklMkNzcGF0aWFsLWVjb25vbWV0cmljcyUyQ3RyYW5zaXRpb24tZWNvbm9taWVz" data-listing-date-sort="1325376000000" data-listing-file-modified-sort="1787430389888" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="55" data-listing-title-sort="Spatial complementarity of FDI: the example of transition countries" data-listing-filename-sort="spatial-complementarity-fdi.qmd">
-<td>
-<span class="listing-date">Jan 1, 2012</span>
-</td>
+<tr data-index="13" data-categories="b3RoZXIlMkNmZGklMkNzcGF0aWFsLWVjb25vbWV0cmljcyUyQ3RyYW5zaXRpb24tZWNvbm9taWVz" data-listing-date-sort="1325376000000" data-listing-file-modified-sort="1787432212122" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="55" data-listing-title-sort="Spatial complementarity of FDI: the example of transition countries" data-listing-filename-sort="spatial-complementarity-fdi.qmd">
 <td>
 <a href="../research/papers/spatial-complementarity-fdi.html" class="title listing-title">Spatial complementarity of FDI: the example of transition countries</a>
+</td>
+<td>
+<span class="listing-description"><strong>Post-Communist Economies, 2012.</strong>
+<details class="abstract-toggle">
+<summary onclick="event.preventDefault(); event.stopPropagation(); this.closest('details').open = !this.closest('details').open;">
+Show abstract
+</summary>
+We study the spatial determinants of FDI location — FDI in neighbouring countries and foreign market potential — across a panel of 25 transition countries from 1993 to 2010. Spatial FDI spillovers are positive and economically large; omitting them seriously misspecifies models of FDI location. The complementarity is stronger in disaggregated (bilateral, sector-level) data, with substantial heterogeneity across sectors: spillovers are large and positive in services but non-significant or even negative in manufacturing.
+</details>
+</span>
 </td>
 <td>
 <span class="listing-categories">other, fdi, spatial-econometrics, transition-economies</span>
@@ -1137,7 +1244,7 @@ Categories
 <span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="co">    type: table</span></span>
 <span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a><span class="co">    sort: "date desc"</span></span>
 <span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a><span class="co">    categories: true</span></span>
-<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a><span class="co">    fields: [date, title, categories]</span></span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a><span class="co">    fields: [title, description, categories]</span></span>
 <span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a><span class="co">    page-size: 50</span></span>
 <span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a><span class="co">  - id: published-research</span></span>
 <span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a><span class="co">    contents: papers</span></span>
@@ -1148,7 +1255,7 @@ Categories
 <span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a><span class="co">    categories: true</span></span>
 <span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a><span class="co">    filter-ui: true</span></span>
 <span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a><span class="co">    sort-ui: [date, title]</span></span>
-<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a><span class="co">    fields: [date, title, categories]</span></span>
+<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a><span class="co">    fields: [title, description, categories]</span></span>
 <span id="cb1-24"><a href="#cb1-24" aria-hidden="true" tabindex="-1"></a><span class="co">    page-size: 50</span></span>
 <span id="cb1-25"><a href="#cb1-25" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
 <span id="cb1-26"><a href="#cb1-26" aria-hidden="true" tabindex="-1"></a></span>
