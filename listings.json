@@ -4,17 +4,28 @@
     "items": [
       "/research/papers/tb-epidemic-productivity-ukraine.html",
       "/research/papers/agrifood-disintegration.html",
+      "/research/papers/ukraine-eu-digital-single-market.html",
+      "/research/papers/market-power-productivity-wages.html",
       "/research/papers/non-tariff-measures-quality-exporting.html",
       "/research/papers/ukraine-hybrid-war-wellbeing.html",
-      "/research/papers/services-liberalization-productivity.html"
+      "/research/papers/ukraine-exports-germany-diversification.html",
+      "/research/papers/political-uncertainty-fdi-intermediate-goods-ukraine.html",
+      "/research/papers/evolution-firm-level-distributions-ukraine.html",
+      "/research/papers/services-liberalization-productivity.html",
+      "/research/papers/gravity-model-eu-membership-ukraine.html"
     ]
   },
   {
     "listing": "/other/index.html",
     "items": [
+      "/research/papers/export-diversification-ee-cis.html",
       "/research/papers/spatial-spillovers-institutions.html",
+      "/research/papers/wto-accession-russia-tariff-rates.html",
       "/research/papers/cities-in-transition.html",
-      "/research/papers/spatial-complementarity-fdi.html"
+      "/research/papers/spatial-complementarity-fdi.html",
+      "/research/papers/three-point-win-soccer-match-fixing.html",
+      "/research/papers/unintended-consequences-soccer-three-point-rule.html",
+      "/research/papers/specific-tariffs-russia-import-structure.html"
     ]
   },
   {
@@ -22,9 +33,14 @@
     "items": [
       "/research/papers/brexit-services-exports.html",
       "/research/papers/covid-gvc-exporting.html",
+      "/research/papers/brexit-services-trade-longitudinal.html",
       "/research/papers/tb-epidemic-productivity-ukraine.html",
       "/research/papers/agrifood-disintegration.html",
+      "/research/papers/market-power-productivity-wages.html",
       "/research/papers/non-tariff-measures-quality-exporting.html",
+      "/research/papers/political-uncertainty-fdi-intermediate-goods-ukraine.html",
+      "/research/papers/evolution-firm-level-distributions-ukraine.html",
+      "/research/papers/seafood-ntm-export-margins.html",
       "/research/papers/services-liberalization-productivity.html"
     ]
   },
@@ -33,8 +49,13 @@
     "items": [
       "/research/papers/brexit-services-exports.html",
       "/research/papers/covid-gvc-exporting.html",
+      "/research/papers/trade-disintegration-agrifood-uk-eu-exit.html",
+      "/research/papers/brexit-services-trade-longitudinal.html",
+      "/research/papers/economic-disintegration-brexit-ntm.html",
       "/research/papers/eu-uk-agrifood-trade-future.html",
       "/research/papers/how-did-brexit-affect-uk-trade.html",
+      "/research/papers/uk-trade-covid-review.html",
+      "/research/papers/eu-trade-disintegration-scenarios.html",
       "/research/papers/post-brexit-trade-survival.html"
     ]
   },
@@ -47,8 +68,10 @@
   {
     "listing": "/consultancy/index.html",
     "items": [
+      "/research/papers/ukraine-eu-digital-single-market.html",
       "/research/papers/popular-support-trade-agreements.html",
       "/research/papers/non-tariff-measures-quality-exporting.html",
+      "/research/papers/ukraine-exports-germany-diversification.html",
       "/research/papers/post-brexit-trade-survival.html"
     ]
   },
@@ -61,56 +84,100 @@
       "/ukraine/index.html",
       "/firms/index.html",
       "/consultancy/index.html",
+      "/research/papers/return-of-protectionism-trump-tariffs.html",
+      "/research/papers/beyond-security-nato-trade.html",
       "/research/papers/brexit-services-exports.html",
       "/blog/2025-01-15-first-post/index.html",
       "/research/papers/covid-gvc-exporting.html",
+      "/research/papers/trade-disintegration-agrifood-uk-eu-exit.html",
+      "/research/papers/brexit-services-trade-longitudinal.html",
+      "/research/papers/economic-disintegration-brexit-ntm.html",
       "/research/papers/political-alliances-trade.html",
       "/research/papers/east-asia-trade-war-integration.html",
       "/research/papers/eu-uk-agrifood-trade-future.html",
       "/research/papers/how-did-brexit-affect-uk-trade.html",
       "/research/papers/tb-epidemic-productivity-ukraine.html",
+      "/research/papers/uk-trade-covid-review.html",
       "/research/papers/agrifood-disintegration.html",
+      "/research/papers/ukraine-eu-digital-single-market.html",
       "/research/papers/belt-and-road-china-dream.html",
+      "/research/papers/eu-trade-disintegration-scenarios.html",
       "/research/papers/popular-support-trade-agreements.html",
+      "/research/papers/market-power-productivity-wages.html",
       "/research/papers/non-tariff-measures-quality-exporting.html",
       "/research/papers/ukraine-hybrid-war-wellbeing.html",
+      "/research/papers/ukraine-exports-germany-diversification.html",
+      "/research/papers/trade-wars-good-easy-to-win.html",
+      "/research/papers/political-uncertainty-fdi-intermediate-goods-ukraine.html",
       "/research/papers/post-brexit-trade-survival.html",
+      "/research/papers/evolution-firm-level-distributions-ukraine.html",
+      "/research/papers/seafood-ntm-export-margins.html",
       "/research/papers/services-liberalization-productivity.html",
+      "/research/papers/export-diversification-ee-cis.html",
       "/research/papers/spatial-spillovers-institutions.html",
+      "/research/papers/wto-accession-russia-tariff-rates.html",
       "/research/papers/cities-in-transition.html",
-      "/research/papers/spatial-complementarity-fdi.html"
+      "/research/papers/spatial-complementarity-fdi.html",
+      "/research/papers/gravity-model-eu-membership-ukraine.html",
+      "/research/papers/three-point-win-soccer-match-fixing.html",
+      "/research/papers/unintended-consequences-soccer-three-point-rule.html",
+      "/research/papers/specific-tariffs-russia-import-structure.html"
     ]
   },
   {
     "listing": "/research/index.html",
     "items": [
+      "/research/papers/beyond-security-nato-trade.html",
       "/research/papers/covid-gvc-exporting.html",
+      "/research/papers/economic-disintegration-brexit-ntm.html",
       "/research/papers/eu-uk-agrifood-trade-future.html",
       "/research/papers/tb-epidemic-productivity-ukraine.html",
+      "/research/papers/market-power-productivity-wages.html",
+      "/research/papers/trade-wars-good-easy-to-win.html",
+      "/research/papers/political-uncertainty-fdi-intermediate-goods-ukraine.html",
+      "/research/papers/three-point-win-soccer-match-fixing.html",
+      "/research/papers/unintended-consequences-soccer-three-point-rule.html",
+      "/research/papers/return-of-protectionism-trump-tariffs.html",
       "/research/papers/brexit-services-exports.html",
+      "/research/papers/trade-disintegration-agrifood-uk-eu-exit.html",
+      "/research/papers/brexit-services-trade-longitudinal.html",
       "/research/papers/political-alliances-trade.html",
       "/research/papers/east-asia-trade-war-integration.html",
       "/research/papers/how-did-brexit-affect-uk-trade.html",
+      "/research/papers/uk-trade-covid-review.html",
       "/research/papers/agrifood-disintegration.html",
+      "/research/papers/ukraine-eu-digital-single-market.html",
       "/research/papers/belt-and-road-china-dream.html",
+      "/research/papers/eu-trade-disintegration-scenarios.html",
       "/research/papers/popular-support-trade-agreements.html",
       "/research/papers/non-tariff-measures-quality-exporting.html",
       "/research/papers/ukraine-hybrid-war-wellbeing.html",
+      "/research/papers/ukraine-exports-germany-diversification.html",
       "/research/papers/post-brexit-trade-survival.html",
+      "/research/papers/evolution-firm-level-distributions-ukraine.html",
+      "/research/papers/seafood-ntm-export-margins.html",
       "/research/papers/services-liberalization-productivity.html",
+      "/research/papers/export-diversification-ee-cis.html",
       "/research/papers/spatial-spillovers-institutions.html",
+      "/research/papers/wto-accession-russia-tariff-rates.html",
       "/research/papers/cities-in-transition.html",
-      "/research/papers/spatial-complementarity-fdi.html"
+      "/research/papers/spatial-complementarity-fdi.html",
+      "/research/papers/gravity-model-eu-membership-ukraine.html",
+      "/research/papers/specific-tariffs-russia-import-structure.html"
     ]
   },
   {
     "listing": "/trade-wars/index.html",
     "items": [
+      "/research/papers/return-of-protectionism-trump-tariffs.html",
+      "/research/papers/beyond-security-nato-trade.html",
       "/research/papers/political-alliances-trade.html",
       "/research/papers/east-asia-trade-war-integration.html",
       "/research/papers/agrifood-disintegration.html",
       "/research/papers/belt-and-road-china-dream.html",
-      "/research/papers/popular-support-trade-agreements.html"
+      "/research/papers/eu-trade-disintegration-scenarios.html",
+      "/research/papers/popular-support-trade-agreements.html",
+      "/research/papers/trade-wars-good-easy-to-win.html"
     ]
   }
 ]
