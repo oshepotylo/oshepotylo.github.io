@@ -13,13 +13,13 @@ about:
       href: https://github.com/oshepotylo
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com/in/shepotylo
-    - text: "Bluesky"
+      href: https://www.linkedin.com/in/oleksandr-shepotylo-b050353/
+    - text: "{{< iconify simple-icons bluesky >}} Bluesky"
       href: https://bsky.app/profile/shepotylo
-    - text: "Google Scholar"
-      href: https://scholar.google.com
-    - text: RePEc / IDEAS
-      href: https://ideas.repec.org
+    - text: "{{< iconify academicons googlescholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=6uHK_VcAAAAJ&hl=en
+    - text: "{{< iconify academicons repec >}} RePEc / IDEAS"
+      href: https://ideas.repec.org/e/psh191.html
 ---
 
 ## Bio

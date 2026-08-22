@@ -4,5 +4,6 @@
 .DS_Store
 Thumbs.db
 debug.log
+/.claude/
 
 **/*.quarto_ipynb
