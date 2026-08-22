@@ -1,0 +1,15 @@
+---
+title: "Belt and road: The China dream?"
+description: "China Economic Review, 2021. With Karen Jackson."
+date: "2021-01-01"
+categories: [trade-wars]
+---
+
+We assess whether participation in China's Belt and Road Initiative has
+delivered the trade gains its member countries were promised, using a
+structural gravity model to separate the initiative's effect from
+underlying trends already under way before countries signed on.
+
+**Published in:** *China Economic Review*, 67(C)
+
+[Aston Research Explorer](https://research.aston.ac.uk/en/persons/oleksandr-shepotylo/publications/)

@@ -1,0 +1,53 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: solana
+  image-shape: rounded
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:shepotylo@gmail.com
+    - icon: github
+      text: GitHub
+      href: https://github.com/shepotylo
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/shepotylo
+    - text: "Bluesky"
+      href: https://bsky.app/profile/shepotylo
+    - text: "Google Scholar"
+      href: https://scholar.google.com
+    - text: RePEc / IDEAS
+      href: https://ideas.repec.org
+---
+
+## Bio
+
+I am a Senior Lecturer in Economics at Aston Business School, and Chief
+Economist at the Foreign Trade Research Center (Trade+) at the Kyiv School
+of Economics. I hold a PhD in Economics from the University of Maryland.
+
+My research is applied international economics: how firms, industries, and
+countries grow by integrating into global markets, and what happens to that
+growth when integration goes into reverse — through Brexit, trade wars, or
+war itself. Current work spans UK services trade after Brexit, the trade
+effects of geopolitical alignment, and Ukraine's wartime export economy.
+
+Alongside academic research, I advise governments, firms, and institutions
+on trade policy — see [Consultancy](/consultancy/index.qmd).
+
+## Education
+
+- PhD in Economics, University of Maryland
+- \[Add prior degrees — MA/BA institution and field\]
+
+## Appointments
+
+- Senior Lecturer in Economics, Aston Business School
+- Chief Economist, Foreign Trade Research Center (Trade+), Kyiv School of Economics
+- \[Add prior appointments\]
+
+## CV
+
+[Download full CV (PDF)](cv.pdf)

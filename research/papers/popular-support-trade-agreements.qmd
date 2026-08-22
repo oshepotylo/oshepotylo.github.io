@@ -1,0 +1,18 @@
+---
+title: "Popular Support For Trade Agreements And Partner Country Characteristics"
+description: "Economic Inquiry, 2021. With Tom Coupé."
+date: "2021-01-01"
+categories: [consultancy, trade-wars]
+---
+
+Public support for a trade agreement depends not just on its expected
+economic effects but on characteristics of the partner country — including
+factors with no direct bearing on trade volumes, such as perceived
+political alignment and cultural distance. We use survey experiments to
+separate economic from non-economic drivers of trade-agreement support, with
+direct implications for how governments should sequence and communicate
+new trade deals.
+
+**Published in:** *Economic Inquiry*, 59(1), 549–566
+
+[Aston Research Explorer](https://research.aston.ac.uk/en/persons/oleksandr-shepotylo/publications/)

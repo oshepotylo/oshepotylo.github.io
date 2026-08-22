@@ -1,0 +1,19 @@
+---
+title: "How did the Brexit uncertainty impact services exports of UK firms?"
+description: "Journal of International Business Policy, 2025. With Jun Du and Xiaocan Yuan."
+date: "2025-03-01"
+categories: [brexit, services-trade, firm-level]
+doi: "10.1057/s42214-024-00202-6"
+---
+
+Brexit-related uncertainty had a measurable, negative effect on UK firms'
+services exports — distinct from, and in some respects larger than, the
+effect of the tariff and non-tariff barriers that eventually took effect.
+Using firm-level export data and a synthetic difference-in-differences
+design, we isolate the uncertainty channel from the trade-policy channel by
+comparing UK firms to a synthetic control built from firms in countries
+that faced no comparable shock.
+
+**Published in:** *Journal of International Business Policy*, 8(1), 80–104
+
+[Aston Research Explorer](https://research.aston.ac.uk/en/persons/oleksandr-shepotylo/publications/)

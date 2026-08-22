@@ -1,0 +1,77 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - CNAME
+  render:
+    - "*.qmd"
+    - "*.md"
+    - "!claude_code_instructions.md"
+    - "!README.md"
+
+website:
+  title: "Oleksandr Shepotylo"
+  description: "International trade, trade policy, and productivity"
+  site-url: "https://shepotylo.com"
+  repo-url: "https://github.com/shepotylo/shepotylo.github.io"
+
+  navbar:
+    background: white
+    search: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        menu:
+          - text: "All research"
+            href: research/index.qmd
+          - text: "---"
+          - text: "Brexit"
+            href: brexit/index.qmd
+          - text: "Trade Wars"
+            href: trade-wars/index.qmd
+          - text: "Ukraine"
+            href: ukraine/index.qmd
+      - text: "Consultancy"
+        href: consultancy/index.qmd
+      - text: "Blog"
+        href: blog.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "CV"
+        href: cv.pdf
+    right:
+      - icon: github
+        href: https://github.com/shepotylo
+      - icon: linkedin
+        href: https://linkedin.com/in/shepotylo
+      - text: "Bluesky"
+        href: https://bsky.app/profile/shepotylo
+      - icon: rss
+        href: blog.xml
+
+  page-footer:
+    left: "© 2026 Oleksandr Shepotylo"
+    center: "shepotylo@gmail.com"
+    right:
+      - icon: github
+        href: https://github.com/shepotylo
+      - icon: linkedin
+        href: https://linkedin.com/in/shepotylo
+
+format:
+  html:
+    theme:
+      - cosmo
+      - custom.scss
+    css: styles.css
+    toc: true
+    toc-location: right
+    code-fold: true
+    code-tools: true
+    highlight-style: github
+    mainfont: "Source Sans Pro"
+    monofont: "Source Code Pro"
+
+bibliography: references.bib
+csl: apa.csl

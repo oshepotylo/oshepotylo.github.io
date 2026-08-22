@@ -1,0 +1,32 @@
+---
+title: "Brexit"
+description: "What leaving the EU actually did to British trade — measured, not argued."
+image: ../images/themes/brexit.jpg
+listing:
+  - id: brexit-items
+    contents:
+      - "../blog/**/*.qmd"
+      - "../research/papers/*.qmd"
+    include:
+      categories: "brexit"
+    type: default
+    sort: "date desc"
+    categories: true
+    fields: [date, title, description, categories]
+    feed: true
+---
+
+Britain left the EU's single market in January 2021. This body of work tracks
+what actually happened to UK trade and firm performance in the years since —
+using firm-level and product-level data rather than the pre-referendum
+forecasts that dominated the public debate.
+
+**Services exports from the UK to Ireland fell sharply relative to a
+synthetic control once the Trade and Cooperation Agreement took effect** —
+one of the clearest firm-level signals yet that Brexit's costs have fallen
+disproportionately on services, not just goods.
+
+## Work
+
+::: {#brexit-items}
+:::

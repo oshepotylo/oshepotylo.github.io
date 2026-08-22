@@ -1,0 +1,34 @@
+---
+title: "Ukraine"
+description: "Exports, reconstruction, and whether an economy can win a war."
+image: ../images/themes/ukraine.jpg
+listing:
+  - id: ukraine-items
+    contents:
+      - "../blog/**/*.qmd"
+      - "../research/papers/*.qmd"
+    include:
+      categories: "ukraine"
+    type: default
+    sort: "date desc"
+    categories: true
+    fields: [date, title, description, categories]
+    feed: true
+---
+
+Ukraine's wartime economy depends on exports it can no longer easily ship
+and reconstruction it cannot yet finance. This hub gathers work on export
+diversification away from Russia-exposed routes, agrifood market access to
+the EU, export promotion policy, and the broader research programme run
+through the Kyiv School of Economics Foreign Trade Research Center
+(Trade+).
+
+**Ukrainian exporters that diversified destination markets before 2022
+were significantly more resilient through the first two years of the
+full-scale invasion** — diversification acted as insurance the market
+priced too cheaply beforehand.
+
+## Work
+
+::: {#ukraine-items}
+:::

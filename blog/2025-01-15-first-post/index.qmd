@@ -1,0 +1,17 @@
+---
+title: "Welcome"
+description: "Why this site exists, and what to expect from it."
+date: "2025-01-15"
+categories: [meta]
+---
+
+This site collects my research, commentary, and policy work on international
+trade — organised by theme rather than by publication type. Three research
+programmes anchor it at launch: the trade consequences of Brexit, the
+fragmentation of trade under renewed great-power rivalry, and Ukraine's
+wartime export economy. A fourth section, [Consultancy](/consultancy/index.qmd),
+describes the policy advisory work that runs alongside the academic research.
+
+Posts here will track new papers, data findings, and commentary as they
+happen, each tagged into the relevant theme so the hub pages stay current.
+The RSS feed (top right) is the best way to follow along.

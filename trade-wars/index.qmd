@@ -1,0 +1,32 @@
+---
+title: "Trade Wars"
+description: "When allies coerce, markets fragment, and geopolitics rewrites the trade map."
+image: ../images/themes/trade-wars.jpg
+listing:
+  - id: trade-wars-items
+    contents:
+      - "../blog/**/*.qmd"
+      - "../research/papers/*.qmd"
+    include:
+      categories: "trade-wars"
+    type: default
+    sort: "date desc"
+    categories: true
+    fields: [date, title, description, categories]
+    feed: true
+---
+
+Trade policy is once again a geopolitical instrument. This hub covers the
+US–China trade war, the use of tariffs and export controls as tools of
+economic coercion, political alliances as predictors of trade flows, and
+what retaliation actually costs the countries that impose it.
+
+**Political alignment is now a statistically significant predictor of
+bilateral trade flows, independent of standard gravity-model
+fundamentals** — trade is following geopolitics, not just the other way
+around.
+
+## Work
+
+::: {#trade-wars-items}
+:::

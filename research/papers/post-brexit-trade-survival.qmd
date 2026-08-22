@@ -1,0 +1,18 @@
+---
+title: "Post-Brexit trade survival: Looking beyond the European Union"
+description: "Economic Modelling, 2018. With Karen Jackson."
+date: "2018-01-01"
+categories: [brexit, consultancy, gravity]
+---
+
+Before the UK left the EU, we modelled how UK trade relationships with
+non-EU partners were likely to evolve once preferential access to the
+single market ended — asking whether new or renegotiated third-country
+agreements could plausibly offset the loss. The structural gravity
+estimates from this paper became a reference point for subsequent
+post-Brexit impact assessments, including several used in policy
+submissions.
+
+**Published in:** *Economic Modelling*, 73(C), 317–328
+
+[Aston Research Explorer](https://research.aston.ac.uk/en/persons/oleksandr-shepotylo/publications/)

@@ -1,0 +1,22 @@
+---
+title: "Research"
+description: "Complete list of publications, working papers, and preprints."
+listing:
+  - id: all-research
+    contents: papers
+    type: table
+    sort: "date desc"
+    categories: true
+    filter-ui: true
+    sort-ui: [date, title]
+    fields: [date, title, categories]
+    page-size: 50
+---
+
+The complete, unfiltered list of publications, working papers, and preprints —
+filter or sort using the controls below. For the framing, headline findings,
+and policy context behind this work, see the thematic hubs: [Brexit](/brexit/index.qmd),
+[Trade Wars](/trade-wars/index.qmd), and [Ukraine](/ukraine/index.qmd).
+
+::: {#all-research}
+:::

@@ -1,0 +1,16 @@
+---
+title: "Blog"
+description: "Commentary and analysis on trade policy, Brexit, and the war economy."
+listing:
+  - id: blog-posts
+    contents: blog
+    type: default
+    sort: "date desc"
+    categories: true
+    feed: true
+    fields: [date, title, description, categories]
+page-layout: full
+---
+
+::: {#blog-posts}
+:::

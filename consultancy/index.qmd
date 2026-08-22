@@ -1,0 +1,40 @@
+---
+title: "Consultancy & Policy"
+description: "Trade policy analysis for governments, firms, and institutions."
+image: ../images/themes/consultancy.jpg
+listing:
+  - id: policy-work
+    contents:
+      - "../blog/**/*.qmd"
+      - "../research/papers/*.qmd"
+    include:
+      categories: "consultancy"
+    type: table
+    sort: "date desc"
+    fields: [date, title, description]
+---
+
+## What I do
+
+- Quantitative trade policy analysis — tariff, non-tariff, and trade
+  agreement impact assessment using firm- and product-level data
+- Export strategy and market access diagnostics for firms and industry
+  bodies
+- Country and sector trade exposure assessments
+- Expert commentary, briefings, and evidence submissions for policymakers
+  and journalists
+
+## Who I work with
+
+Government trade and economics departments, international organisations,
+industry associations, and research centres — including the Kyiv School of
+Economics Foreign Trade Research Center (Trade+) and Aston Business School.
+
+## How to engage
+
+The fastest way to reach me is email: [shepotylo@gmail.com](mailto:shepotylo@gmail.com).
+
+## Selected policy work
+
+::: {#policy-work}
+:::

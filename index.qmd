@@ -1,0 +1,43 @@
+---
+title: "Oleksandr Shepotylo"
+subtitle: "International trade, trade policy, and productivity"
+page-layout: full
+toc: false
+listing:
+  - id: theme-tiles
+    contents:
+      - brexit/index.qmd
+      - trade-wars/index.qmd
+      - ukraine/index.qmd
+      - consultancy/index.qmd
+    type: grid
+    grid-columns: 2
+    image-height: "200px"
+    fields: [image, title, description]
+    sort: false
+  - id: recent-items
+    contents:
+      - "blog/**/*.qmd"
+      - "research/papers/*.qmd"
+    type: default
+    sort: "date desc"
+    max-items: 5
+    fields: [date, title, description, categories]
+---
+
+::: {#theme-tiles}
+:::
+
+---
+
+Senior Lecturer in Economics, Aston Business School.
+Chief Economist, Foreign Trade Research Center (Trade+), Kyiv School of Economics.
+PhD in Economics, University of Maryland.
+
+I work on how firms, industries, and countries grow by integrating into global
+markets — and what happens when that integration goes into reverse.
+
+## Recent
+
+::: {#recent-items}
+:::

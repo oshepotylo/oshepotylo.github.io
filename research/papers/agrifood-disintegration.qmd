@@ -1,0 +1,18 @@
+---
+title: "Non-tariff measures and productivity of Ukrainian food-processing firms"
+description: "Journal of Agricultural Economics, 2022. With Volodymyr Vakhitov, Veronika Movchan, and Mariia Panga."
+date: "2022-01-01"
+categories: [ukraine, trade-wars, agrifood, non-tariff-measures, firm-level]
+---
+
+Non-tariff measures imposed by trading partners act as a quality filter on
+Ukrainian food-processing exporters: firms that clear them see productivity
+gains, while the compliance costs push less productive firms out of export
+markets entirely. Using firm-level microdata, we separate this
+selection effect from the direct within-firm productivity effect of
+meeting stricter standards — evidence directly relevant to Ukraine's
+ongoing agrifood market access negotiations with the EU.
+
+**Published in:** *Journal of Agricultural Economics*, 73(1), 234–256
+
+[Aston Research Explorer](https://research.aston.ac.uk/en/persons/oleksandr-shepotylo/publications/)

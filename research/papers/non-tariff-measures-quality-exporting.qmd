@@ -1,0 +1,16 @@
+---
+title: "Non-tariff measures, quality and exporting: evidence from microdata"
+description: "European Review of Agricultural Economics, 2020. With Veronika Movchan and Volodymyr Vakhitov."
+date: "2020-01-01"
+categories: [ukraine, consultancy, non-tariff-measures, firm-level]
+---
+
+Non-tariff measures are often treated in policy debate as pure trade
+friction, but firm-level evidence shows they also act as a quality signal:
+compliance raises the price premium exporters can command in destination
+markets, partially offsetting the compliance cost. We quantify this
+trade-off using product-level export microdata.
+
+**Published in:** *European Review of Agricultural Economics*, 47(2), 719–751
+
+[Aston Research Explorer](https://research.aston.ac.uk/en/persons/oleksandr-shepotylo/publications/)

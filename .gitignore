@@ -1,0 +1,8 @@
+/.quarto/
+/_site/
+/_freeze/
+.DS_Store
+Thumbs.db
+debug.log
+
+**/*.quarto_ipynb
