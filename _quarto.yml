@@ -13,7 +13,7 @@ website:
   title: "Oleksandr Shepotylo"
   description: "International trade, trade policy, and productivity"
   site-url: "https://shepotylo.com"
-  repo-url: "https://github.com/shepotylo/shepotylo.github.io"
+  repo-url: "https://github.com/oshepotylo/oshepotylo.github.io"
 
   navbar:
     background: white
@@ -42,7 +42,7 @@ website:
         href: cv.pdf
     right:
       - icon: github
-        href: https://github.com/shepotylo
+        href: https://github.com/oshepotylo
       - icon: linkedin
         href: https://linkedin.com/in/shepotylo
       - text: "Bluesky"
@@ -55,7 +55,7 @@ website:
     center: "shepotylo@gmail.com"
     right:
       - icon: github
-        href: https://github.com/shepotylo
+        href: https://github.com/oshepotylo
       - icon: linkedin
         href: https://linkedin.com/in/shepotylo
 

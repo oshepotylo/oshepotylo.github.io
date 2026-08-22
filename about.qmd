@@ -10,7 +10,7 @@ about:
       href: mailto:shepotylo@gmail.com
     - icon: github
       text: GitHub
-      href: https://github.com/shepotylo
+      href: https://github.com/oshepotylo
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com/in/shepotylo
