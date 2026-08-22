@@ -29,7 +29,7 @@ about:
 
 ## Bio
 
-I am a Senior Lecturer in Economics at Aston Business School, and Chief
+I am a Reader in Economics at Aston Business School, and Chief
 Economist at the Foreign Trade Research Center (Trade+) at the Kyiv School
 of Economics. I hold a PhD in Economics from the University of Maryland.
 
@@ -49,7 +49,7 @@ on trade policy — see [Consultancy](/consultancy/index.qmd).
 
 ## Appointments
 
-- Senior Lecturer in Economics, Aston Business School
+- Reader in Economics, Aston Business School
 - Chief Economist, Foreign Trade Research Center (Trade+), Kyiv School of Economics
 - \[Add prior appointments\]
 
