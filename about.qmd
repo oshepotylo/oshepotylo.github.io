@@ -18,6 +18,8 @@ about:
       href: https://bsky.app/profile/shepotylo
     - text: "{{< iconify simple-icons substack >}} Substack"
       href: https://oleksandrshepotylo.substack.com/
+    - text: "{{< iconify academicons orcid >}} ORCID"
+      href: https://orcid.org/0000-0003-4990-6025
     - text: "{{< iconify academicons googlescholar >}} Google Scholar"
       href: https://scholar.google.com/citations?user=6uHK_VcAAAAJ&hl=en
     - text: "{{< iconify academicons repec >}} RePEc / IDEAS"
