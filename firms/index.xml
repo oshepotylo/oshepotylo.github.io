@@ -6,16 +6,40 @@
       version="2.0">
 <channel>
 <title>Oleksandr Shepotylo</title>
-<link>https://shepotylo.com/ukraine/</link>
-<atom:link href="https://shepotylo.com/ukraine/index.xml" rel="self" type="application/rss+xml"/>
-<description>Exports, reconstruction, and whether an economy can win a war.</description>
+<link>https://shepotylo.com/firms/</link>
+<atom:link href="https://shepotylo.com/firms/index.xml" rel="self" type="application/rss+xml"/>
+<description>What trade policy actually does at the level of the firm.</description>
 <image>
-<url>https://shepotylo.com/../images/themes/ukraine.jpg</url>
+<url>https://shepotylo.com/../images/themes/firms.jpg</url>
 <title>Oleksandr Shepotylo</title>
-<link>https://shepotylo.com/ukraine/</link>
+<link>https://shepotylo.com/firms/</link>
 </image>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Sat, 01 Jan 2022 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 01 Mar 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>How did the Brexit uncertainty impact services exports of UK firms?</title>
+  <link>https://shepotylo.com/research/papers/brexit-services-exports.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Brexit-related uncertainty had a measurable, negative effect on UK firms’ services exports — distinct from, and in some respects larger than, the effect of the tariff and non-tariff barriers that eventually took effect. Using firm-level export data and a synthetic difference-in-differences design, we isolate the uncertainty channel from the trade-policy channel by comparing UK firms to a synthetic control built from firms in countries that faced no comparable shock.</p>
+<p><strong>Published in:</strong> <em>Journal of International Business Policy</em>, 8(1), 80–104</p>
+<p><a href="https://research.aston.ac.uk/en/persons/oleksandr-shepotylo/publications/">Aston Research Explorer</a></p>
+
+
+<!-- -->
+
+
+ ]]></description>
+  <category>brexit</category>
+  <category>firms</category>
+  <category>services-trade</category>
+  <category>firm-level</category>
+  <guid>https://shepotylo.com/research/papers/brexit-services-exports.html</guid>
+  <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Non-tariff measures and productivity of Ukrainian food-processing firms</title>
   <link>https://shepotylo.com/research/papers/agrifood-disintegration.html</link>
@@ -65,27 +89,6 @@
   <category>non-tariff-measures</category>
   <category>firm-level</category>
   <guid>https://shepotylo.com/research/papers/non-tariff-measures-quality-exporting.html</guid>
-  <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Conflict and well-being of civilians: The case of the Russian-Ukrainian hybrid war</title>
-  <link>https://shepotylo.com/research/papers/ukraine-hybrid-war-wellbeing.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Using survey data collected before and after the outbreak of hybrid warfare in eastern Ukraine in 2014, we estimate the effect of proximity to conflict on self-reported well-being and economic security — evidence that predates, and helps contextualise, the much larger shock of the 2022 full-scale invasion.</p>
-<p><strong>Published in:</strong> <em>Economic Systems</em>, 44(1)</p>
-<p><a href="https://research.aston.ac.uk/en/persons/oleksandr-shepotylo/publications/">Aston Research Explorer</a></p>
-
-
-<!-- -->
-
-
- ]]></description>
-  <category>ukraine</category>
-  <guid>https://shepotylo.com/research/papers/ukraine-hybrid-war-wellbeing.html</guid>
   <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
 </item>
 <item>

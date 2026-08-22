@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Oleksandr Shepotylo</title>
+<link>https://shepotylo.com/other/</link>
+<atom:link href="https://shepotylo.com/other/index.xml" rel="self" type="application/rss+xml"/>
+<description>Development, institutions, and spatial economics — work outside the four main hubs.</description>
+<image>
+<url>https://shepotylo.com/../images/themes/other.jpg</url>
+<title>Oleksandr Shepotylo</title>
+<link>https://shepotylo.com/other/</link>
+</image>
+<generator>quarto-1.10.18</generator>
+<lastBuildDate>Tue, 01 Jan 2013 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Spatial spillovers in the development of institutions</title>
+  <link>https://shepotylo.com/research/papers/spatial-spillovers-institutions.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Institutional quality in one country is not independent of institutional quality next door: reform and dysfunction both spread across borders. We develop a spatial econometric framework to estimate these cross-country spillovers directly, rather than treating each country’s institutions as determined purely by its own history and policy choices.</p>
+<p><strong>Published in:</strong> <em>Journal of Development Economics</em>, 101(C), 297–315</p>
+<p><a href="https://research.aston.ac.uk/en/persons/oleksandr-shepotylo/publications/">Aston Research Explorer</a></p>
+
+
+<!-- -->
+
+
+ ]]></description>
+  <category>other</category>
+  <category>institutions</category>
+  <category>spatial-econometrics</category>
+  <guid>https://shepotylo.com/research/papers/spatial-spillovers-institutions.html</guid>
+  <pubDate>Tue, 01 Jan 2013 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Cities in Transition</title>
+  <link>https://shepotylo.com/research/papers/cities-in-transition.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Post-socialist cities inherited industrial geographies built for central planning, not markets. This paper tracks how urban economic structure in transition countries evolved after 1991 — which cities adapted, which stayed locked into declining industries, and what that implies for regional policy.</p>
+<p><strong>Published in:</strong> <em>Comparative Economic Studies</em>, 54(3), 661–688</p>
+<p><a href="https://research.aston.ac.uk/en/persons/oleksandr-shepotylo/publications/">Aston Research Explorer</a></p>
+
+
+<!-- -->
+
+
+ ]]></description>
+  <category>other</category>
+  <category>urban-economics</category>
+  <category>transition-economies</category>
+  <guid>https://shepotylo.com/research/papers/cities-in-transition.html</guid>
+  <pubDate>Sun, 01 Jan 2012 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Spatial complementarity of FDI: the example of transition countries</title>
+  <link>https://shepotylo.com/research/papers/spatial-complementarity-fdi.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Foreign direct investment into one transition country raises, rather than diverts, FDI into its neighbours — the opposite of the substitution effect that simple location-competition models predict. We show FDI flows into this region are spatial complements, most plausibly through shared supply chains and demonstration effects on investor perceptions of the wider region.</p>
+<p><strong>Published in:</strong> <em>Post-Communist Economies</em>, 24(3), 327–349</p>
+<p><a href="https://research.aston.ac.uk/en/persons/oleksandr-shepotylo/publications/">Aston Research Explorer</a></p>
+
+
+<!-- -->
+
+
+ ]]></description>
+  <category>other</category>
+  <category>fdi</category>
+  <category>spatial-econometrics</category>
+  <category>transition-economies</category>
+  <guid>https://shepotylo.com/research/papers/spatial-complementarity-fdi.html</guid>
+  <pubDate>Sun, 01 Jan 2012 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
