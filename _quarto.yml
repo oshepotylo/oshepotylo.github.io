@@ -33,6 +33,10 @@ website:
             href: trade-wars/index.qmd
           - text: "Ukraine"
             href: ukraine/index.qmd
+          - text: "Firms"
+            href: firms/index.qmd
+          - text: "Other"
+            href: other/index.qmd
       - text: "Consultancy"
         href: consultancy/index.qmd
       - text: "Blog"

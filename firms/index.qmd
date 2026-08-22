@@ -1,0 +1,34 @@
+---
+title: "Firms"
+description: "What trade policy actually does at the level of the firm."
+image: ../images/themes/firms.jpg
+listing:
+  - id: firms-items
+    contents:
+      - "../blog/**/*.qmd"
+      - "../research/papers/*.qmd"
+    include:
+      categories: "firms"
+    type: default
+    sort: "date desc"
+    categories: true
+    fields: [date, title, description, categories]
+    feed: true
+---
+
+Trade shocks and trade policy don't hit "the economy" — they hit individual
+firms, unevenly, depending on what they export, how they're organised, and
+how productive they already were. This hub collects the firm- and
+product-level microdata work that sits underneath the country-level
+headlines in the other hubs.
+
+**Compliance with non-tariff measures acts as a quality filter: firms that
+clear stricter standards see productivity and price-premium gains, while
+firms that can't absorb the compliance cost exit export markets
+entirely** — a pattern that shows up across Ukrainian food-processing,
+UK services exports, and Ukrainian manufacturing alike.
+
+## Work
+
+::: {#firms-items}
+:::

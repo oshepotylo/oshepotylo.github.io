@@ -1,0 +1,16 @@
+---
+title: "Cities in Transition"
+description: "Comparative Economic Studies, 2012."
+date: "2012-01-01"
+categories: [other, urban-economics, transition-economies]
+---
+
+Post-socialist cities inherited industrial geographies built for central
+planning, not markets. This paper tracks how urban economic structure in
+transition countries evolved after 1991 — which cities adapted, which
+stayed locked into declining industries, and what that implies for
+regional policy.
+
+**Published in:** *Comparative Economic Studies*, 54(3), 661–688
+
+[Aston Research Explorer](https://research.aston.ac.uk/en/persons/oleksandr-shepotylo/publications/)

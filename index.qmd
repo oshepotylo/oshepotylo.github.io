@@ -8,10 +8,12 @@ listing:
     contents:
       - brexit/index.qmd
       - trade-wars/index.qmd
+      - other/index.qmd
       - ukraine/index.qmd
+      - firms/index.qmd
       - consultancy/index.qmd
     type: grid
-    grid-columns: 2
+    grid-columns: 3
     image-height: "200px"
     fields: [image, title, description]
     sort: false

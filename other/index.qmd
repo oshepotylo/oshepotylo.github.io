@@ -1,0 +1,28 @@
+---
+title: "Other"
+description: "Development, institutions, and spatial economics — work outside the four main hubs."
+image: ../images/themes/other.jpg
+listing:
+  - id: other-items
+    contents:
+      - "../blog/**/*.qmd"
+      - "../research/papers/*.qmd"
+    include:
+      categories: "other"
+    type: default
+    sort: "date desc"
+    categories: true
+    fields: [date, title, description, categories]
+    feed: true
+---
+
+Not everything fits neatly under Brexit, Trade Wars, Ukraine, or Firms.
+This hub holds earlier and adjacent work on institutions, urban economics,
+and foreign direct investment in transition economies — the spatial
+econometrics toolkit that still underpins much of the trade work in the
+other hubs.
+
+## Work
+
+::: {#other-items}
+:::

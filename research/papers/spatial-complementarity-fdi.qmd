@@ -1,0 +1,17 @@
+---
+title: "Spatial complementarity of FDI: the example of transition countries"
+description: "Post-Communist Economies, 2012."
+date: "2012-01-01"
+categories: [other, fdi, spatial-econometrics, transition-economies]
+---
+
+Foreign direct investment into one transition country raises, rather than
+diverts, FDI into its neighbours — the opposite of the substitution effect
+that simple location-competition models predict. We show FDI flows into
+this region are spatial complements, most plausibly through shared supply
+chains and demonstration effects on investor perceptions of the wider
+region.
+
+**Published in:** *Post-Communist Economies*, 24(3), 327–349
+
+[Aston Research Explorer](https://research.aston.ac.uk/en/persons/oleksandr-shepotylo/publications/)

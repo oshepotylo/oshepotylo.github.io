@@ -1,0 +1,17 @@
+---
+title: "Services liberalization and productivity of manufacturing firms"
+description: "The Economics of Transition, 2015. With Volodymyr Vakhitov."
+date: "2015-01-01"
+categories: [firms, ukraine, services-trade, firm-level]
+---
+
+Liberalizing services sectors — telecoms, transport, finance — raises the
+productivity of the manufacturing firms that use those services as inputs,
+not just the productivity of the liberalized sector itself. Using
+Ukrainian firm-level panel data, we trace this indirect productivity
+channel and show it is large enough to matter for the sequencing of
+liberalization reforms.
+
+**Published in:** *The Economics of Transition*, 23(1), 1–44
+
+[Aston Research Explorer](https://research.aston.ac.uk/en/persons/oleksandr-shepotylo/publications/)

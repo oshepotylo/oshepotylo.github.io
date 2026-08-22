@@ -2,7 +2,7 @@
 title: "Non-tariff measures and productivity of Ukrainian food-processing firms"
 description: "Journal of Agricultural Economics, 2022. With Volodymyr Vakhitov, Veronika Movchan, and Mariia Panga."
 date: "2022-01-01"
-categories: [ukraine, trade-wars, agrifood, non-tariff-measures, firm-level]
+categories: [ukraine, trade-wars, firms, agrifood, non-tariff-measures, firm-level]
 ---
 
 Non-tariff measures imposed by trading partners act as a quality filter on

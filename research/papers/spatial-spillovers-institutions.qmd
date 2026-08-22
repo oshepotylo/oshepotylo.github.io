@@ -1,0 +1,16 @@
+---
+title: "Spatial spillovers in the development of institutions"
+description: "Journal of Development Economics, 2013. With Harry H. Kelejian and Peter Murrell."
+date: "2013-01-01"
+categories: [other, institutions, spatial-econometrics]
+---
+
+Institutional quality in one country is not independent of institutional
+quality next door: reform and dysfunction both spread across borders. We
+develop a spatial econometric framework to estimate these cross-country
+spillovers directly, rather than treating each country's institutions as
+determined purely by its own history and policy choices.
+
+**Published in:** *Journal of Development Economics*, 101(C), 297–315
+
+[Aston Research Explorer](https://research.aston.ac.uk/en/persons/oleksandr-shepotylo/publications/)
