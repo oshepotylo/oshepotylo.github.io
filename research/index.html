@@ -116,7 +116,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-all-research .list');
+    const listingTargetEl = window.document.querySelector('#listing-wip-research .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
@@ -129,7 +129,35 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-all-research'] = new List('listing-all-research', options);
+    window['quarto-listings']['listing-wip-research'] = new List('listing-wip-research', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-published-research .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-published-research'] = new List('listing-published-research', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -282,8 +310,15 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(14)</span></div><div class="category" data-category="YWdyaWZvb2Q=">agrifood <span class="quarto-category-count">(1)</span></div><div class="category" data-category="YnJleGl0">brexit <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Y29uc3VsdGFuY3k=">consultancy <span class="quarto-category-count">(3)</span></div><div class="category" data-category="ZmRp">fdi <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZmlybS1sZXZlbA==">firm-level <span class="quarto-category-count">(4)</span></div><div class="category" data-category="ZmlybXM=">firms <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Z3Jhdml0eQ==">gravity <span class="quarto-category-count">(2)</span></div><div class="category" data-category="aW5zdGl0dXRpb25z">institutions <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bm9uLXRhcmlmZi1tZWFzdXJlcw==">non-tariff-measures <span class="quarto-category-count">(2)</span></div><div class="category" data-category="b3RoZXI=">other <span class="quarto-category-count">(3)</span></div><div class="category" data-category="cG9saXRpY2FsLWVjb25vbXk=">political-economy <span class="quarto-category-count">(1)</span></div><div class="category" data-category="c2VydmljZXMtdHJhZGU=">services-trade <span class="quarto-category-count">(2)</span></div><div class="category" data-category="c3BhdGlhbC1lY29ub21ldHJpY3M=">spatial-econometrics <span class="quarto-category-count">(2)</span></div><div class="category" data-category="dHJhZGUtd2Fycw==">trade-wars <span class="quarto-category-count">(5)</span></div><div class="category" data-category="dHJhbnNpdGlvbi1lY29ub21pZXM=">transition-economies <span class="quarto-category-count">(2)</span></div><div class="category" data-category="dWtyYWluZQ==">ukraine <span class="quarto-category-count">(4)</span></div><div class="category" data-category="dXJiYW4tZWNvbm9taWNz">urban-economics <span class="quarto-category-count">(1)</span></div></div></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#work-in-progress" id="toc-work-in-progress" class="nav-link active" data-scroll-target="#work-in-progress">Work in Progress</a></li>
+  <li><a href="#published" id="toc-published" class="nav-link" data-scroll-target="#published">Published</a></li>
+  </ul>
+</nav>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(17)</span></div><div class="category" data-category="YWdyaWZvb2Q=">agrifood <span class="quarto-category-count">(2)</span></div><div class="category" data-category="YnJleGl0">brexit <span class="quarto-category-count">(5)</span></div><div class="category" data-category="Y29uc3VsdGFuY3k=">consultancy <span class="quarto-category-count">(3)</span></div><div class="category" data-category="ZmRp">fdi <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZmlybS1sZXZlbA==">firm-level <span class="quarto-category-count">(4)</span></div><div class="category" data-category="ZmlybXM=">firms <span class="quarto-category-count">(6)</span></div><div class="category" data-category="Z3Jhdml0eQ==">gravity <span class="quarto-category-count">(2)</span></div><div class="category" data-category="aW5zdGl0dXRpb25z">institutions <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bm9uLXRhcmlmZi1tZWFzdXJlcw==">non-tariff-measures <span class="quarto-category-count">(2)</span></div><div class="category" data-category="b3RoZXI=">other <span class="quarto-category-count">(3)</span></div><div class="category" data-category="cG9saXRpY2FsLWVjb25vbXk=">political-economy <span class="quarto-category-count">(1)</span></div><div class="category" data-category="c2VydmljZXMtdHJhZGU=">services-trade <span class="quarto-category-count">(2)</span></div><div class="category" data-category="c3BhdGlhbC1lY29ub21ldHJpY3M=">spatial-econometrics <span class="quarto-category-count">(2)</span></div><div class="category" data-category="dHJhZGUtd2Fycw==">trade-wars <span class="quarto-category-count">(5)</span></div><div class="category" data-category="dHJhbnNpdGlvbi1lY29ub21pZXM=">transition-economies <span class="quarto-category-count">(2)</span></div><div class="category" data-category="dWtyYWluZQ==">ukraine <span class="quarto-category-count">(5)</span></div><div class="category" data-category="dXJiYW4tZWNvbm9taWNz">urban-economics <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -311,12 +346,14 @@ window.Quarto = {
 </header>
 
 
-<p>The complete, unfiltered list of publications, working papers, and preprints — filter or sort using the controls below. For the framing, headline findings, and policy context behind this work, see the thematic hubs: <a href="../brexit/index.html">Brexit</a>, <a href="../trade-wars/index.html">Trade Wars</a>, and <a href="../ukraine/index.html">Ukraine</a>.</p>
-<div id="listing-all-research" class="quarto-listing quarto-listing-container-table">
+<p>The complete, unfiltered list of publications, working papers, and preprints — filter or sort using the controls below. For the framing, headline findings, and policy context behind this work, see the thematic hubs: <a href="../brexit/index.html">Brexit</a>, <a href="../trade-wars/index.html">Trade Wars</a>, <a href="../ukraine/index.html">Ukraine</a>, and <a href="../firms/index.html">Firms</a>.</p>
+<section id="work-in-progress" class="level2">
+<h2 class="anchored" data-anchor-id="work-in-progress">Work in Progress</h2>
+<div id="listing-wip-research" class="quarto-listing quarto-listing-container-table">
 <div class="listing-actions-group">
    <div class="input-group input-group-sm quarto-listing-sort">
     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-    <select id="listing-all-research-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-all-research'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+    <select id="listing-wip-research-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-wip-research'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
       <option value="" disabled="" selected="" hidden="">Order By</option>
       <option value="index" data-direction="asc">Default</option>
       <option value="listing-date-sort" data-direction="asc">
@@ -355,7 +392,96 @@ Categories
 </thead>
 <tbody class="list">
 
-<tr data-index="0" data-categories="YnJleGl0JTJDZmlybXMlMkNzZXJ2aWNlcy10cmFkZSUyQ2Zpcm0tbGV2ZWw=" data-listing-date-sort="1740787200000" data-listing-file-modified-sort="1787429909854" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="73" data-listing-title-sort="How did the Brexit uncertainty impact services exports of UK firms?" data-listing-filename-sort="brexit-services-exports.qmd">
+<tr data-index="0" data-categories="ZmlybXMlMkNicmV4aXQ=" data-listing-date-sort="1735689600000" data-listing-file-modified-sort="1787430389888" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="61" data-listing-title-sort="Shocked by COVID: Exporting along global value chains" data-listing-filename-sort="covid-gvc-exporting.qmd">
+<td>
+<span class="listing-date">Jan 1, 2025</span>
+</td>
+<td>
+<a href="../research/papers/covid-gvc-exporting.html" class="title listing-title">Shocked by COVID: Exporting along global value chains</a>
+</td>
+<td>
+<span class="listing-categories">firms, brexit</span>
+</td>
+
+</tr>
+
+<tr data-index="1" data-categories="YnJleGl0JTJDYWdyaWZvb2Q=" data-listing-date-sort="1672531200000" data-listing-file-modified-sort="1787430389888" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="50" data-listing-title-sort="Harvesting Trade Opportunities: Staggered DID of Impact and Structural Gravity of Future of EU-UK Agrifood Trade" data-listing-filename-sort="eu-uk-agrifood-trade-future.qmd">
+<td>
+<span class="listing-date">Jan 1, 2023</span>
+</td>
+<td>
+<a href="../research/papers/eu-uk-agrifood-trade-future.html" class="title listing-title">Harvesting Trade Opportunities: Staggered DID of Impact and Structural Gravity of Future of EU-UK Agrifood Trade</a>
+</td>
+<td>
+<span class="listing-categories">brexit, agrifood</span>
+</td>
+
+</tr>
+
+<tr data-index="2" data-categories="dWtyYWluZSUyQ2Zpcm1z" data-listing-date-sort="1672531200000" data-listing-file-modified-sort="1787430389888" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="55" data-listing-title-sort="Impact of TB Epidemic on Worker and Firm Productivity: Regional Perspective from Ukraine" data-listing-filename-sort="tb-epidemic-productivity-ukraine.qmd">
+<td>
+<span class="listing-date">Jan 1, 2023</span>
+</td>
+<td>
+<a href="../research/papers/tb-epidemic-productivity-ukraine.html" class="title listing-title">Impact of TB Epidemic on Worker and Firm Productivity: Regional Perspective from Ukraine</a>
+</td>
+<td>
+<span class="listing-categories">ukraine, firms</span>
+</td>
+
+</tr>
+
+</tbody>
+</table>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+</section>
+<section id="published" class="level2">
+<h2 class="anchored" data-anchor-id="published">Published</h2>
+<div id="listing-published-research" class="quarto-listing quarto-listing-container-table">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+    <select id="listing-published-research-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-published-research'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+      <option value="" disabled="" selected="" hidden="">Order By</option>
+      <option value="index" data-direction="asc">Default</option>
+      <option value="listing-date-sort" data-direction="asc">
+        Date - Oldest
+      </option>
+      <option value="listing-date-sort" data-direction="desc">
+        Date - Newest
+      </option>
+      <option value="listing-title-sort" data-direction="asc">
+        Title
+      </option>
+    </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+
+<th>
+<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
+</th>
+
+<th>
+<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
+</th>
+
+<th>
+Categories
+</th>
+
+</tr>
+</thead>
+<tbody class="list">
+
+<tr data-index="0" data-categories="YnJleGl0JTJDZmlybXMlMkNzZXJ2aWNlcy10cmFkZSUyQ2Zpcm0tbGV2ZWw=" data-listing-date-sort="1740787200000" data-listing-file-modified-sort="1787430389888" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="73" data-listing-title-sort="How did the Brexit uncertainty impact services exports of UK firms?" data-listing-filename-sort="brexit-services-exports.qmd">
 <td>
 <span class="listing-date">Mar 1, 2025</span>
 </td>
@@ -368,7 +494,7 @@ Categories
 
 </tr>
 
-<tr data-index="1" data-categories="dHJhZGUtd2FycyUyQ3BvbGl0aWNhbC1lY29ub215JTJDZ3Jhdml0eQ==" data-listing-date-sort="1704067200000" data-listing-file-modified-sort="1787429909854" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="63" data-listing-title-sort="Political alliances and trade: Europe in a polarized world" data-listing-filename-sort="political-alliances-trade.qmd">
+<tr data-index="1" data-categories="dHJhZGUtd2FycyUyQ3BvbGl0aWNhbC1lY29ub215JTJDZ3Jhdml0eQ==" data-listing-date-sort="1704067200000" data-listing-file-modified-sort="1787430389888" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="63" data-listing-title-sort="Political alliances and trade: Europe in a polarized world" data-listing-filename-sort="political-alliances-trade.qmd">
 <td>
 <span class="listing-date">Jan 1, 2024</span>
 </td>
@@ -381,7 +507,7 @@ Categories
 
 </tr>
 
-<tr data-index="2" data-categories="dHJhZGUtd2Fycw==" data-listing-date-sort="1672531200000" data-listing-file-modified-sort="1787429909854" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="56" data-listing-title-sort="Transforming East Asia: Regional Integration in a Trade War Era" data-listing-filename-sort="east-asia-trade-war-integration.qmd">
+<tr data-index="2" data-categories="dHJhZGUtd2Fycw==" data-listing-date-sort="1672531200000" data-listing-file-modified-sort="1787430389888" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="56" data-listing-title-sort="Transforming East Asia: Regional Integration in a Trade War Era" data-listing-filename-sort="east-asia-trade-war-integration.qmd">
 <td>
 <span class="listing-date">Jan 1, 2023</span>
 </td>
@@ -394,7 +520,7 @@ Categories
 
 </tr>
 
-<tr data-index="3" data-categories="YnJleGl0" data-listing-date-sort="1672531200000" data-listing-file-modified-sort="1787429909854" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="58" data-listing-title-sort="How did Brexit affect UK trade?" data-listing-filename-sort="how-did-brexit-affect-uk-trade.qmd">
+<tr data-index="3" data-categories="YnJleGl0" data-listing-date-sort="1672531200000" data-listing-file-modified-sort="1787430389888" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="58" data-listing-title-sort="How did Brexit affect UK trade?" data-listing-filename-sort="how-did-brexit-affect-uk-trade.qmd">
 <td>
 <span class="listing-date">Jan 1, 2023</span>
 </td>
@@ -407,7 +533,7 @@ Categories
 
 </tr>
 
-<tr data-index="4" data-categories="dWtyYWluZSUyQ3RyYWRlLXdhcnMlMkNmaXJtcyUyQ2Fncmlmb29kJTJDbm9uLXRhcmlmZi1tZWFzdXJlcyUyQ2Zpcm0tbGV2ZWw=" data-listing-date-sort="1640995200000" data-listing-file-modified-sort="1787429909854" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="70" data-listing-title-sort="Non-tariff measures and productivity of Ukrainian food-processing firms" data-listing-filename-sort="agrifood-disintegration.qmd">
+<tr data-index="4" data-categories="dWtyYWluZSUyQ3RyYWRlLXdhcnMlMkNmaXJtcyUyQ2Fncmlmb29kJTJDbm9uLXRhcmlmZi1tZWFzdXJlcyUyQ2Zpcm0tbGV2ZWw=" data-listing-date-sort="1640995200000" data-listing-file-modified-sort="1787430389888" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="70" data-listing-title-sort="Non-tariff measures and productivity of Ukrainian food-processing firms" data-listing-filename-sort="agrifood-disintegration.qmd">
 <td>
 <span class="listing-date">Jan 1, 2022</span>
 </td>
@@ -420,7 +546,7 @@ Categories
 
 </tr>
 
-<tr data-index="5" data-categories="dHJhZGUtd2Fycw==" data-listing-date-sort="1609459200000" data-listing-file-modified-sort="1787429909854" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="44" data-listing-title-sort="Belt and road: The China dream?" data-listing-filename-sort="belt-and-road-china-dream.qmd">
+<tr data-index="5" data-categories="dHJhZGUtd2Fycw==" data-listing-date-sort="1609459200000" data-listing-file-modified-sort="1787430389888" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="44" data-listing-title-sort="Belt and road: The China dream?" data-listing-filename-sort="belt-and-road-china-dream.qmd">
 <td>
 <span class="listing-date">Jan 1, 2021</span>
 </td>
@@ -433,7 +559,7 @@ Categories
 
 </tr>
 
-<tr data-index="6" data-categories="Y29uc3VsdGFuY3klMkN0cmFkZS13YXJz" data-listing-date-sort="1609459200000" data-listing-file-modified-sort="1787429909854" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="66" data-listing-title-sort="Popular Support For Trade Agreements And Partner Country Characteristics" data-listing-filename-sort="popular-support-trade-agreements.qmd">
+<tr data-index="6" data-categories="Y29uc3VsdGFuY3klMkN0cmFkZS13YXJz" data-listing-date-sort="1609459200000" data-listing-file-modified-sort="1787430389888" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="66" data-listing-title-sort="Popular Support For Trade Agreements And Partner Country Characteristics" data-listing-filename-sort="popular-support-trade-agreements.qmd">
 <td>
 <span class="listing-date">Jan 1, 2021</span>
 </td>
@@ -446,7 +572,7 @@ Categories
 
 </tr>
 
-<tr data-index="7" data-categories="dWtyYWluZSUyQ2NvbnN1bHRhbmN5JTJDZmlybXMlMkNub24tdGFyaWZmLW1lYXN1cmVzJTJDZmlybS1sZXZlbA==" data-listing-date-sort="1577836800000" data-listing-file-modified-sort="1787429909854" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="53" data-listing-title-sort="Non-tariff measures, quality and exporting: evidence from microdata" data-listing-filename-sort="non-tariff-measures-quality-exporting.qmd">
+<tr data-index="7" data-categories="dWtyYWluZSUyQ2NvbnN1bHRhbmN5JTJDZmlybXMlMkNub24tdGFyaWZmLW1lYXN1cmVzJTJDZmlybS1sZXZlbA==" data-listing-date-sort="1577836800000" data-listing-file-modified-sort="1787430389888" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="53" data-listing-title-sort="Non-tariff measures, quality and exporting: evidence from microdata" data-listing-filename-sort="non-tariff-measures-quality-exporting.qmd">
 <td>
 <span class="listing-date">Jan 1, 2020</span>
 </td>
@@ -459,7 +585,7 @@ Categories
 
 </tr>
 
-<tr data-index="8" data-categories="dWtyYWluZQ==" data-listing-date-sort="1577836800000" data-listing-file-modified-sort="1787429909854" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="49" data-listing-title-sort="Conflict and well-being of civilians: The case of the Russian-Ukrainian hybrid war" data-listing-filename-sort="ukraine-hybrid-war-wellbeing.qmd">
+<tr data-index="8" data-categories="dWtyYWluZQ==" data-listing-date-sort="1577836800000" data-listing-file-modified-sort="1787430389888" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="49" data-listing-title-sort="Conflict and well-being of civilians: The case of the Russian-Ukrainian hybrid war" data-listing-filename-sort="ukraine-hybrid-war-wellbeing.qmd">
 <td>
 <span class="listing-date">Jan 1, 2020</span>
 </td>
@@ -472,7 +598,7 @@ Categories
 
 </tr>
 
-<tr data-index="9" data-categories="YnJleGl0JTJDY29uc3VsdGFuY3klMkNncmF2aXR5" data-listing-date-sort="1514764800000" data-listing-file-modified-sort="1787429909854" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="63" data-listing-title-sort="Post-Brexit trade survival: Looking beyond the European Union" data-listing-filename-sort="post-brexit-trade-survival.qmd">
+<tr data-index="9" data-categories="YnJleGl0JTJDY29uc3VsdGFuY3klMkNncmF2aXR5" data-listing-date-sort="1514764800000" data-listing-file-modified-sort="1787430389888" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="63" data-listing-title-sort="Post-Brexit trade survival: Looking beyond the European Union" data-listing-filename-sort="post-brexit-trade-survival.qmd">
 <td>
 <span class="listing-date">Jan 1, 2018</span>
 </td>
@@ -485,7 +611,7 @@ Categories
 
 </tr>
 
-<tr data-index="10" data-categories="ZmlybXMlMkN1a3JhaW5lJTJDc2VydmljZXMtdHJhZGUlMkNmaXJtLWxldmVs" data-listing-date-sort="1420070400000" data-listing-file-modified-sort="1787429909854" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="59" data-listing-title-sort="Services liberalization and productivity of manufacturing firms" data-listing-filename-sort="services-liberalization-productivity.qmd">
+<tr data-index="10" data-categories="ZmlybXMlMkN1a3JhaW5lJTJDc2VydmljZXMtdHJhZGUlMkNmaXJtLWxldmVs" data-listing-date-sort="1420070400000" data-listing-file-modified-sort="1787430389888" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="59" data-listing-title-sort="Services liberalization and productivity of manufacturing firms" data-listing-filename-sort="services-liberalization-productivity.qmd">
 <td>
 <span class="listing-date">Jan 1, 2015</span>
 </td>
@@ -498,7 +624,7 @@ Categories
 
 </tr>
 
-<tr data-index="11" data-categories="b3RoZXIlMkNpbnN0aXR1dGlvbnMlMkNzcGF0aWFsLWVjb25vbWV0cmljcw==" data-listing-date-sort="1356998400000" data-listing-file-modified-sort="1787429909854" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="53" data-listing-title-sort="Spatial spillovers in the development of institutions" data-listing-filename-sort="spatial-spillovers-institutions.qmd">
+<tr data-index="11" data-categories="b3RoZXIlMkNpbnN0aXR1dGlvbnMlMkNzcGF0aWFsLWVjb25vbWV0cmljcw==" data-listing-date-sort="1356998400000" data-listing-file-modified-sort="1787430389888" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="53" data-listing-title-sort="Spatial spillovers in the development of institutions" data-listing-filename-sort="spatial-spillovers-institutions.qmd">
 <td>
 <span class="listing-date">Jan 1, 2013</span>
 </td>
@@ -511,7 +637,7 @@ Categories
 
 </tr>
 
-<tr data-index="12" data-categories="b3RoZXIlMkN1cmJhbi1lY29ub21pY3MlMkN0cmFuc2l0aW9uLWVjb25vbWllcw==" data-listing-date-sort="1325376000000" data-listing-file-modified-sort="1787429909854" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="45" data-listing-title-sort="Cities in Transition" data-listing-filename-sort="cities-in-transition.qmd">
+<tr data-index="12" data-categories="b3RoZXIlMkN1cmJhbi1lY29ub21pY3MlMkN0cmFuc2l0aW9uLWVjb25vbWllcw==" data-listing-date-sort="1325376000000" data-listing-file-modified-sort="1787430389888" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="45" data-listing-title-sort="Cities in Transition" data-listing-filename-sort="cities-in-transition.qmd">
 <td>
 <span class="listing-date">Jan 1, 2012</span>
 </td>
@@ -524,7 +650,7 @@ Categories
 
 </tr>
 
-<tr data-index="13" data-categories="b3RoZXIlMkNmZGklMkNzcGF0aWFsLWVjb25vbWV0cmljcyUyQ3RyYW5zaXRpb24tZWNvbm9taWVz" data-listing-date-sort="1325376000000" data-listing-file-modified-sort="1787429909854" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="55" data-listing-title-sort="Spatial complementarity of FDI: the example of transition countries" data-listing-filename-sort="spatial-complementarity-fdi.qmd">
+<tr data-index="13" data-categories="b3RoZXIlMkNmZGklMkNzcGF0aWFsLWVjb25vbWV0cmljcyUyQ3RyYW5zaXRpb24tZWNvbm9taWVz" data-listing-date-sort="1325376000000" data-listing-file-modified-sort="1787430389888" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="55" data-listing-title-sort="Spatial complementarity of FDI: the example of transition countries" data-listing-filename-sort="spatial-complementarity-fdi.qmd">
 <td>
 <span class="listing-date">Jan 1, 2012</span>
 </td>
@@ -546,6 +672,7 @@ Categories
 
 <!-- -->
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -1003,24 +1130,43 @@ Categories
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="an">title:</span><span class="co"> "Research"</span></span>
 <span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="an">description:</span><span class="co"> "Complete list of publications, working papers, and preprints."</span></span>
 <span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="an">listing:</span></span>
-<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="co">  - id: all-research</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="co">  - id: wip-research</span></span>
 <span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="co">    contents: papers</span></span>
-<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="co">    type: table</span></span>
-<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="co">    sort: "date desc"</span></span>
-<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="co">    categories: true</span></span>
-<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a><span class="co">    filter-ui: true</span></span>
-<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a><span class="co">    sort-ui: [date, title]</span></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="co">    include:</span></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="co">      status: "wip"</span></span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="co">    type: table</span></span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a><span class="co">    sort: "date desc"</span></span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a><span class="co">    categories: true</span></span>
 <span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a><span class="co">    fields: [date, title, categories]</span></span>
 <span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a><span class="co">    page-size: 50</span></span>
-<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
-<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a>The complete, unfiltered list of publications, working papers, and preprints —</span>
-<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a>filter or sort using the controls below. For the framing, headline findings,</span>
-<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a>and policy context behind this work, see the thematic hubs: <span class="co">[</span><span class="ot">Brexit</span><span class="co">](/brexit/index.qmd)</span>,</span>
-<span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a><span class="co">[</span><span class="ot">Trade Wars</span><span class="co">](/trade-wars/index.qmd)</span>, and <span class="co">[</span><span class="ot">Ukraine</span><span class="co">](/ukraine/index.qmd)</span>.</span>
-<span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a>::: {#all-research}</span>
-<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a>:::</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button" data-in-quarto-modal=""><i class="bi"></i></button></div>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a><span class="co">  - id: published-research</span></span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a><span class="co">    contents: papers</span></span>
+<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a><span class="co">    include:</span></span>
+<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a><span class="co">      status: "published"</span></span>
+<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a><span class="co">    type: table</span></span>
+<span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a><span class="co">    sort: "date desc"</span></span>
+<span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a><span class="co">    categories: true</span></span>
+<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a><span class="co">    filter-ui: true</span></span>
+<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a><span class="co">    sort-ui: [date, title]</span></span>
+<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a><span class="co">    fields: [date, title, categories]</span></span>
+<span id="cb1-24"><a href="#cb1-24" aria-hidden="true" tabindex="-1"></a><span class="co">    page-size: 50</span></span>
+<span id="cb1-25"><a href="#cb1-25" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
+<span id="cb1-26"><a href="#cb1-26" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-27"><a href="#cb1-27" aria-hidden="true" tabindex="-1"></a>The complete, unfiltered list of publications, working papers, and preprints —</span>
+<span id="cb1-28"><a href="#cb1-28" aria-hidden="true" tabindex="-1"></a>filter or sort using the controls below. For the framing, headline findings,</span>
+<span id="cb1-29"><a href="#cb1-29" aria-hidden="true" tabindex="-1"></a>and policy context behind this work, see the thematic hubs: <span class="co">[</span><span class="ot">Brexit</span><span class="co">](/brexit/index.qmd)</span>,</span>
+<span id="cb1-30"><a href="#cb1-30" aria-hidden="true" tabindex="-1"></a><span class="co">[</span><span class="ot">Trade Wars</span><span class="co">](/trade-wars/index.qmd)</span>, <span class="co">[</span><span class="ot">Ukraine</span><span class="co">](/ukraine/index.qmd)</span>, and</span>
+<span id="cb1-31"><a href="#cb1-31" aria-hidden="true" tabindex="-1"></a><span class="co">[</span><span class="ot">Firms</span><span class="co">](/firms/index.qmd)</span>.</span>
+<span id="cb1-32"><a href="#cb1-32" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-33"><a href="#cb1-33" aria-hidden="true" tabindex="-1"></a><span class="fu">## Work in Progress</span></span>
+<span id="cb1-34"><a href="#cb1-34" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-35"><a href="#cb1-35" aria-hidden="true" tabindex="-1"></a>::: {#wip-research}</span>
+<span id="cb1-36"><a href="#cb1-36" aria-hidden="true" tabindex="-1"></a>:::</span>
+<span id="cb1-37"><a href="#cb1-37" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-38"><a href="#cb1-38" aria-hidden="true" tabindex="-1"></a><span class="fu">## Published</span></span>
+<span id="cb1-39"><a href="#cb1-39" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-40"><a href="#cb1-40" aria-hidden="true" tabindex="-1"></a>::: {#published-research}</span>
+<span id="cb1-41"><a href="#cb1-41" aria-hidden="true" tabindex="-1"></a>:::</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button" data-in-quarto-modal=""><i class="bi"></i></button></div>
 </div></div></div></div></div>
 </div> <!-- /content -->
 <footer class="footer">

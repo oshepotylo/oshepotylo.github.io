@@ -2,6 +2,7 @@
   {
     "listing": "/ukraine/index.html",
     "items": [
+      "/research/papers/tb-epidemic-productivity-ukraine.html",
       "/research/papers/agrifood-disintegration.html",
       "/research/papers/non-tariff-measures-quality-exporting.html",
       "/research/papers/ukraine-hybrid-war-wellbeing.html",
@@ -9,22 +10,46 @@
     ]
   },
   {
-    "listing": "/research/index.html",
+    "listing": "/other/index.html",
     "items": [
-      "/research/papers/brexit-services-exports.html",
-      "/research/papers/political-alliances-trade.html",
-      "/research/papers/east-asia-trade-war-integration.html",
-      "/research/papers/how-did-brexit-affect-uk-trade.html",
-      "/research/papers/agrifood-disintegration.html",
-      "/research/papers/belt-and-road-china-dream.html",
-      "/research/papers/popular-support-trade-agreements.html",
-      "/research/papers/non-tariff-measures-quality-exporting.html",
-      "/research/papers/ukraine-hybrid-war-wellbeing.html",
-      "/research/papers/post-brexit-trade-survival.html",
-      "/research/papers/services-liberalization-productivity.html",
       "/research/papers/spatial-spillovers-institutions.html",
       "/research/papers/cities-in-transition.html",
       "/research/papers/spatial-complementarity-fdi.html"
+    ]
+  },
+  {
+    "listing": "/firms/index.html",
+    "items": [
+      "/research/papers/brexit-services-exports.html",
+      "/research/papers/covid-gvc-exporting.html",
+      "/research/papers/tb-epidemic-productivity-ukraine.html",
+      "/research/papers/agrifood-disintegration.html",
+      "/research/papers/non-tariff-measures-quality-exporting.html",
+      "/research/papers/services-liberalization-productivity.html"
+    ]
+  },
+  {
+    "listing": "/brexit/index.html",
+    "items": [
+      "/research/papers/brexit-services-exports.html",
+      "/research/papers/covid-gvc-exporting.html",
+      "/research/papers/eu-uk-agrifood-trade-future.html",
+      "/research/papers/how-did-brexit-affect-uk-trade.html",
+      "/research/papers/post-brexit-trade-survival.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/blog/2025-01-15-first-post/index.html"
+    ]
+  },
+  {
+    "listing": "/consultancy/index.html",
+    "items": [
+      "/research/papers/popular-support-trade-agreements.html",
+      "/research/papers/non-tariff-measures-quality-exporting.html",
+      "/research/papers/post-brexit-trade-survival.html"
     ]
   },
   {
@@ -38,9 +63,12 @@
       "/consultancy/index.html",
       "/research/papers/brexit-services-exports.html",
       "/blog/2025-01-15-first-post/index.html",
+      "/research/papers/covid-gvc-exporting.html",
       "/research/papers/political-alliances-trade.html",
       "/research/papers/east-asia-trade-war-integration.html",
+      "/research/papers/eu-uk-agrifood-trade-future.html",
       "/research/papers/how-did-brexit-affect-uk-trade.html",
+      "/research/papers/tb-epidemic-productivity-ukraine.html",
       "/research/papers/agrifood-disintegration.html",
       "/research/papers/belt-and-road-china-dream.html",
       "/research/papers/popular-support-trade-agreements.html",
@@ -54,39 +82,22 @@
     ]
   },
   {
-    "listing": "/consultancy/index.html",
+    "listing": "/research/index.html",
     "items": [
+      "/research/papers/covid-gvc-exporting.html",
+      "/research/papers/eu-uk-agrifood-trade-future.html",
+      "/research/papers/tb-epidemic-productivity-ukraine.html",
+      "/research/papers/brexit-services-exports.html",
+      "/research/papers/political-alliances-trade.html",
+      "/research/papers/east-asia-trade-war-integration.html",
+      "/research/papers/how-did-brexit-affect-uk-trade.html",
+      "/research/papers/agrifood-disintegration.html",
+      "/research/papers/belt-and-road-china-dream.html",
       "/research/papers/popular-support-trade-agreements.html",
       "/research/papers/non-tariff-measures-quality-exporting.html",
-      "/research/papers/post-brexit-trade-survival.html"
-    ]
-  },
-  {
-    "listing": "/blog.html",
-    "items": [
-      "/blog/2025-01-15-first-post/index.html"
-    ]
-  },
-  {
-    "listing": "/brexit/index.html",
-    "items": [
-      "/research/papers/brexit-services-exports.html",
-      "/research/papers/how-did-brexit-affect-uk-trade.html",
-      "/research/papers/post-brexit-trade-survival.html"
-    ]
-  },
-  {
-    "listing": "/firms/index.html",
-    "items": [
-      "/research/papers/brexit-services-exports.html",
-      "/research/papers/agrifood-disintegration.html",
-      "/research/papers/non-tariff-measures-quality-exporting.html",
-      "/research/papers/services-liberalization-productivity.html"
-    ]
-  },
-  {
-    "listing": "/other/index.html",
-    "items": [
+      "/research/papers/ukraine-hybrid-war-wellbeing.html",
+      "/research/papers/post-brexit-trade-survival.html",
+      "/research/papers/services-liberalization-productivity.html",
       "/research/papers/spatial-spillovers-institutions.html",
       "/research/papers/cities-in-transition.html",
       "/research/papers/spatial-complementarity-fdi.html"
