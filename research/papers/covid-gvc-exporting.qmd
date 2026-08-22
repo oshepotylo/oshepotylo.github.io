@@ -1,0 +1,18 @@
+---
+title: "Shocked by COVID: Exporting along global value chains"
+description: "CEP Discussion Paper dp2105, 2025. With Holger Breinlich and Jun Du."
+date: "2025-01-01"
+status: "wip"
+categories: [firms, brexit]
+---
+
+COVID-19 hit firms embedded in global value chains differently depending
+on their position in the chain — upstream suppliers and downstream
+assemblers absorbed the shock through different channels. Using UK
+firm-level export data spanning the pandemic, we trace how GVC position
+shaped the size and persistence of the export shock, and how much of the
+disruption has since reversed.
+
+**Working paper:** CEP Discussion Papers dp2105
+
+[Aston Research Explorer](https://research.aston.ac.uk/en/persons/oleksandr-shepotylo/publications/)

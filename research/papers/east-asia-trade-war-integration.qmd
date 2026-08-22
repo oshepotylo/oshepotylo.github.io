@@ -2,6 +2,7 @@
 title: "Transforming East Asia: Regional Integration in a Trade War Era"
 description: "Open Economies Review, 2023. With Karen Jackson."
 date: "2023-01-01"
+status: "published"
 categories: [trade-wars]
 ---
 

@@ -2,6 +2,7 @@
 title: "Spatial spillovers in the development of institutions"
 description: "Journal of Development Economics, 2013. With Harry H. Kelejian and Peter Murrell."
 date: "2013-01-01"
+status: "published"
 categories: [other, institutions, spatial-econometrics]
 ---
 

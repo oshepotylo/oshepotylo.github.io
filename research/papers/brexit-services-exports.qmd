@@ -2,6 +2,7 @@
 title: "How did the Brexit uncertainty impact services exports of UK firms?"
 description: "Journal of International Business Policy, 2025. With Jun Du and Xiaocan Yuan."
 date: "2025-03-01"
+status: "published"
 categories: [brexit, firms, services-trade, firm-level]
 doi: "10.1057/s42214-024-00202-6"
 ---

@@ -2,6 +2,7 @@
 title: "Popular Support For Trade Agreements And Partner Country Characteristics"
 description: "Economic Inquiry, 2021. With Tom Coupé."
 date: "2021-01-01"
+status: "published"
 categories: [consultancy, trade-wars]
 ---
 

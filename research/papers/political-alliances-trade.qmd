@@ -2,6 +2,7 @@
 title: "Political alliances and trade: Europe in a polarized world"
 description: "European Journal of Political Economy, 2024. With Karen Jackson."
 date: "2024-01-01"
+status: "published"
 categories: [trade-wars, political-economy, gravity]
 ---
 

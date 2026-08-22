@@ -2,6 +2,7 @@
 title: "Post-Brexit trade survival: Looking beyond the European Union"
 description: "Economic Modelling, 2018. With Karen Jackson."
 date: "2018-01-01"
+status: "published"
 categories: [brexit, consultancy, gravity]
 ---
 

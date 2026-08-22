@@ -2,6 +2,7 @@
 title: "Spatial complementarity of FDI: the example of transition countries"
 description: "Post-Communist Economies, 2012."
 date: "2012-01-01"
+status: "published"
 categories: [other, fdi, spatial-econometrics, transition-economies]
 ---
 

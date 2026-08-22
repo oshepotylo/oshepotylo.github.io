@@ -2,6 +2,7 @@
 title: "Non-tariff measures, quality and exporting: evidence from microdata"
 description: "European Review of Agricultural Economics, 2020. With Veronika Movchan and Volodymyr Vakhitov."
 date: "2020-01-01"
+status: "published"
 categories: [ukraine, consultancy, firms, non-tariff-measures, firm-level]
 ---
 

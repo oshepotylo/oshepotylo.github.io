@@ -2,6 +2,7 @@
 title: "Conflict and well-being of civilians: The case of the Russian-Ukrainian hybrid war"
 description: "Economic Systems, 2020. With Maryna Osiichuk."
 date: "2020-01-01"
+status: "published"
 categories: [ukraine]
 ---
 

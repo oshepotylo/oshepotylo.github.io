@@ -2,6 +2,7 @@
 title: "Cities in Transition"
 description: "Comparative Economic Studies, 2012."
 date: "2012-01-01"
+status: "published"
 categories: [other, urban-economics, transition-economies]
 ---
 

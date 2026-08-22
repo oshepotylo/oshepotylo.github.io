@@ -2,6 +2,7 @@
 title: "Services liberalization and productivity of manufacturing firms"
 description: "The Economics of Transition, 2015. With Volodymyr Vakhitov."
 date: "2015-01-01"
+status: "published"
 categories: [firms, ukraine, services-trade, firm-level]
 ---
 

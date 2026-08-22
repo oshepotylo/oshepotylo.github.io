@@ -2,6 +2,7 @@
 title: "Belt and road: The China dream?"
 description: "China Economic Review, 2021. With Karen Jackson."
 date: "2021-01-01"
+status: "published"
 categories: [trade-wars]
 ---
 

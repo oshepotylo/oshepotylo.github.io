@@ -1,0 +1,17 @@
+---
+title: "Harvesting Trade Opportunities: Staggered DID of Impact and Structural Gravity of Future of EU-UK Agrifood Trade"
+description: "Conference paper, International Agricultural Trade Research Consortium, 2023."
+date: "2023-01-01"
+status: "wip"
+categories: [brexit, agrifood]
+---
+
+Combining a staggered difference-in-differences estimate of Brexit's
+realised impact on EU-UK agrifood trade with a structural gravity
+projection of plausible future trading arrangements, this paper asks how
+much of the post-Brexit agrifood trade loss is recoverable under
+alternative UK-EU relationships, and how much is likely permanent.
+
+**Conference paper:** International Agricultural Trade Research Consortium
+
+[Aston Research Explorer](https://research.aston.ac.uk/en/persons/oleksandr-shepotylo/publications/)

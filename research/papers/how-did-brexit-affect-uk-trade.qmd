@@ -2,6 +2,7 @@
 title: "How did Brexit affect UK trade?"
 description: "Contemporary Social Science, 2023. With Jun Du and Emine Beyza Satoglu."
 date: "2023-01-01"
+status: "published"
 categories: [brexit]
 ---
 
