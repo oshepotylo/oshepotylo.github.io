@@ -1,0 +1,19 @@
+---
+title: "How to Intensify and Diversify Ukrainian Exports? The Case of Bilateral Trade with Germany"
+description: >-
+  **FREE Network / KSE Policy Brief, 2019.**
+  <details class="abstract-toggle"><summary onclick="event.preventDefault();
+  event.stopPropagation(); this.closest('details').open =
+  !this.closest('details').open;">Show abstract</summary>
+  Ukraine and Germany sit at different levels of economic development but are both highly open to trade, leaving room for gains from deeper bilateral trade — yet Ukrainian exports to Germany remain insufficiently diversified and under-exploited along both the extensive and intensive margins. Analysing which sectors of the German economy depend most on imports and where Ukrainian manufacturers could plausibly compete, we identify 67 product groups most promising for expanding Ukrainian exports to Germany, aligned with the priority sectors in Ukraine's Export Strategy.
+  </details>
+date: "2019-10-01"
+status: "published"
+categories: [ukraine, consultancy]
+---
+
+Ukraine and Germany sit at different levels of economic development but are both highly open to trade, leaving room for gains from deeper bilateral trade — yet Ukrainian exports to Germany remain insufficiently diversified and under-exploited along both the extensive and intensive margins. Analysing which sectors of the German economy depend most on imports and where Ukrainian manufacturers could plausibly compete, we identify 67 product groups most promising for expanding Ukrainian exports to Germany, aligned with the priority sectors in Ukraine's Export Strategy.
+
+**Published in:** FREE Network / KSE Policy Brief, 2019.
+
+[Aston Research Explorer / ORCID](https://orcid.org/0000-0003-4990-6025)

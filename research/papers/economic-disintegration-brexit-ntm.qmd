@@ -1,0 +1,19 @@
+---
+title: "Economic disintegration: Brexit, Non-tariff Measures, and UK Trade"
+description: >-
+  **Research Square preprint, 2024. With Jun Du.**
+  <details class="abstract-toggle"><summary onclick="event.preventDefault();
+  event.stopPropagation(); this.closest('details').open =
+  !this.closest('details').open;">Show abstract</summary>
+  Although the EU-UK Trade and Cooperation Agreement established tariff- and quota-free trade in goods, UK-EU trade costs rose significantly after Brexit. Using a synthetic control difference-in-differences design, we show the TCA had a significant, adverse effect on bilateral UK-EU trade, and we quantify the ad valorem equivalents of the non-tariff measures introduced after the Brexit transition period, tracing their impact on UK trade through 2021.
+  </details>
+date: "2024-05-01"
+status: "wip"
+categories: [brexit]
+---
+
+Although the EU-UK Trade and Cooperation Agreement established tariff- and quota-free trade in goods, UK-EU trade costs rose significantly after Brexit. Using a synthetic control difference-in-differences design, we show the TCA had a significant, adverse effect on bilateral UK-EU trade, and we quantify the ad valorem equivalents of the non-tariff measures introduced after the Brexit transition period, tracing their impact on UK trade through 2021.
+
+**Working paper:** Research Square preprint, 2024. With Jun Du.
+
+[Aston Research Explorer / ORCID](https://orcid.org/0000-0003-4990-6025)

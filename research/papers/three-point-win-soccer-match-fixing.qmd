@@ -1,0 +1,19 @@
+---
+title: "Three-Point-For-Win in Soccer: Are There Incentives for Match Fixing?"
+description: >-
+  **SSRN Working Paper, 2010.**
+  <details class="abstract-toggle"><summary onclick="event.preventDefault();
+  event.stopPropagation(); this.closest('details').open =
+  !this.closest('details').open;">Show abstract</summary>
+  A companion piece to my work on the three-point-for-a-win rule: I test whether the rule creates incentives for collusion among teams of similar strength, particularly in lower-quality leagues with weaker media scrutiny and governance. Evidence from the Ukrainian league is consistent with a specific cooperation scheme — winning at home and conceding away — that inflates the total points collected by colluding pairs of teams relative to what genuine competition would produce.
+  </details>
+date: "2010-01-01"
+status: "wip"
+categories: [other]
+---
+
+A companion piece to my work on the three-point-for-a-win rule: I test whether the rule creates incentives for collusion among teams of similar strength, particularly in lower-quality leagues with weaker media scrutiny and governance. Evidence from the Ukrainian league is consistent with a specific cooperation scheme — winning at home and conceding away — that inflates the total points collected by colluding pairs of teams relative to what genuine competition would produce.
+
+**Working paper:** SSRN Working Paper, 2010.
+
+[Aston Research Explorer / ORCID](https://orcid.org/0000-0003-4990-6025)

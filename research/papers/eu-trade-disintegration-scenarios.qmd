@@ -1,0 +1,19 @@
+---
+title: "An examination of EU trade disintegration scenarios"
+description: >-
+  **The World Economy, 2021. With Karen Jackson.**
+  <details class="abstract-toggle"><summary onclick="event.preventDefault();
+  event.stopPropagation(); this.closest('details').open =
+  !this.closest('details').open;">Show abstract</summary>
+  Using a structural gravity approach, we examine the welfare implications of scenarios in which the EU itself partially disintegrates, rather than just the UK leaving it. The remaining EU countries stand to lose considerably more from EU disintegration than they did from a disorderly Brexit. Some neighbouring high- and middle-income countries — Bosnia and Herzegovina and Norway among them — would actually benefit under certain disintegration scenarios, gaining trade competitiveness relative to the weakened EU bloc.
+  </details>
+date: "2021-01-01"
+status: "published"
+categories: [brexit, trade-wars]
+---
+
+Using a structural gravity approach, we examine the welfare implications of scenarios in which the EU itself partially disintegrates, rather than just the UK leaving it. The remaining EU countries stand to lose considerably more from EU disintegration than they did from a disorderly Brexit. Some neighbouring high- and middle-income countries — Bosnia and Herzegovina and Norway among them — would actually benefit under certain disintegration scenarios, gaining trade competitiveness relative to the weakened EU bloc.
+
+**Published in:** The World Economy, 2021. With Karen Jackson.
+
+[Aston Research Explorer / ORCID](https://orcid.org/0000-0003-4990-6025)

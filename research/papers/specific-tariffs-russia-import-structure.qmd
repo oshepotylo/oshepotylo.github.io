@@ -1,0 +1,19 @@
+---
+title: "Specific Tariffs, Tariff Simplification, and the Structure of Import Tariffs in Russia"
+description: >-
+  **Eastern European Economics, 2008. With David Tarr.**
+  <details class="abstract-toggle"><summary onclick="event.preventDefault();
+  event.stopPropagation(); this.closest('details').open =
+  !this.closest('details').open;">Show abstract</summary>
+  Russia's tariff structure contains over 11,000 tariff lines, of which roughly 1,700 can carry a specific (per-unit) tariff — these are typically excluded from published ad valorem tariff statistics, understating true protection. Using a new dataset, we provide the first accurate assessment of Russian tariff rates: the average tariff rose from about 11.5% in 2001 to 13–14.5% by 2003, then held steady through 2005, placing Russia above other middle-income countries and well above the OECD. The trade-weighted standard deviation of tariffs roughly doubled from 9.5% to 18% over 2001–2003 before falling back to 15.2% by 2005; ignoring specific tariffs underestimates average tariff rates by one to three percentage points.
+  </details>
+date: "2008-01-01"
+status: "published"
+categories: [other]
+---
+
+Russia's tariff structure contains over 11,000 tariff lines, of which roughly 1,700 can carry a specific (per-unit) tariff — these are typically excluded from published ad valorem tariff statistics, understating true protection. Using a new dataset, we provide the first accurate assessment of Russian tariff rates: the average tariff rose from about 11.5% in 2001 to 13–14.5% by 2003, then held steady through 2005, placing Russia above other middle-income countries and well above the OECD. The trade-weighted standard deviation of tariffs roughly doubled from 9.5% to 18% over 2001–2003 before falling back to 15.2% by 2005; ignoring specific tariffs underestimates average tariff rates by one to three percentage points.
+
+**Published in:** Eastern European Economics, 2008. With David Tarr.
+
+[Aston Research Explorer / ORCID](https://orcid.org/0000-0003-4990-6025)

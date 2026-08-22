@@ -1,0 +1,19 @@
+---
+title: "Export diversification across countries and products: Do Eastern European (EE) and Commonwealth of Independent States (CIS) countries diversify enough?"
+description: >-
+  **The Journal of International Trade & Economic Development, 2013.**
+  <details class="abstract-toggle"><summary onclick="event.preventDefault();
+  event.stopPropagation(); this.closest('details').open =
+  !this.closest('details').open;">Show abstract</summary>
+  Eastern European and CIS countries both substantially increased trade openness since the start of transition, but took different paths in the product and geographic composition of their exports. Comparing actual diversification to levels predicted by a gravity equation estimated on a large country sample for 2001–2007, I find CIS countries deviate substantially from predicted diversification levels, while EE countries track the model much more closely. All CIS countries lag the region's leaders, the Czech Republic and Poland, in export diversification; countries heavily engaged in raw-materials exports have the most concentrated exports, and Belarus has the least geographically diversified exports of any transition country.
+  </details>
+date: "2013-01-01"
+status: "published"
+categories: [other]
+---
+
+Eastern European and CIS countries both substantially increased trade openness since the start of transition, but took different paths in the product and geographic composition of their exports. Comparing actual diversification to levels predicted by a gravity equation estimated on a large country sample for 2001–2007, I find CIS countries deviate substantially from predicted diversification levels, while EE countries track the model much more closely. All CIS countries lag the region's leaders, the Czech Republic and Poland, in export diversification; countries heavily engaged in raw-materials exports have the most concentrated exports, and Belarus has the least geographically diversified exports of any transition country.
+
+**Published in:** The Journal of International Trade & Economic Development, 2013.
+
+[Aston Research Explorer / ORCID](https://orcid.org/0000-0003-4990-6025)

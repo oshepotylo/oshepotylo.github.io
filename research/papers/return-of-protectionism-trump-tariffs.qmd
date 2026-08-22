@@ -1,0 +1,19 @@
+---
+title: "The Return of Protectionism: Trump's 2025 Tariffs and the Shifting Landscape of Global Trade"
+description: >-
+  **LSE Public Policy Review, 2026. With Jun Du and Yujie Shi.**
+  <details class="abstract-toggle"><summary onclick="event.preventDefault();
+  event.stopPropagation(); this.closest('details').open =
+  !this.closest('details').open;">Show abstract</summary>
+  Donald Trump's return to the presidency in 2025 triggered the most significant protectionist surge since the 1930s, with the US average effective tariff reaching 18.2% by August 2025 — the highest level in 90 years. We synthesise economic theory and empirical evidence on the welfare effects of the new tariffs, analyse the current US trade measures, and quantify their impacts using a structural gravity model. Beyond the direct cost of the duties themselves, ongoing tariff uncertainty disrupts firms' planning, forces costly duplication of supply chains, and triggers capital flight that undermines the very industrial goals protectionism claims to serve.
+  </details>
+date: "2026-05-01"
+status: "published"
+categories: [trade-wars]
+---
+
+Donald Trump's return to the presidency in 2025 triggered the most significant protectionist surge since the 1930s, with the US average effective tariff reaching 18.2% by August 2025 — the highest level in 90 years. We synthesise economic theory and empirical evidence on the welfare effects of the new tariffs, analyse the current US trade measures, and quantify their impacts using a structural gravity model. Beyond the direct cost of the duties themselves, ongoing tariff uncertainty disrupts firms' planning, forces costly duplication of supply chains, and triggers capital flight that undermines the very industrial goals protectionism claims to serve.
+
+**Published in:** LSE Public Policy Review, 2026. With Jun Du and Yujie Shi.
+
+[Aston Research Explorer / ORCID](https://orcid.org/0000-0003-4990-6025)

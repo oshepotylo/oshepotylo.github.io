@@ -1,0 +1,19 @@
+---
+title: "Ukraine's Integration into the EU's Digital Single Market"
+description: >-
+  **FREE Network Policy Brief, 2021. With Pavlo Iavorskyi and Svitlana Taran.**
+  <details class="abstract-toggle"><summary onclick="event.preventDefault();
+  event.stopPropagation(); this.closest('details').open =
+  !this.closest('details').open;">Show abstract</summary>
+  We assess how Ukraine's integration into the EU's Digital Single Market would affect EU-Ukraine bilateral trade and Ukraine's GDP growth. The main gains would come from reducing cross-border regulatory barriers to EU-Ukraine digital trade and accelerating the development of Ukraine's digital economy in line with EU standards. Enhanced regulatory and digital connectivity is projected to raise Ukraine's exports of goods to the EU by 11.8–17% and of services by 7.6–12.2%.
+  </details>
+date: "2021-02-01"
+status: "published"
+categories: [ukraine, consultancy]
+---
+
+We assess how Ukraine's integration into the EU's Digital Single Market would affect EU-Ukraine bilateral trade and Ukraine's GDP growth. The main gains would come from reducing cross-border regulatory barriers to EU-Ukraine digital trade and accelerating the development of Ukraine's digital economy in line with EU standards. Enhanced regulatory and digital connectivity is projected to raise Ukraine's exports of goods to the EU by 11.8–17% and of services by 7.6–12.2%.
+
+**Published in:** FREE Network Policy Brief, 2021. With Pavlo Iavorskyi and Svitlana Taran.
+
+[Aston Research Explorer / ORCID](https://orcid.org/0000-0003-4990-6025)

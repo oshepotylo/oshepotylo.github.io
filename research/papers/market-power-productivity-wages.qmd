@@ -1,0 +1,19 @@
+---
+title: "Market power, productivity and distribution of wages: theory and evidence with micro data"
+description: >-
+  **IOS Working Paper 387, 2020. With Volodymyr Vakhitov.**
+  <details class="abstract-toggle"><summary onclick="event.preventDefault();
+  event.stopPropagation(); this.closest('details').open =
+  !this.closest('details').open;">Show abstract</summary>
+  The declining labor share in national income and rising inequality over the last four decades raise questions about their causes. We develop a theoretical model linking the intra-industry distribution of wages to variation in firms' market power: wages decline with market power if and only if demand elasticity increases with a firm's output, and trade liberalization expands more productive firms, which raises their bargaining power and lowers labor's share of revenue. Testing the model on Ukrainian manufacturing firms in 2001–2007, we find that larger firms have more bargaining power relative to workers, that markups rise with output and market size, and that wages rise with productivity but fall with market power — results that hold at both the firm and industry level.
+  </details>
+date: "2020-05-01"
+status: "wip"
+categories: [firms, ukraine]
+---
+
+The declining labor share in national income and rising inequality over the last four decades raise questions about their causes. We develop a theoretical model linking the intra-industry distribution of wages to variation in firms' market power: wages decline with market power if and only if demand elasticity increases with a firm's output, and trade liberalization expands more productive firms, which raises their bargaining power and lowers labor's share of revenue. Testing the model on Ukrainian manufacturing firms in 2001–2007, we find that larger firms have more bargaining power relative to workers, that markups rise with output and market size, and that wages rise with productivity but fall with market power — results that hold at both the firm and industry level.
+
+**Working paper:** IOS Working Paper 387, 2020. With Volodymyr Vakhitov.
+
+[Aston Research Explorer / ORCID](https://orcid.org/0000-0003-4990-6025)

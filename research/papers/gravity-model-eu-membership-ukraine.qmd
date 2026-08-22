@@ -1,0 +1,19 @@
+---
+title: "A Gravity Model of Net Benefits of EU Membership: The Case of Ukraine"
+description: >-
+  **Journal of Economic Integration, 2010.**
+  <details class="abstract-toggle"><summary onclick="event.preventDefault();
+  event.stopPropagation(); this.closest('details').open =
+  !this.closest('details').open;">Show abstract</summary>
+  I develop a methodology for analysing the costs and benefits of alternative regional integration scenarios, based on a disaggregated gravity equation, and apply it to the 2004 EU enlargement from Ukraine's perspective — a country left outside the expanding bloc. This lens makes it possible to estimate the cost of non-integration: trade and investment diverted away from Ukraine, and forgone opportunities to carry out structural changes in the Ukrainian economy that EU accession would have forced or accelerated.
+  </details>
+date: "2010-01-01"
+status: "published"
+categories: [ukraine]
+---
+
+I develop a methodology for analysing the costs and benefits of alternative regional integration scenarios, based on a disaggregated gravity equation, and apply it to the 2004 EU enlargement from Ukraine's perspective — a country left outside the expanding bloc. This lens makes it possible to estimate the cost of non-integration: trade and investment diverted away from Ukraine, and forgone opportunities to carry out structural changes in the Ukrainian economy that EU accession would have forced or accelerated.
+
+**Published in:** Journal of Economic Integration, 2010.
+
+[Aston Research Explorer / ORCID](https://orcid.org/0000-0003-4990-6025)

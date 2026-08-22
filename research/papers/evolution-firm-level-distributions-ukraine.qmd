@@ -1,0 +1,19 @@
+---
+title: "The evolution of firm-level distributions for Ukrainian manufacturing firms"
+description: >-
+  **Journal of Comparative Economics, 2016. With Kim P. Huynh, David T. Jacho-Chávez, Oleksiy Kryvtsov, and Volodymyr Vakhitov.**
+  <details class="abstract-toggle"><summary onclick="event.preventDefault();
+  event.stopPropagation(); this.closest('details').open =
+  !this.closest('details').open;">Show abstract</summary>
+  Using unique annual firm-level data for 2001–2009 compiled from Ukraine's state statistics service, we document rich variation across firms' characteristics and the macroeconomic volatility — often tied to political turmoil — that accompanies it. Applying functional principal component analysis while accounting for region, industry, trade status, and firm turnover, we show that overall productivity improvements in Ukrainian manufacturing over 2001–2009 varied substantially by industry, trade status, and firm turnover, while regional effects mattered comparatively little.
+  </details>
+date: "2016-02-01"
+status: "published"
+categories: [ukraine, firms]
+---
+
+Using unique annual firm-level data for 2001–2009 compiled from Ukraine's state statistics service, we document rich variation across firms' characteristics and the macroeconomic volatility — often tied to political turmoil — that accompanies it. Applying functional principal component analysis while accounting for region, industry, trade status, and firm turnover, we show that overall productivity improvements in Ukrainian manufacturing over 2001–2009 varied substantially by industry, trade status, and firm turnover, while regional effects mattered comparatively little.
+
+**Published in:** Journal of Comparative Economics, 2016. With Kim P. Huynh, David T. Jacho-Chávez, Oleksiy Kryvtsov, and Volodymyr Vakhitov.
+
+[Aston Research Explorer / ORCID](https://orcid.org/0000-0003-4990-6025)

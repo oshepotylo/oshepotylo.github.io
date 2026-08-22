@@ -1,0 +1,19 @@
+---
+title: "The Law of Unintended Consequences in Soccer: Impact of Three-Point-A-Win Rule on Strategies and Outcomes"
+description: >-
+  **SSRN Working Paper, 2010.**
+  <details class="abstract-toggle"><summary onclick="event.preventDefault();
+  event.stopPropagation(); this.closest('details').open =
+  !this.closest('details').open;">Show abstract</summary>
+  A side project in applied econometrics: using a large sample of European league matches from 1990–1997, I test whether switching from two to three points for a win — intended to reward attacking play — actually changed team strategies and match outcomes. The rule change altered incentives in ways that are not obviously captured by simple before/after comparisons of goals scored, illustrating how well-intentioned rule changes can produce unanticipated strategic responses.
+  </details>
+date: "2010-01-01"
+status: "wip"
+categories: [other]
+---
+
+A side project in applied econometrics: using a large sample of European league matches from 1990–1997, I test whether switching from two to three points for a win — intended to reward attacking play — actually changed team strategies and match outcomes. The rule change altered incentives in ways that are not obviously captured by simple before/after comparisons of goals scored, illustrating how well-intentioned rule changes can produce unanticipated strategic responses.
+
+**Working paper:** SSRN Working Paper, 2010.
+
+[Aston Research Explorer / ORCID](https://orcid.org/0000-0003-4990-6025)

@@ -1,0 +1,19 @@
+---
+title: "Political Uncertainty, FDI, and Trade in Intermediate Goods: Evidence From Ukrainian Firms"
+description: >-
+  **Working paper, 2018. With Jan Stuckatz.**
+  <details class="abstract-toggle"><summary onclick="event.preventDefault();
+  event.stopPropagation(); this.closest('details').open =
+  !this.closest('details').open;">Show abstract</summary>
+  We introduce a text-analysis-based method for measuring policy uncertainty and extend a heterogeneous-firms model with sunk investment costs to derive predictions about how trade policy uncertainty affects firm-specific investment and firms' decisions to trade intermediate goods. Ukrainian firms faced a stark, mutually exclusive choice of trade regime — an EU free trade agreement or a Russia-led customs union — that we use to measure uncertainty directly. Using firm-product data for Ukrainian manufacturers from 2003 to 2013, we find that reduced uncertainty about the EU FTA sharply increased firm-level FDI inflows and imported intermediate goods from the EU while decreasing FDI from the customs union bloc, with more protected goods responding most strongly.
+  </details>
+date: "2018-02-01"
+status: "wip"
+categories: [ukraine, firms]
+---
+
+We introduce a text-analysis-based method for measuring policy uncertainty and extend a heterogeneous-firms model with sunk investment costs to derive predictions about how trade policy uncertainty affects firm-specific investment and firms' decisions to trade intermediate goods. Ukrainian firms faced a stark, mutually exclusive choice of trade regime — an EU free trade agreement or a Russia-led customs union — that we use to measure uncertainty directly. Using firm-product data for Ukrainian manufacturers from 2003 to 2013, we find that reduced uncertainty about the EU FTA sharply increased firm-level FDI inflows and imported intermediate goods from the EU while decreasing FDI from the customs union bloc, with more protected goods responding most strongly.
+
+**Working paper:** Working paper, 2018. With Jan Stuckatz.
+
+[Aston Research Explorer / ORCID](https://orcid.org/0000-0003-4990-6025)

@@ -1,0 +1,19 @@
+---
+title: "Brexit and the Services Trade—A Longitudinal Analysis"
+description: >-
+  **Journal of Service Research, 2024. With Jun Du.**
+  <details class="abstract-toggle"><summary onclick="event.preventDefault();
+  event.stopPropagation(); this.closest('details').open =
+  !this.closest('details').open;">Show abstract</summary>
+  Using the OECD-WTO Balanced Trade in Services dataset and a synthetic difference-in-differences design, we estimate the impact of Brexit uncertainty on UK services trade from 2016 to 2019. UK services exports fell short of a synthetic no-Brexit counterfactual by an average of US$23.7bn (£18.5bn) a year — a 5.65% reduction — with substantial variation across sectors and destinations. Bilateral exports fell by 8.5% on average; large markets such as Germany and the US were less affected than smaller ones, UK exports to the EU as a whole declined by 6.21%, while, strikingly, exports to Ireland expanded by 21.4%.
+  </details>
+date: "2024-10-01"
+status: "published"
+categories: [brexit, firms, services-trade]
+---
+
+Using the OECD-WTO Balanced Trade in Services dataset and a synthetic difference-in-differences design, we estimate the impact of Brexit uncertainty on UK services trade from 2016 to 2019. UK services exports fell short of a synthetic no-Brexit counterfactual by an average of US$23.7bn (£18.5bn) a year — a 5.65% reduction — with substantial variation across sectors and destinations. Bilateral exports fell by 8.5% on average; large markets such as Germany and the US were less affected than smaller ones, UK exports to the EU as a whole declined by 6.21%, while, strikingly, exports to Ireland expanded by 21.4%.
+
+**Published in:** Journal of Service Research, 2024. With Jun Du.
+
+[Aston Research Explorer / ORCID](https://orcid.org/0000-0003-4990-6025)

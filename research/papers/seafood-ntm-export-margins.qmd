@@ -1,0 +1,19 @@
+---
+title: "Effect of non-tariff measures on extensive and intensive margins of exports in seafood trade"
+description: >-
+  **Marine Policy, 2016.**
+  <details class="abstract-toggle"><summary onclick="event.preventDefault();
+  event.stopPropagation(); this.closest('details').open =
+  !this.closest('details').open;">Show abstract</summary>
+  Studying global seafood exports from 1996 to 2011, I find that SPS and TBT non-tariff measures affect trade in opposite ways: SPS measures largely increase the extensive margin of exports (more exporters entering) while reducing the intensive margin (less per exporter), whereas TBTs mostly reduce the extensive margin while increasing the intensive margin. Specific trade concerns raised at the WTO have a larger effect on exports than either SPS or TBT notifications alone, both economically and statistically, with substantial heterogeneity across product lines around a consistent central tendency.
+  </details>
+date: "2016-01-01"
+status: "published"
+categories: [firms, non-tariff-measures]
+---
+
+Studying global seafood exports from 1996 to 2011, I find that SPS and TBT non-tariff measures affect trade in opposite ways: SPS measures largely increase the extensive margin of exports (more exporters entering) while reducing the intensive margin (less per exporter), whereas TBTs mostly reduce the extensive margin while increasing the intensive margin. Specific trade concerns raised at the WTO have a larger effect on exports than either SPS or TBT notifications alone, both economically and statistically, with substantial heterogeneity across product lines around a consistent central tendency.
+
+**Published in:** Marine Policy, 2016.
+
+[Aston Research Explorer / ORCID](https://orcid.org/0000-0003-4990-6025)

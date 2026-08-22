@@ -1,0 +1,19 @@
+---
+title: "Beyond security: The trade implications of joining NATO"
+description: >-
+  **SSRN Working Paper / BOFIT Discussion Paper, 2026. With Karen Jackson.**
+  <details class="abstract-toggle"><summary onclick="event.preventDefault();
+  event.stopPropagation(); this.closest('details').open =
+  !this.closest('details').open;">Show abstract</summary>
+  Combining structural gravity methods with a staggered difference-in-differences design, we identify the causal effect of NATO membership on bilateral trade flows, separating it from the effect of a generic military alliance. NATO accession raises exports, with benefits that unfold gradually and intensify over time, coming through several channels: protecting and securing trade routes, lowering uncertainty and boosting cross-member investment, direct trade in military and military-related goods, and logistical support for military activity.
+  </details>
+date: "2026-04-01"
+status: "wip"
+categories: [trade-wars]
+---
+
+Combining structural gravity methods with a staggered difference-in-differences design, we identify the causal effect of NATO membership on bilateral trade flows, separating it from the effect of a generic military alliance. NATO accession raises exports, with benefits that unfold gradually and intensify over time, coming through several channels: protecting and securing trade routes, lowering uncertainty and boosting cross-member investment, direct trade in military and military-related goods, and logistical support for military activity.
+
+**Working paper:** SSRN Working Paper / BOFIT Discussion Paper, 2026. With Karen Jackson.
+
+[Aston Research Explorer / ORCID](https://orcid.org/0000-0003-4990-6025)

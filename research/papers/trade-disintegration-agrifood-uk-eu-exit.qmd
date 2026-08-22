@@ -1,0 +1,19 @@
+---
+title: "Trade Disintegration and Agri-Food Trade: United Kingdom Exit From EU"
+description: >-
+  **The World Economy, 2025. With Jun Du and Yundan Shi.**
+  <details class="abstract-toggle"><summary onclick="event.preventDefault();
+  event.stopPropagation(); this.closest('details').open =
+  !this.closest('details').open;">Show abstract</summary>
+  We provide a comprehensive difference-in-differences analysis of how the EU-UK Trade and Cooperation Agreement affected the UK's agri-food trade after Brexit. Both the value and quantity of UK agri-food exports and imports fell significantly post-TCA, while prices rose as worsened market access and additional border checks pushed up trade costs. The results underline the importance of legal enforceability in trade agreements — particularly for agricultural and sanitary/phytosanitary provisions — for preserving market access and trade volumes.
+  </details>
+date: "2025-01-01"
+status: "published"
+categories: [brexit, agrifood]
+---
+
+We provide a comprehensive difference-in-differences analysis of how the EU-UK Trade and Cooperation Agreement affected the UK's agri-food trade after Brexit. Both the value and quantity of UK agri-food exports and imports fell significantly post-TCA, while prices rose as worsened market access and additional border checks pushed up trade costs. The results underline the importance of legal enforceability in trade agreements — particularly for agricultural and sanitary/phytosanitary provisions — for preserving market access and trade volumes.
+
+**Published in:** The World Economy, 2025. With Jun Du and Yundan Shi.
+
+[Aston Research Explorer / ORCID](https://orcid.org/0000-0003-4990-6025)

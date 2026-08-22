@@ -1,0 +1,19 @@
+---
+title: "Impact of WTO Accession on the Bound and Applied Tariff Rates of Russia"
+description: >-
+  **Eastern European Economics, 2013. With David G. Tarr.**
+  <details class="abstract-toggle"><summary onclick="event.preventDefault();
+  event.stopPropagation(); this.closest('details').open =
+  !this.closest('details').open;">Show abstract</summary>
+  Using ten-digit trade data, we assess how Russia's tariff structure changed as a result of joining a customs union with Kazakhstan and Belarus, and how it will change as WTO commitments phase in through 2020. WTO commitments progressively and significantly lower Russia's applied tariffs, ultimately falling to 45–68% of pre-accession levels, with the largest fall on a trade-weighted basis: from 13.0% to 5.8% weighted average, versus 11.5% to 7.9% unweighted. Even after full implementation, bound tariffs will still exceed applied tariffs on nearly 1,500 tariff lines.
+  </details>
+date: "2013-01-01"
+status: "published"
+categories: [other]
+---
+
+Using ten-digit trade data, we assess how Russia's tariff structure changed as a result of joining a customs union with Kazakhstan and Belarus, and how it will change as WTO commitments phase in through 2020. WTO commitments progressively and significantly lower Russia's applied tariffs, ultimately falling to 45–68% of pre-accession levels, with the largest fall on a trade-weighted basis: from 13.0% to 5.8% weighted average, versus 11.5% to 7.9% unweighted. Even after full implementation, bound tariffs will still exceed applied tariffs on nearly 1,500 tariff lines.
+
+**Published in:** Eastern European Economics, 2013. With David G. Tarr.
+
+[Aston Research Explorer / ORCID](https://orcid.org/0000-0003-4990-6025)

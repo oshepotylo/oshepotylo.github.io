@@ -1,0 +1,19 @@
+---
+title: "Trade Wars: Are Good and Easy to Win?"
+description: >-
+  **SSRN Working Paper, 2018. With Karen Jackson.**
+  <details class="abstract-toggle"><summary onclick="event.preventDefault();
+  event.stopPropagation(); this.closest('details').open =
+  !this.closest('details').open;">Show abstract</summary>
+  Taking its title from a well-known 2018 tweet, this paper uses a structural gravity approach to evaluate the welfare implications of US protectionist trade policy under three retaliatory scenarios from the EU and China. The impact on the US is negative under every scenario, ranging from 0.25% to 1.4% of GDP, with smaller US losses precisely when the EU and China do not retaliate — meaning it is a dominant strategy for both the EU and China to hold their tariffs against US goods at existing levels rather than de-escalate.
+  </details>
+date: "2018-08-01"
+status: "wip"
+categories: [trade-wars]
+---
+
+Taking its title from a well-known 2018 tweet, this paper uses a structural gravity approach to evaluate the welfare implications of US protectionist trade policy under three retaliatory scenarios from the EU and China. The impact on the US is negative under every scenario, ranging from 0.25% to 1.4% of GDP, with smaller US losses precisely when the EU and China do not retaliate — meaning it is a dominant strategy for both the EU and China to hold their tariffs against US goods at existing levels rather than de-escalate.
+
+**Working paper:** SSRN Working Paper, 2018. With Karen Jackson.
+
+[Aston Research Explorer / ORCID](https://orcid.org/0000-0003-4990-6025)

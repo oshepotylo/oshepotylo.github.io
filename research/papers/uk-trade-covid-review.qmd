@@ -1,0 +1,19 @@
+---
+title: "UK trade in the time of COVID-19: A review"
+description: >-
+  **The World Economy, 2022. With Jun Du.**
+  <details class="abstract-toggle"><summary onclick="event.preventDefault();
+  event.stopPropagation(); this.closest('details').open =
+  !this.closest('details').open;">Show abstract</summary>
+  We review the UK's trade performance through the COVID-19 crisis and consider how it might be revived. UK goods exports contracted more sharply in 2020 than those of international peers, with a deeper decline and slower recovery than Germany, Italy, Spain, and the US. Trends from 2017 to 2019 already showed the UK's global competitiveness weakening, suggesting a more persistent problem against a backdrop of productivity slowdown and Brexit uncertainty. We analyse the confluence of internal and external factors bearing on UK trade and argue that boosting productivity is central to recovering from both the COVID shock and Brexit.
+  </details>
+date: "2022-05-01"
+status: "published"
+categories: [brexit]
+---
+
+We review the UK's trade performance through the COVID-19 crisis and consider how it might be revived. UK goods exports contracted more sharply in 2020 than those of international peers, with a deeper decline and slower recovery than Germany, Italy, Spain, and the US. Trends from 2017 to 2019 already showed the UK's global competitiveness weakening, suggesting a more persistent problem against a backdrop of productivity slowdown and Brexit uncertainty. We analyse the confluence of internal and external factors bearing on UK trade and argue that boosting productivity is central to recovering from both the COVID shock and Brexit.
+
+**Published in:** The World Economy, 2022. With Jun Du.
+
+[Aston Research Explorer / ORCID](https://orcid.org/0000-0003-4990-6025)
