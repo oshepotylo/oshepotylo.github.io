@@ -16,10 +16,15 @@ about:
       href: https://www.linkedin.com/in/oleksandr-shepotylo-b050353/
     - text: "{{< iconify simple-icons bluesky >}} Bluesky"
       href: https://bsky.app/profile/shepotylo
+    - text: "{{< iconify simple-icons substack >}} Substack"
+      href: https://oleksandrshepotylo.substack.com/
     - text: "{{< iconify academicons googlescholar >}} Google Scholar"
       href: https://scholar.google.com/citations?user=6uHK_VcAAAAJ&hl=en
     - text: "{{< iconify academicons repec >}} RePEc / IDEAS"
       href: https://ideas.repec.org/e/psh191.html
+    - icon: mortarboard-fill
+      text: "Aston Research Explorer"
+      href: https://research.aston.ac.uk/en/persons/oleksandr-shepotylo/
 ---
 
 ## Bio

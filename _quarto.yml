@@ -48,6 +48,8 @@ website:
         href: https://www.linkedin.com/in/oleksandr-shepotylo-b050353/
       - text: "{{< iconify simple-icons bluesky >}}"
         href: https://bsky.app/profile/shepotylo
+      - text: "{{< iconify simple-icons substack >}}"
+        href: https://oleksandrshepotylo.substack.com/
       - icon: rss
         href: blog.xml
 
@@ -59,6 +61,8 @@ website:
         href: https://github.com/oshepotylo
       - icon: linkedin
         href: https://www.linkedin.com/in/oleksandr-shepotylo-b050353/
+      - text: "{{< iconify simple-icons substack >}}"
+        href: https://oleksandrshepotylo.substack.com/
 
 format:
   html:
