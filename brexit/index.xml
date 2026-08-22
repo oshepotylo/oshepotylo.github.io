@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Oleksandr Shepotylo</title>
+<link>https://shepotylo.com/brexit/</link>
+<atom:link href="https://shepotylo.com/brexit/index.xml" rel="self" type="application/rss+xml"/>
+<description>What leaving the EU actually did to British trade — measured, not argued.</description>
+<image>
+<url>https://shepotylo.com/../images/themes/brexit.jpg</url>
+<title>Oleksandr Shepotylo</title>
+<link>https://shepotylo.com/brexit/</link>
+</image>
+<generator>quarto-1.10.18</generator>
+<lastBuildDate>Sat, 01 Mar 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>How did the Brexit uncertainty impact services exports of UK firms?</title>
+  <link>https://shepotylo.com/research/papers/brexit-services-exports.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Brexit-related uncertainty had a measurable, negative effect on UK firms’ services exports — distinct from, and in some respects larger than, the effect of the tariff and non-tariff barriers that eventually took effect. Using firm-level export data and a synthetic difference-in-differences design, we isolate the uncertainty channel from the trade-policy channel by comparing UK firms to a synthetic control built from firms in countries that faced no comparable shock.</p>
+<p><strong>Published in:</strong> <em>Journal of International Business Policy</em>, 8(1), 80–104</p>
+<p><a href="https://research.aston.ac.uk/en/persons/oleksandr-shepotylo/publications/">Aston Research Explorer</a></p>
+
+
+<!-- -->
+
+
+ ]]></description>
+  <category>brexit</category>
+  <category>services-trade</category>
+  <category>firm-level</category>
+  <guid>https://shepotylo.com/research/papers/brexit-services-exports.html</guid>
+  <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>How did Brexit affect UK trade?</title>
+  <link>https://shepotylo.com/research/papers/how-did-brexit-affect-uk-trade.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>A plain-language stocktake of the UK trade evidence two years after the Trade and Cooperation Agreement took effect, aimed at a policy and social-science audience rather than a specialist trade-economics one. We summarise what the firm- and product-level data show about goods versus services, large firms versus small ones, and which sectors adjusted fastest.</p>
+<p><strong>Published in:</strong> <em>Contemporary Social Science</em>, 18(2), 266–283</p>
+<p><a href="https://research.aston.ac.uk/en/persons/oleksandr-shepotylo/publications/">Aston Research Explorer</a></p>
+
+
+<!-- -->
+
+
+ ]]></description>
+  <category>brexit</category>
+  <guid>https://shepotylo.com/research/papers/how-did-brexit-affect-uk-trade.html</guid>
+  <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Post-Brexit trade survival: Looking beyond the European Union</title>
+  <link>https://shepotylo.com/research/papers/post-brexit-trade-survival.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Before the UK left the EU, we modelled how UK trade relationships with non-EU partners were likely to evolve once preferential access to the single market ended — asking whether new or renegotiated third-country agreements could plausibly offset the loss. The structural gravity estimates from this paper became a reference point for subsequent post-Brexit impact assessments, including several used in policy submissions.</p>
+<p><strong>Published in:</strong> <em>Economic Modelling</em>, 73(C), 317–328</p>
+<p><a href="https://research.aston.ac.uk/en/persons/oleksandr-shepotylo/publications/">Aston Research Explorer</a></p>
+
+
+<!-- -->
+
+
+ ]]></description>
+  <category>brexit</category>
+  <category>consultancy</category>
+  <category>gravity</category>
+  <guid>https://shepotylo.com/research/papers/post-brexit-trade-survival.html</guid>
+  <pubDate>Mon, 01 Jan 2018 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

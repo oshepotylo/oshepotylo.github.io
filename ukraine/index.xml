@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Oleksandr Shepotylo</title>
+<link>https://shepotylo.com/ukraine/</link>
+<atom:link href="https://shepotylo.com/ukraine/index.xml" rel="self" type="application/rss+xml"/>
+<description>Exports, reconstruction, and whether an economy can win a war.</description>
+<image>
+<url>https://shepotylo.com/../images/themes/ukraine.jpg</url>
+<title>Oleksandr Shepotylo</title>
+<link>https://shepotylo.com/ukraine/</link>
+</image>
+<generator>quarto-1.10.18</generator>
+<lastBuildDate>Sat, 01 Jan 2022 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Non-tariff measures and productivity of Ukrainian food-processing firms</title>
+  <link>https://shepotylo.com/research/papers/agrifood-disintegration.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Non-tariff measures imposed by trading partners act as a quality filter on Ukrainian food-processing exporters: firms that clear them see productivity gains, while the compliance costs push less productive firms out of export markets entirely. Using firm-level microdata, we separate this selection effect from the direct within-firm productivity effect of meeting stricter standards — evidence directly relevant to Ukraine’s ongoing agrifood market access negotiations with the EU.</p>
+<p><strong>Published in:</strong> <em>Journal of Agricultural Economics</em>, 73(1), 234–256</p>
+<p><a href="https://research.aston.ac.uk/en/persons/oleksandr-shepotylo/publications/">Aston Research Explorer</a></p>
+
+
+<!-- -->
+
+
+ ]]></description>
+  <category>ukraine</category>
+  <category>trade-wars</category>
+  <category>agrifood</category>
+  <category>non-tariff-measures</category>
+  <category>firm-level</category>
+  <guid>https://shepotylo.com/research/papers/agrifood-disintegration.html</guid>
+  <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Non-tariff measures, quality and exporting: evidence from microdata</title>
+  <link>https://shepotylo.com/research/papers/non-tariff-measures-quality-exporting.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Non-tariff measures are often treated in policy debate as pure trade friction, but firm-level evidence shows they also act as a quality signal: compliance raises the price premium exporters can command in destination markets, partially offsetting the compliance cost. We quantify this trade-off using product-level export microdata.</p>
+<p><strong>Published in:</strong> <em>European Review of Agricultural Economics</em>, 47(2), 719–751</p>
+<p><a href="https://research.aston.ac.uk/en/persons/oleksandr-shepotylo/publications/">Aston Research Explorer</a></p>
+
+
+<!-- -->
+
+
+ ]]></description>
+  <category>ukraine</category>
+  <category>consultancy</category>
+  <category>non-tariff-measures</category>
+  <category>firm-level</category>
+  <guid>https://shepotylo.com/research/papers/non-tariff-measures-quality-exporting.html</guid>
+  <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Conflict and well-being of civilians: The case of the Russian-Ukrainian hybrid war</title>
+  <link>https://shepotylo.com/research/papers/ukraine-hybrid-war-wellbeing.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Using survey data collected before and after the outbreak of hybrid warfare in eastern Ukraine in 2014, we estimate the effect of proximity to conflict on self-reported well-being and economic security — evidence that predates, and helps contextualise, the much larger shock of the 2022 full-scale invasion.</p>
+<p><strong>Published in:</strong> <em>Economic Systems</em>, 44(1)</p>
+<p><a href="https://research.aston.ac.uk/en/persons/oleksandr-shepotylo/publications/">Aston Research Explorer</a></p>
+
+
+<!-- -->
+
+
+ ]]></description>
+  <category>ukraine</category>
+  <guid>https://shepotylo.com/research/papers/ukraine-hybrid-war-wellbeing.html</guid>
+  <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

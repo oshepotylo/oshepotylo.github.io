@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Oleksandr Shepotylo</title>
+<link>https://shepotylo.com/blog.html</link>
+<atom:link href="https://shepotylo.com/blog.xml" rel="self" type="application/rss+xml"/>
+<description>Commentary and analysis on trade policy, Brexit, and the war economy.</description>
+<generator>quarto-1.10.18</generator>
+<lastBuildDate>Wed, 15 Jan 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Welcome</title>
+  <link>https://shepotylo.com/blog/2025-01-15-first-post/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This site collects my research, commentary, and policy work on international trade — organised by theme rather than by publication type. Three research programmes anchor it at launch: the trade consequences of Brexit, the fragmentation of trade under renewed great-power rivalry, and Ukraine’s wartime export economy. A fourth section, <a href="../../consultancy/index.html">Consultancy</a>, describes the policy advisory work that runs alongside the academic research.</p>
+<p>Posts here will track new papers, data findings, and commentary as they happen, each tagged into the relevant theme so the hub pages stay current. The RSS feed (top right) is the best way to follow along.</p>
+
+
+<!-- -->
+
+
+ ]]></description>
+  <category>meta</category>
+  <guid>https://shepotylo.com/blog/2025-01-15-first-post/</guid>
+  <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
