@@ -29,9 +29,11 @@ about:
 
 ## Bio
 
-I am a Reader in Economics at Aston Business School, and Chief
-Economist at the Foreign Trade Research Center (Trade+) at the Kyiv School
-of Economics. I hold a PhD in Economics from the University of Maryland.
+I am a Reader in Economics at Aston Business School and Centre Director of
+the [Centre for Business Prosperity](https://www.aston.ac.uk/research/bss/research-centres/business-prosperity),
+and Former Chief Economist at the Foreign Trade Research Center (Trade+) at
+the Kyiv School of Economics. I hold a PhD in Economics from the
+University of Maryland.
 
 My research is applied international economics: how firms, industries, and
 countries grow by integrating into global markets, and what happens to that
@@ -50,7 +52,8 @@ on trade policy — see [Consultancy](/consultancy/index.qmd).
 ## Appointments
 
 - Reader in Economics, Aston Business School
-- Chief Economist, Foreign Trade Research Center (Trade+), Kyiv School of Economics
+- Centre Director, [Centre for Business Prosperity](https://www.aston.ac.uk/research/bss/research-centres/business-prosperity), Aston Business School
+- Former Chief Economist, Foreign Trade Research Center (Trade+), Kyiv School of Economics
 - \[Add prior appointments\]
 
 ## CV
