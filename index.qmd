@@ -3,6 +3,7 @@ title: "Oleksandr Shepotylo"
 subtitle: "International trade, trade policy, and productivity"
 page-layout: full
 toc: false
+code-tools: false
 listing:
   - id: theme-tiles
     contents:
@@ -27,18 +28,22 @@ listing:
     fields: [date, title, description, categories]
 ---
 
+Reader in Economics, Aston Business School.
+Centre Director, [Centre for Business Prosperity](https://www.aston.ac.uk/research/bss/research-centres/business-prosperity).
+Former Lead Economist, [Foreign Trade Research Center (Trade+)](https://kse.ua/kse-impact/trade/), Kyiv School of Economics.
+PhD in Economics, University of Maryland.
+
+I work on how firms, industries, and countries grow by integrating into global
+markets — and what happens when that integration goes into reverse. From
+Brexit and the US–China trade war to Ukraine's wartime export economy, the
+questions are the same: who bears the cost, which firms adapt, and — where
+supply chains run through a handful of chokepoints — what makes some of them
+more resilient than others when those chokepoints break.
+
 ::: {#theme-tiles}
 :::
 
 ---
-
-Reader in Economics, Aston Business School.
-Centre Director, [Centre for Business Prosperity](https://www.aston.ac.uk/research/bss/research-centres/business-prosperity).
-Former Chief Economist, Foreign Trade Research Center (Trade+), Kyiv School of Economics.
-PhD in Economics, University of Maryland.
-
-I work on how firms, industries, and countries grow by integrating into global
-markets — and what happens when that integration goes into reverse.
 
 ## Recent
 

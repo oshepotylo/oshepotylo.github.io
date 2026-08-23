@@ -33,7 +33,7 @@ about:
 
 I am a Reader in Economics at Aston Business School and Centre Director of
 the [Centre for Business Prosperity](https://www.aston.ac.uk/research/bss/research-centres/business-prosperity),
-and Former Chief Economist at the Foreign Trade Research Center (Trade+) at
+and Former Lead Economist at the [Foreign Trade Research Center (Trade+)](https://kse.ua/kse-impact/trade/) at
 the Kyiv School of Economics. I hold a PhD in Economics from the
 University of Maryland.
 
@@ -55,7 +55,7 @@ on trade policy — see [Consultancy](/consultancy/index.qmd).
 
 - Reader in Economics, Aston Business School
 - Centre Director, [Centre for Business Prosperity](https://www.aston.ac.uk/research/bss/research-centres/business-prosperity), Aston Business School
-- Former Chief Economist, Foreign Trade Research Center (Trade+), Kyiv School of Economics
+- Former Lead Economist, [Foreign Trade Research Center (Trade+)](https://kse.ua/kse-impact/trade/), Kyiv School of Economics
 - \[Add prior appointments\]
 
 ## CV
