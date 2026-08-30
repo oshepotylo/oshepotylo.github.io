@@ -200,42 +200,56 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I am a Reader in Economics at Aston Business School and Centre Director of the Centre for Business Prosperity, and Former Lead Economist at the Foreign Trade Research Center (Trade+) at the Kyiv School of Economics. I hold a PhD in Economics from the University of Maryland.\nMy research is applied international economics: how firms, industries, and countries grow by integrating into global markets, and what happens to that growth when integration goes into reverse — through Brexit, trade wars, or war itself. Current work spans UK services trade after Brexit, the trade effects of geopolitical alignment, and Ukraine’s wartime export economy.\nAlongside academic research, I advise governments, firms, and institutions on trade policy — see Consultancy."
+    "text": "I have spent my career studying how countries join the world economy. I have spent the last decade watching them leave it.\nThat was not the plan. I trained as a trade economist in the years when integration looked like a ratchet that only turned one way — I worked on Ukraine’s accession to the WTO, on services liberalization, on the productivity gains that arrive when firms are finally exposed to competition. The interesting question back then was how fast the gains came and who captured them.\nThen the UK voted to leave the EU, Washington and Beijing started raising tariffs at each other, and Russia invaded Ukraine. The machinery I had spent fifteen years learning to measure was running in reverse. It turns out the tools work in both directions."
   },
   {
-    "objectID": "about.html#bio",
-    "href": "about.html#bio",
+    "objectID": "about.html#what-i-work-on",
+    "href": "about.html#what-i-work-on",
     "title": "About",
-    "section": "",
-    "text": "I am a Reader in Economics at Aston Business School and Centre Director of the Centre for Business Prosperity, and Former Lead Economist at the Foreign Trade Research Center (Trade+) at the Kyiv School of Economics. I hold a PhD in Economics from the University of Maryland.\nMy research is applied international economics: how firms, industries, and countries grow by integrating into global markets, and what happens to that growth when integration goes into reverse — through Brexit, trade wars, or war itself. Current work spans UK services trade after Brexit, the trade effects of geopolitical alignment, and Ukraine’s wartime export economy.\nAlongside academic research, I advise governments, firms, and institutions on trade policy — see Consultancy."
+    "section": "What I work on",
+    "text": "What I work on\nBrexit — what leaving actually cost, measured rather than asserted. Using a synthetic difference-in-differences design, my co-authors and I find that Brexit-related policy uncertainty reduced UK services exports by 9.2% a year on average — a cumulative loss of roughly $146.8 billion between 2016 and 2019, distinct from and larger than the effect of the tariff and non-tariff barriers that eventually took effect. It also reduced trade in goods by 15% a year, with adjustments working through varieties rather than volumes. Small firms were hit the hardest.\nTrade wars — how geopolitical alignment reshapes trade, and what happens when allies use market access as leverage. Recent work on the January 2026 Greenland tariff episode found the UK has no effective response to economic coercion from friendly states, and that retaliation would have cost the average household.\nUkraine — export diversification, market access, and reconstruction. I am part of the Economists for Ukraine group. I am working on a project that studies cost of port blockade on Ukrainian exports. As Lead Economist at the Foreign Trade Research Center (Trade+) at the Kyiv School of Economics, I worked on where Ukrainian exports could go and what was stopping them from getting there.\nThe through-line is methodological as much as thematic: gravity models, firm-level microdata, and quasi-experimental designs applied to questions where the counterfactual is genuinely hard and the policy stakes are real."
+  },
+  {
+    "objectID": "about.html#currently",
+    "href": "about.html#currently",
+    "title": "About",
+    "section": "Currently",
+    "text": "Currently\nReader in Economics at Aston Business School and Centre Director of the Centre for Business Prosperity.\nI also advise governments, firms, and institutions on trade policy — see Consultancy."
+  },
+  {
+    "objectID": "about.html#before-that",
+    "href": "about.html#before-that",
+    "title": "About",
+    "section": "Before that",
+    "text": "Before that\nAston University — Senior Lecturer and Lecturer in Economics, 2018–2024\nKyiv School of Economics — Lead Economist, Foreign Trade Research Center (Trade+) 2019-2022; previously Assistant Professor of Economics, 2006–2013\nUniversity of Bradford — Lecturer in Economics, 2013–2017\nHigher School of Economics — Professor of Economics, Moscow; Lead Economist, Centre for Market Studies and Spatial Economics, St Petersburg, 2013\nThe World Bank — Development Research Group, Trade unit"
   },
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
     "title": "About",
     "section": "Education",
-    "text": "Education\n\nPhD in Economics, University of Maryland\n[Add prior degrees — MA/BA institution and field]"
+    "text": "Education\nPhD, Economics — University of Maryland, 2006\nMA, Economics — New Economic School, Moscow, 1999"
   },
   {
-    "objectID": "about.html#appointments",
-    "href": "about.html#appointments",
+    "objectID": "about.html#how-i-work",
+    "href": "about.html#how-i-work",
     "title": "About",
-    "section": "Appointments",
-    "text": "Appointments\n\nReader in Economics, Aston Business School\nCentre Director, Centre for Business Prosperity, Aston Business School\nFormer Lead Economist, Foreign Trade Research Center (Trade+), Kyiv School of Economics\n[Add prior appointments]"
+    "section": "How I work",
+    "text": "How I work\nAlmost everything I do runs on R. I build gravity models and firm-level panels, and I teach the methods as well as use them — including a workshop series at Aston on regression analysis, visualisation with ggplot, and reproducible reporting in Markdown. This site is itself built in Quarto, which tells you roughly where I sit on the spectrum between economist and data person.\nI care about work that survives contact with a policy audience. A result that cannot be explained to a permanent secretary in three sentences is a result that will not change anything."
   },
   {
-    "objectID": "about.html#cv",
-    "href": "about.html#cv",
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
     "title": "About",
-    "section": "CV",
-    "text": "CV\nDownload full CV (PDF)"
+    "section": "Contact",
+    "text": "Contact\nshepotylo@gmail.com for consultancy, media, and speaking. o.shepotylo@aston.ac.uk for academic correspondence.\nDownload full CV (PDF)"
   },
   {
     "objectID": "blog/2025-01-15-first-post/index.html",
     "href": "blog/2025-01-15-first-post/index.html",
     "title": "Welcome",
     "section": "",
-    "text": "This site collects my research, commentary, and policy work on international trade — organised by theme rather than by publication type. Three research programmes anchor it at launch: the trade consequences of Brexit, the fragmentation of trade under renewed great-power rivalry, and Ukraine’s wartime export economy. A fourth section, Consultancy, describes the policy advisory work that runs alongside the academic research.\nPosts here will track new papers, data findings, and commentary as they happen, each tagged into the relevant theme so the hub pages stay current. The RSS feed (top right) is the best way to follow along."
+    "text": "This site collects my research, commentary, and policy work on international trade — organised by theme rather than by publication type. Six hubs anchor it:\nBrexit — what leaving the EU actually did to British trade, measured rather than argued.\nTrade Wars — tariffs, export controls, and economic coercion as geopolitics rewrites the trade map.\nUkraine — exports, reconstruction, and whether an economy can win a war.\nFirms — what trade policy and trade shocks do at the level of the firm.\nOther — earlier and adjacent work on institutions, urban economics, and spatial econometrics.\nConsultancy — the policy advisory work that runs alongside the academic research.\nPosts here will track new papers, data findings, and commentary as they happen, each tagged into the relevant theme so the hub pages stay current. The RSS feed (top right) is the best way to follow along."
   },
   {
     "objectID": "consultancy/index.html",
