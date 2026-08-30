@@ -25,6 +25,17 @@
   }
 }
 
+// Narrow the About page's sidebar column (trestles template defaults to a
+// fixed 42% width, leaving a large empty gap next to the photo/link buttons
+// and squeezing the bio text into a narrow column)
+div.quarto-about-trestles .about-entity {
+  @media (min-width: 992px) {
+    flex: 0 0 300px !important;
+    max-width: 300px !important;
+    padding-right: 2em !important;
+  }
+}
+
 // Abstract disclosure toggles in research listings
 .listing-description,
 .quarto-listing-container-table td {
