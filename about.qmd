@@ -2,26 +2,27 @@
 title: "About"
 image: profile.jpg
 about:
-  template: solana
+  template: trestles
   image-shape: rounded
+  image-width: 16em
   links:
     - icon: envelope
       text: Email
       href: mailto:shepotylo@gmail.com
-    - icon: github
-      text: GitHub
-      href: https://github.com/oshepotylo
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/oleksandr-shepotylo-b050353/
     - text: "{{< iconify simple-icons bluesky >}} Bluesky"
       href: https://bsky.app/profile/shepotylo
+    - icon: github
+      text: GitHub
+      href: https://github.com/oshepotylo
+    - text: "{{< iconify academicons googlescholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=6uHK_VcAAAAJ&hl=en
     - text: "{{< iconify simple-icons substack >}} Substack"
       href: https://oleksandrshepotylo.substack.com/
     - text: "{{< iconify academicons orcid >}} ORCID"
       href: https://orcid.org/0000-0003-4990-6025
-    - text: "{{< iconify academicons googlescholar >}} Google Scholar"
-      href: https://scholar.google.com/citations?user=6uHK_VcAAAAJ&hl=en
     - text: "{{< iconify academicons repec >}} RePEc / IDEAS"
       href: https://ideas.repec.org/e/psh191.html
     - icon: mortarboard-fill
@@ -29,35 +30,96 @@ about:
       href: https://research.aston.ac.uk/en/persons/oleksandr-shepotylo/
 ---
 
-## Bio
+I have spent my career studying how countries join the world economy. I have
+spent the last decade watching them leave it.
 
-I am a Reader in Economics at Aston Business School and Centre Director of
-the [Centre for Business Prosperity](https://www.aston.ac.uk/research/bss/research-centres/business-prosperity),
-and Former Lead Economist at the [Foreign Trade Research Center (Trade+)](https://kse.ua/kse-impact/trade/) at
-the Kyiv School of Economics. I hold a PhD in Economics from the
-University of Maryland.
+That was not the plan. I trained as a trade economist in the years when
+integration looked like a ratchet that only turned one way — I worked on
+Ukraine's accession to the WTO, on services liberalization, on the productivity
+gains that arrive when firms are finally exposed to competition. The interesting
+question back then was how fast the gains came and who captured them.
 
-My research is applied international economics: how firms, industries, and
-countries grow by integrating into global markets, and what happens to that
-growth when integration goes into reverse — through Brexit, trade wars, or
-war itself. Current work spans UK services trade after Brexit, the trade
-effects of geopolitical alignment, and Ukraine's wartime export economy.
+Then the UK voted to leave the EU, Washington and Beijing started raising
+tariffs at each other, and Russia invaded Ukraine. The machinery I had spent
+fifteen years learning to measure was running in reverse. It turns out the
+tools work in both directions.
 
-Alongside academic research, I advise governments, firms, and institutions
-on trade policy — see [Consultancy](/consultancy/index.qmd).
+## What I work on
+
+**[Brexit](/brexit/)** — what leaving actually cost, measured rather than
+asserted. Using a synthetic difference-in-differences design, my co-authors
+and I find that Brexit-related policy uncertainty reduced UK services exports
+by 9.2% a year on average — a cumulative loss of roughly $146.8 billion
+between 2016 and 2019, distinct from and larger than the effect of the
+tariff and non-tariff barriers that eventually took effect. It also reduced
+trade in goods by 15% a year, with adjustments working through varieties
+rather than volumes. Small firms were hit the hardest.
+
+
+**[Trade wars](/trade-wars/)** — how geopolitical alignment reshapes trade,
+and what happens when allies use market access as leverage. Recent work on
+the January 2026 Greenland tariff episode found the UK has no effective
+response to economic coercion from friendly states, and that retaliation
+would have cost the average household.
+
+**[Ukraine](/ukraine/)** — export diversification, market access, and
+reconstruction. I am part of the [Economists for Ukraine](https://econ4ua.org/) group.
+I am working on a project that studies cost of port blockade on Ukrainian exports. 
+As Lead Economist at the Foreign Trade Research Center
+(Trade+) at the Kyiv School of Economics, I worked on where Ukrainian
+exports could go and what was stopping them from getting there.
+
+The through-line is methodological as much as thematic: gravity models,
+firm-level microdata, and quasi-experimental designs applied to questions
+where the counterfactual is genuinely hard and the policy stakes are real.
+
+## Currently
+
+Reader in Economics at [Aston Business School](https://www.aston.ac.uk/) and
+Centre Director of the [Centre for Business
+Prosperity](https://www.aston.ac.uk/research/bss/research-centres/business-prosperity).
+
+I also advise governments, firms, and institutions on trade policy — see
+[Consultancy](/consultancy/).
+
+## Before that
+
+**Aston University** — Senior Lecturer and Lecturer in Economics, 2018–2024
+
+**Kyiv School of Economics** — Lead Economist, Foreign Trade Research Center
+(Trade+) 2019-2022; previously Assistant Professor of Economics, 2006–2013
+
+**University of Bradford** — Lecturer in Economics, 2013–2017
+
+**Higher School of Economics** — Professor of Economics, Moscow; Lead
+Economist, Centre for Market Studies and Spatial Economics, St Petersburg,
+2013
+
+**The World Bank** — Development Research Group, Trade unit
 
 ## Education
 
-- PhD in Economics, University of Maryland
-- \[Add prior degrees — MA/BA institution and field\]
+**PhD, Economics** — University of Maryland, 2006
 
-## Appointments
+**MA, Economics** — New Economic School, Moscow, 1999
 
-- Reader in Economics, Aston Business School
-- Centre Director, [Centre for Business Prosperity](https://www.aston.ac.uk/research/bss/research-centres/business-prosperity), Aston Business School
-- Former Lead Economist, [Foreign Trade Research Center (Trade+)](https://kse.ua/kse-impact/trade/), Kyiv School of Economics
-- \[Add prior appointments\]
+## How I work
 
-## CV
+Almost everything I do runs on R. I build gravity models and firm-level
+panels, and I teach the methods as well as use them — including a workshop
+series at Aston on regression analysis, visualisation with ggplot, and
+reproducible reporting in Markdown. This site is itself built in Quarto,
+which tells you roughly where I sit on the spectrum between economist and
+data person.
+
+I care about work that survives contact with a policy audience. A result
+that cannot be explained to a permanent secretary in three sentences is a
+result that will not change anything.
+
+## Contact
+
+[shepotylo@gmail.com](mailto:shepotylo@gmail.com) for consultancy, media,
+and speaking. [o.shepotylo@aston.ac.uk](mailto:o.shepotylo@aston.ac.uk) for
+academic correspondence.
 
 [Download full CV (PDF)](cv.pdf)

@@ -6,11 +6,26 @@ categories: [meta]
 ---
 
 This site collects my research, commentary, and policy work on international
-trade — organised by theme rather than by publication type. Three research
-programmes anchor it at launch: the trade consequences of Brexit, the
-fragmentation of trade under renewed great-power rivalry, and Ukraine's
-wartime export economy. A fourth section, [Consultancy](/consultancy/index.qmd),
-describes the policy advisory work that runs alongside the academic research.
+trade — organised by theme rather than by publication type. Six hubs anchor
+it:
+
+**[Brexit](/brexit/index.qmd)** — what leaving the EU actually did to
+British trade, measured rather than argued.
+
+**[Trade Wars](/trade-wars/index.qmd)** — tariffs, export controls, and
+economic coercion as geopolitics rewrites the trade map.
+
+**[Ukraine](/ukraine/index.qmd)** — exports, reconstruction, and whether an
+economy can win a war.
+
+**[Firms](/firms/index.qmd)** — what trade policy and trade shocks do at
+the level of the firm.
+
+**[Other](/other/index.qmd)** — earlier and adjacent work on institutions,
+urban economics, and spatial econometrics.
+
+**[Consultancy](/consultancy/index.qmd)** — the policy advisory work that
+runs alongside the academic research.
 
 Posts here will track new papers, data findings, and commentary as they
 happen, each tagged into the relevant theme so the hub pages stay current.
