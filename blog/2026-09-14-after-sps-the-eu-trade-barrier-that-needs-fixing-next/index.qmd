@@ -1,0 +1,14 @@
+---
+title: "After SPS: the EU trade barrier that needs fixing next"
+description: "Five years of UK-EU trade data show a 53.8% decline in export product varieties and a 16.5% fall in export values — deeply integrated sectors survived Brexit, but the logic of maintaining them is eroding."
+date: "2026-09-14"
+categories: [brexit, firms]
+---
+
+Drawing on five years of monthly bilateral trade data across 100 countries (2017–2025), this piece finds that while deeply integrated sectors like pharmaceuticals and automotive components have proven more resilient to Brexit than consumer goods, the underlying commercial logic of running cross-border production under two regulatory regimes is weakening year on year. Overall, UK exports to the EU have seen a 53.8% decline in product varieties and a 16.5% fall in value, with technical barriers — conformity assessment and dual certification in particular — imposing disproportionate costs on the most interconnected sectors. The recommendation is a sectoral mutual recognition agreement modelled on the EU–Switzerland framework, alongside investment support for firms absorbing dual regulatory costs, before the window to preserve these cross-border production relationships closes.
+
+Written by Jun Du, based on our joint research on UK–EU trade.
+
+**Originally published on British Chambers of Commerce**, September 14, 2026.
+
+[Read the full piece →](https://www.britishchambers.org.uk/news/2026/09/after-sps-the-eu-trade-barrier-that-needs-fixing-next)

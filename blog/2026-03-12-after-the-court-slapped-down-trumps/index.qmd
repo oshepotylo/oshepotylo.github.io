@@ -1,0 +1,12 @@
+---
+title: "After the Court slapped down Trump's tariffs, USTR is trying to build a sturdier tariff machine"
+description: "The Trump administration is using Section 301 'overcapacity' investigations against 16 trading partners to build a legally sturdier basis for tariffs after courts blocked its earlier approach."
+date: "2026-03-12"
+categories: [trade-wars]
+---
+
+The Trump administration has opened Section 301 investigations against 16 trading partners, targeting alleged "structural excess capacity" in manufacturing. Rather than imposing tariffs immediately — the approach courts recently blocked — this procedural route builds a formal record through hearings and public comment before any action is taken. The notice conflates genuine overcapacity with ordinary bilateral trade surpluses and wage differentials, two economically distinct things, and the target list spans China, EU members, Japan, India and others across electronics, autos, chemicals and steel. The effect is a reusable legal doctrine for tariffing any economy running a manufacturing surplus, regardless of the underlying cause.
+
+**Originally published on Substack**, March 12, 2026.
+
+[Read the full piece →](https://oleksandrshepotylo.substack.com/p/after-the-court-slapped-down-trumps)

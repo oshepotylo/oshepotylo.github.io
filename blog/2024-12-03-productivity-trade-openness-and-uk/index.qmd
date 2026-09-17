@@ -1,0 +1,20 @@
+---
+title: "Productivity, trade openness and UK trade policy adventurism"
+description: "The UK's productivity problem is really a competition problem — record markups and weak business dynamism, best addressed by a customs union with the EU."
+date: "2024-12-03"
+categories: [brexit, other]
+---
+
+The piece argues that the UK's growth problem is best understood as a
+competitiveness crisis — high market power combined with low rates of firm
+entry that together choke off dynamism. ONS data shows markups at record
+levels (1.27 in 2022) and weak business churn, with what productivity growth
+there is concentrated among a small set of top-performing firms. The proposed
+fix is more trade openness: greater competition from abroad would compress
+prices and spur innovation, and of the available options a customs union with
+the EU is presented as the most realistic route to restoring market dynamism
+in the UK's current protectionist drift.
+
+**Originally published on Substack**, December 3, 2024.
+
+[Read the full piece →](https://oleksandrshepotylo.substack.com/p/productivity-trade-openness-and-uk)

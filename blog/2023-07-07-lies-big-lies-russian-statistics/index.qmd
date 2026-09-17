@@ -1,0 +1,18 @@
+---
+title: "Lies, big lies, and Russian statistics"
+description: "Why Russia's official 1.8% GDP decline for Q1 2023 likely understates the real contraction by masking it in inflated price deflators."
+date: "2023-07-07"
+categories: [ukraine, russia-economy]
+---
+
+A close read of Rosstat's Q1 2023 release, comparing nominal and real
+sectoral figures. The implied GDP deflator for raw materials shows a 31.3%
+price decline against an officially reported 26.3%, and similar gaps recur
+across other sectors — inconsistencies that flatter the real growth number.
+Correcting for them points to an actual contraction closer to 5%, far worse
+than the headline 1.8%, and a reminder that wartime Russian statistics need
+independent scrutiny before they feed into international forecasts.
+
+**Originally published on Substack**, July 7, 2023.
+
+[Read the full piece →](https://oleksandrshepotylo.substack.com/p/lies-big-lies-and-russian-statistics)

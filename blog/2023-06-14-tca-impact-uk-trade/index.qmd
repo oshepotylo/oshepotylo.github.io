@@ -1,0 +1,18 @@
+---
+title: "The impact of the Trade and Cooperation Agreement on UK trade"
+description: "New econometric evidence that the UK-EU Trade and Cooperation Agreement cut UK exports to the EU by over 22% and shrank export product variety."
+date: "2023-06-14"
+categories: [brexit]
+---
+
+With Jun Du, this piece sets out econometric evidence that the Trade and
+Cooperation Agreement, in force since January 2021, is a major driver of the
+UK's weak trade performance — not a neutral continuity arrangement. Exports
+to the EU came in 22.1% lower and imports 9.5% lower than a no-Brexit
+counterfactual would predict, and the UK lost an estimated 20–42% of its
+export product variety over the first fifteen months, with small firms in
+manufacturing regions hit hardest.
+
+**Originally published on UK in a Changing Europe**, June 14, 2023.
+
+[Read the full piece →](https://ukandeu.ac.uk/the-impact-of-the-trade-and-cooperation-agreement-on-uk-trade/)

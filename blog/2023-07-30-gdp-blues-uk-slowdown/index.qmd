@@ -1,0 +1,19 @@
+---
+title: "GDP Blues: Unravelling the UK's Troubled Economic Slowdown"
+description: "Four reasons behind the UK's anaemic 0.9% real GDP growth from 2019 to 2023, from collapsing consumer confidence to new post-Brexit trade barriers."
+date: "2023-07-30"
+categories: [other, brexit]
+---
+
+The UK's real GDP grew just 0.9% between 2019 and 2023, well behind
+comparable economies, and this post traces that underperformance to four
+compounding causes: weak consumer confidence dragging down domestic spending,
+export growth stalled by new post-Brexit trade barriers, falling imports
+signalling reduced participation in global supply chains, and a recovery
+propped up disproportionately by government spending rather than private
+investment. Fixing the structural issues, not just riding out the cycle, is
+what the piece argues Britain actually needs.
+
+**Originally published on Substack**, July 30, 2023.
+
+[Read the full piece →](https://oleksandrshepotylo.substack.com/p/gdp-blues-unravelling-the-uks-troubled)

@@ -1,0 +1,18 @@
+---
+title: "Trump tariffs v2.0 Update"
+description: "The trade war is on: Canada gets a preferential 10% rate on energy given US reliance on Canadian crude, while Mexico still faces the full 25%."
+date: "2025-02-02"
+categories: [trade-wars]
+---
+
+With the tariffs now in effect, the picture has shifted: Mexico still faces a
+flat 25% duty, but Canada gets a preferential structure — 10% on energy
+imports and 25% on everything else — reflecting how dependent the US is on
+Canadian crude oil. Under this modified approach, modelled Canadian export
+losses improve from -23.9% to -20.4% in the no-retaliation scenario, though
+the piece stresses the trade war still carries substantial welfare costs for
+all sides if retaliation follows.
+
+**Originally published on Substack**, February 2, 2025.
+
+[Read the full piece →](https://oleksandrshepotylo.substack.com/p/trump-tariffs-v20-update)

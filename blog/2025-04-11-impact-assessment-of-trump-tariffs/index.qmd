@@ -1,0 +1,12 @@
+---
+title: "Impact assessment of Trump tariffs and China retaliation"
+description: "Modelling the long-run hit from Trump-era tariffs and Chinese retaliation: both economies lose roughly 1.5% of GDP per capita, but the US gets inflation and China gets deflation."
+date: "2025-04-11"
+categories: [trade-wars]
+---
+
+Simulating a package of 10% baseline tariffs, 25% sectoral tariffs on autos and steel, and a 125% tariff on Chinese imports, the analysis projects a roughly 1.5% decline in real GDP per capita for both the US and China — but through opposite channels: about 6% higher prices in the US, and deflationary pressure in China as export capacity looks for other outlets. Neighbouring economies are not spared: Canada and Mexico see GDP declines of 1.4–2%, while other developed economies see smaller losses under 1% via reduced global demand spillovers.
+
+**Originally published on Substack**, April 11, 2025.
+
+[Read the full piece →](https://oleksandrshepotylo.substack.com/p/impact-assessment-of-trump-tariffs)

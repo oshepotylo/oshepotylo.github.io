@@ -1,0 +1,12 @@
+---
+title: "Chips, Curbs & Tariffs"
+description: "China's tightened rare-earth export controls and Washington's retaliatory tariffs are exposing how exposed chipmakers and defence supply chains are to a single supplier."
+date: "2025-10-13"
+categories: [trade-wars, firms]
+---
+
+China has tightened export controls on rare-earth elements and the technology used to process them, prompting US retaliation through tariffs and software restrictions. The standoff centres on China's roughly 90% share of rare-earth refining and magnet manufacturing, a chokepoint that leaves semiconductor and defence supply chains dangerously exposed. Companies and governments now face pressure to diversify suppliers, invest in alternative processing capacity, and build strategic reserves. The episode marks a turning point where supply-chain resilience, not just cost, becomes a matter of national and industrial security.
+
+**Originally published on Substack**, October 13, 2025.
+
+[Read the full piece →](https://oleksandrshepotylo.substack.com/p/chips-curbs-and-tariffs)

@@ -1,0 +1,12 @@
+---
+title: "The Excavator at the End of the Universe"
+description: "Why AI likely won't shrink work — it will raise the bar for what counts as enough — unless we spend the gains pushing the frontier outward rather than multiplying administrative busywork."
+date: "2026-05-01"
+categories: [other]
+---
+
+Following a familiar historical pattern, the essay argues that AI won't reduce how much we work — it will simply raise expectations of what productivity looks like, just as past efficiency gains expanded demands rather than freeing up leisure. The more interesting question isn't whether AI saves time, but where that time gets spent: on multiplying administrative fog, or on pushing the research and idea-generation frontier outward. Framed that way, the future looks less like an inevitable slowdown and more like a construction site — one where AI lets us explore ideas faster and more ambitiously, not just type faster.
+
+**Originally published on Substack**, May 1, 2026.
+
+[Read the full piece →](https://oleksandrshepotylo.substack.com/p/the-excavator-at-the-end-of-the-universe)

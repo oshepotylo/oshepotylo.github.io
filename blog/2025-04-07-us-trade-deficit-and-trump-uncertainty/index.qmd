@@ -1,0 +1,12 @@
+---
+title: "US trade deficit and Trump uncertainty"
+description: "Tariffs can't fix the US trade deficit because they ignore the saving-investment identity behind it — and early 2025 data already shows the policy backfiring."
+date: "2025-04-07"
+categories: [trade-wars]
+---
+
+The trade balance is, by accounting identity, saving minus investment — so tariffs that don't change US saving or investment behaviour can't durably close the deficit; at best they trigger currency appreciation that offsets them. Early-2025 data bears this out in a counterintuitive way: rather than cutting imports, the threat of tariffs pushed Americans to stockpile goods, and fear drove a $54 billion surge in gold imports, disproportionately benefiting Switzerland, Ireland, and Taiwan. Even a successful reshoring push would likely widen the deficit further in the short run, as firms import capital equipment to build new domestic capacity.
+
+**Originally published on Substack**, April 7, 2025.
+
+[Read the full piece →](https://oleksandrshepotylo.substack.com/p/us-trade-deficit-and-trump-uncertainty)

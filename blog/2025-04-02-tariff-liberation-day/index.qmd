@@ -1,0 +1,12 @@
+---
+title: "Tariff Liberation Day"
+description: "Trump's new 'reciprocal tariff' executive order marks the collapse of the post-WWII trade order, replacing product-level tariffs with blunt, chaos-inducing country-level rates."
+date: "2025-04-02"
+categories: [trade-wars]
+---
+
+Trump's executive order imposes a 10 percentage point base tariff on all imports, layered with country-specific rates — 20% on the EU, 34% on China, 45% on Vietnam — while exempting steel, aluminium, and automobiles (which already have their own tariffs). Because the rates are set by country rather than product, they invite relabeling and transshipment games rather than clean substitution, and push the US effective tariff rate from roughly 3.3% to 13.3%. The order also allows further increases if trading partners retaliate or if US manufacturing indicators fail to improve.
+
+**Originally published on Substack**, April 2, 2025.
+
+[Read the full piece →](https://oleksandrshepotylo.substack.com/p/tariff-liberation-day)

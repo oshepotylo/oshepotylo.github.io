@@ -1,0 +1,19 @@
+---
+title: "Trump tariffs 2.0 Update"
+description: "New 25% tariffs on Canada and Mexico plus 20% on China take effect, modelled to push the US itself into recession alongside its neighbours."
+date: "2025-03-03"
+categories: [trade-wars]
+---
+
+Tariffs of 25% on Canada and Mexico, plus an additional 20% on China, take
+effect the next day, with "reciprocal" tariffs to follow on April 2. Using a
+structural gravity model, the piece projects these barriers will raise US
+prices by 2.7% and tip the US into recession, with real GDP per capita
+falling 0.9% — while Canada and Mexico face even sharper contractions of 3.7%
+and 5% respectively. The bottom line: the policy hurts the US and its closest
+neighbours more than it hurts China, while generating modest trade-diversion
+gains for third countries like South Korea.
+
+**Originally published on Substack**, March 3, 2025.
+
+[Read the full piece →](https://oleksandrshepotylo.substack.com/p/trump-tariffs-20-update)

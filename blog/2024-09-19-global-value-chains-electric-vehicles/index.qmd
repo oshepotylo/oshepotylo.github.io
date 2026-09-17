@@ -1,0 +1,18 @@
+---
+title: "Global value chains in Electric Vehicles"
+description: "A look at the UK's critical dependencies in EV global value chains, and what they mean for supply chain resilience and economic security."
+date: "2024-09-19"
+categories: [firms, electric-vehicles]
+---
+
+With Jun Du, this piece maps the global value chains behind electric vehicle
+manufacturing and the UK's position within them, highlighting where the UK
+carries critical dependencies on other countries for battery and component
+supply. The underlying working paper, published through Aston University's
+Centre for Business Prosperity, frames these dependencies as a resilience and
+economic-security question as much as a trade one — relevant well beyond the
+EV sector as governments rethink exposure in strategic supply chains.
+
+**Originally published on Substack**, September 19, 2024.
+
+[Read the full piece →](https://oleksandrshepotylo.substack.com/p/global-value-chains-in-electric-vehicles)
