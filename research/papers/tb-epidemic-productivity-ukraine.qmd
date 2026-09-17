@@ -1,24 +1,35 @@
 ---
-title: "Impact of TB Epidemic on Worker and Firm Productivity: Regional Perspective from Ukraine"
+title: "Impact of a TB epidemic on worker and firm productivity: the regional perspective from Ukraine"
 description: >-
-  **GLO Discussion Paper 1360, 2023. With Olena Nizalova.**
+  **Journal of Population Economics, 2026.** With Olena Nizalova.
   <details class="abstract-toggle"><summary onclick="event.preventDefault();
   event.stopPropagation(); this.closest('details').open =
   !this.closest('details').open;">Show abstract</summary>
-  Tuberculosis remains a significant regional health burden in Ukraine, with prevalence varying sharply across oblasts. We link regional TB incidence to worker- and firm-level productivity outcomes, asking how much of Ukraine's regional productivity gap this specific health channel can account for — evidence with direct relevance to postwar health and labour policy.
+  Using administrative records from Ukrainian regions between 2003–2009, we
+  find that higher tuberculosis prevalence significantly reduced both worker
+  wages and firm total factor productivity, while newly diagnosed cases were
+  associated with higher wages and productivity. Geographic analysis reveals
+  substantial spillover effects across neighbouring regions. A 10% reduction
+  in TB prevalence is estimated to yield GDP gains of roughly 1.05% —
+  substantially exceeding the 0.04% of GDP Ukraine spent on TB control that
+  year, pointing to considerable underinvestment in disease mitigation.
   </details>
-date: "2023-01-01"
-status: "wip"
+date: "2026-09-14"
+status: "published"
 categories: [ukraine, firms]
+doi: "10.1007/s00148-026-01197-5"
 ---
 
 Tuberculosis remains a significant regional health burden in Ukraine, with
 prevalence varying sharply across oblasts. We link regional TB incidence
-to worker- and firm-level productivity outcomes, asking how much of
-Ukraine's regional productivity gap this specific health channel can
-account for — evidence with direct relevance to postwar health and labour
-policy.
+to worker- and firm-level productivity outcomes using administrative
+records from 2003–2009, finding that higher disease prevalence reduced
+both worker wages and firm total factor productivity, with substantial
+spillover effects across neighbouring regions. A 10% reduction in
+prevalence is estimated to raise GDP by roughly 1.05% — far exceeding the
+0.04% of GDP spent on TB control that year, evidence with direct relevance
+to postwar health and labour policy.
 
-**Working paper:** GLO Discussion Paper Series 1360
+**Published in:** *Journal of Population Economics*, 39, article 63 (2026)
 
-[Aston Research Explorer](https://research.aston.ac.uk/en/persons/oleksandr-shepotylo/publications/)
+[Aston Research Explorer](https://research.aston.ac.uk/en/persons/oleksandr-shepotylo/publications/) | [Springer article](https://link.springer.com/article/10.1007/s00148-026-01197-5)
