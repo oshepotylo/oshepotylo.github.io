@@ -13,7 +13,7 @@ about:
       text: LinkedIn
       href: https://www.linkedin.com/in/oleksandr-shepotylo-b050353/
     - text: "{{< iconify simple-icons bluesky >}} Bluesky"
-      href: https://bsky.app/profile/shepotylo
+      href: https://bsky.app/profile/shepotylo.bsky.social
     - icon: github
       text: GitHub
       href: https://github.com/oshepotylo
