@@ -1,0 +1,65 @@
+---
+title: "Trump Trade War Diary — Day 11"
+description: "The proposed tariffs could have significant ripple effects throughout the North American economy."
+date: "2025-01-31"
+categories: [trade-wars, trump-trade-war-diary]
+---
+
+### Core Facts
+
+Trump plans to implement 25% tariffs on Canada and Mexico by February 1 Key exemptions, particularly for oil imports, remain under consideration [link](https://www.ft.com/content/98fad080-9740-4e3a-b932-c6a6b78d8a30) 
+
+Canada currently supplies over 4 million barrels of crude oil daily to US (60% of total imports) Mexico is second-largest supplier at 400,000 barrels per day
+
+Trump cites three main reasons for tariffs:
+
+- Immigration concerns
+- Drug trafficking (particularly fentanyl)
+- Trade deficits with both nations
+
+US refineries are specifically designed for Canadian-style heavy crude oil
+
+### Potential Implications
+
+The proposed tariffs could have significant ripple effects throughout the North American economy. US refineries' dependence on Canadian heavy crude makes an oil exemption crucial - without it, American fuel prices could rise significantly, contradicting Trump's campaign promises to reduce inflation. The uncertainty is already affecting business planning, as evidenced by market reactions to recent trade disputes. If implemented without exemptions, these tariffs could force US refineries to seek alternative heavy crude sources, potentially including less politically stable suppliers, while simultaneously straining relationships with America's closest trading partners.
+
+### Analysis of 25% tariffs on Canada and Mexico for US oil imports and prices
+
+FT mention CRS report on the potential impact of tariffs on US oil imports and prices: [link](https://crsreports.congress.gov/product/pdf/IN/IN12488)
+
+The potential impact of a **25% tariff** on **U.S. crude oil imports from Canada and Mexico** could have several price-related consequences:
+
+### **1. Higher Costs for U.S. Refineries**
+   - Many U.S. refineries, especially in **PADDs 2 (Midwest) and 4 (Rocky Mountain)**, rely heavily on Canadian crude.
+   - A **25% tariff** would **increase import costs**, forcing refineries to either:
+     - Absorb the extra costs (reducing refining profit margins).
+     - Pass costs onto **consumers** in the form of **higher gasoline and diesel prices**.
+     - Seek alternative crude oil sources, which might also be expensive.
+
+### **2. Higher Gasoline and Diesel Prices**
+   - If refineries **pass on costs** to consumers, fuel prices in the U.S. could **increase**.
+   - The **extent of price increases** would depend on:
+     - How much of the **tariff cost is absorbed** by refineries.
+     - Availability of **alternative crude sources**.
+     - Response of **Canadian and Mexican oil producers** (e.g., lowering their prices to stay competitive).
+   - According to the **U.S. Energy Information Administration (EIA)**, gasoline prices are influenced by crude oil costs, refining expenses, distribution costs, and taxes. A tariff increasing crude oil prices would directly impact gasoline and diesel costs. More details on gasoline pricing factors can be found [here](https://www.eia.gov/energyexplained/gasoline/factors-affecting-gasoline-prices.php).
+   - On average, from **2014 to 2023, crude oil accounted for approximately 52.3%** of the total price per gallon of regular grade gasoline. In **2023, this share slightly increased to 52.6%**. Given this high proportion, any significant increase in crude oil costs—such as from a **25% tariff**—would likely **result in a direct and noticeable increase in retail gasoline prices**.
+
+### **3. Impact on Canadian and Mexican Oil Prices**
+   - Canada and Mexico may **reduce their crude oil prices** to **offset** some of the tariff impact.
+   - If Canadian crude oil prices drop significantly, it could cushion the blow for U.S. refineries.
+
+### **4. Shift to Alternative Suppliers**
+   - U.S. refiners might **turn to other sources** like:
+     - **U.S. domestic crude** (which could increase demand and prices for domestic oil).
+     - **Other foreign suppliers** (such as OPEC nations), which could introduce new **supply chain risks**.
+   - If refiners shift to more expensive oil sources, **fuel prices could rise further**.
+
+### **5. Potential Retaliation from Canada and Mexico**
+   - If Canada and Mexico impose **counter-tariffs**, U.S. **exports of refined products** to those countries could decline.
+   - This could **reduce demand** for U.S. crude oil and refined products, creating **market volatility**.
+
+### **Overall Summary**
+- A **25% tariff** could lead to **higher crude oil and fuel prices** in the U.S., depending on how refineries adjust.
+- Canadian and Mexican crude producers might **lower prices**, but the overall effect could still be **higher consumer costs**.
+- **Market uncertainty** and potential **retaliation** could further impact oil prices and trade flows.

@@ -1,0 +1,55 @@
+---
+title: "Trump Trade War Diary — Day 42"
+description: "On the 2nd March 2025, Trump decidedly moved forward with his vision on the new world order with America shutting down its links to the outside world."
+date: "2025-03-03"
+categories: [trade-wars, trump-trade-war-diary]
+---
+
+On the 2nd March 2025, Trump decidedly moved forward with his vision on the new world order with America shutting down its links to the outside world. He broked remaining political ties with Europe announcng that he is out of Ukraine and that he will cooperate with Russia, perhaps Putin promised him his and Ukrainian rare earth minerals after he captures more of Ukrainina territory. He also finally moved forward with his tariffs on Canada, China and Mexico, which are set to come into effect on March 3. The tariffs are set at 25% and will apply to all goods imported from these countries. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VfUew8_XrJo?si=JwEM_yUQg9Du4FTO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+The executive orders are already signed and are available. They are actually referring to his previous orders that were made public a month ago, but have some amendments including extra 10% hike on [China](https://www.whitehouse.gov/presidential-actions/2025/03/further-amendment-to-duties-addressing-the-synthetic-opioid-supply-chain-in-the-peoples-republic-of-china/) and some additional restrictions on de minimis shipments from [Canada](https://www.whitehouse.gov/presidential-actions/2025/03/amendment-to-duties-to-address-the-flow-of-illicit-drugs-across-our-northern-border/) and [Mexico](https://www.whitehouse.gov/presidential-actions/2025/03/amendment-to-duties-to-address-the-situation-at-our-southern-border/)
+
+A quick analysis of the economic impact of such measures using structural gravity modelling shows that in case the impacted countries do not retaliate, it will impact US prices by 2.7% and lower real GDP per capita in US by 0.9%, while increasing domestic consumption of locally produced goods by 1%
+
+|Reporter | Exports| Imports| Domestic| Output| Welfare|  Price|
+|:--------|-------:|-------:|--------:|------:|-------:|------:|
+|CAN      | -23.907| -26.382|    4.794| -2.021|  -3.711| -4.026|
+|MEX      | -25.623| -28.040|    6.677| -2.759|  -5.003| -4.257|
+|DEU      |   0.284|   0.379|   -0.085|  0.040|   0.082|  0.098|
+|CHN      |  -2.712|  -5.272|    0.400| -0.238|  -0.588| -1.086|
+|GBR      |   0.883|   0.624|   -0.090|  0.034|   0.051|  0.129|
+|JPN      |   1.231|   1.411|   -0.136|  0.058|   0.106| -0.074|
+|KOR      |   0.879|   1.057|   -0.232|  0.100|   0.183| -0.126|
+|FRA      |   0.184|   0.131|   -0.030|  0.010|   0.011|  0.126|
+|BRA      |  -0.196|  -0.373|    0.020| -0.015|  -0.043| -0.223|
+|IND      |   2.135|   1.586|   -0.205|  0.085|   0.147| -0.039|
+|USA      | -21.821| -15.684|    1.007| -0.457|  -0.894|  2.736|
+: Impact of Trump March 3 tariffs without retaliation on trade and welfare 
+
+
+In case of reciprocal retaliation, the impact will be more severe for US real GDP per capita declining by 1.1%.
+
+|reporter | Exports| Imports| Domestic| Output| Welfare|  Price|
+|:--------|-------:|-------:|--------:|------:|-------:|------:|
+|CAN      | -34.206| -37.195|    6.909| -2.839|  -5.122|  0.499|
+|MEX      | -37.656| -40.624|    9.866| -3.971|  -7.120| -0.668|
+|DEU      |   0.204|   0.311|   -0.054|  0.032|   0.077|  0.311|
+|CHN      |  -4.319|  -7.555|    0.707| -0.347|  -0.733| -0.411|
+|GBR      |   0.628|   0.376|   -0.070|  0.021|   0.018|  0.331|
+|JPN      |   0.838|   0.988|   -0.091|  0.041|   0.078|  0.196|
+|KOR      |   0.659|   0.823|   -0.169|  0.077|   0.150|  0.148|
+|FRA      |   0.175|   0.084|   -0.033|  0.007|  -0.003|  0.324|
+|BRA      |  -0.028|   0.003|    0.007|  0.000|   0.006|  0.109|
+|IND      |   1.484|   1.038|   -0.148|  0.056|   0.085|  0.194|
+|USA      | -30.152| -21.076|    1.420| -0.615|  -1.141|  2.019|
+|IRL      |   0.303|   0.987|   -0.036|  0.082|   0.304|  0.555|
+|ITA      |   0.331|   0.407|   -0.070|  0.034|   0.069|  0.326|
+|POL      |   0.200|   0.222|   -0.076|  0.032|   0.057|  0.265|
+|ESP      |   0.212|   0.179|   -0.042|  0.015|   0.019|  0.281|
+|BEL      |   0.099|   0.156|   -0.046|  0.026|   0.063|  0.333|
+|NLD      |   0.163|   0.265|   -0.073|  0.043|   0.104|  0.289|
+: Impact of Trump March 3 tariffs with reciprocal retaliation on trade and welfare 
+
+Impact on China will be quite limited, as it has already adjusted its exports to the US to avoid tariffs. The impact on Canada and Mexico will be more severe, with real GDP per capita declining by 5% and 7% respectively, in case they retaliate.

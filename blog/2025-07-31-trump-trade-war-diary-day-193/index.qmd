@@ -1,0 +1,18 @@
+---
+title: "Trump Trade War Diary — Day 193"
+description: "Trump announced a \"trade deal\" Korea with US, which set US tariffs for Korean imports at 15%. As with other deals, Korea had to declare some magik numbers - several hundred billion USD here and there of investment in US."
+date: "2025-07-31"
+categories: [trade-wars, trump-trade-war-diary]
+---
+
+Trump announced a "trade deal" Korea with US, which set US tariffs for Korean imports at 15%. As with other deals, Korea had to declare some magik numbers - several hundred billion USD here and there of investment in US. All this pronouncements have one goal - if and when any compnay X from country Z invest in US, Trump will jump up and say that it is his personal achievement and his personal win.
+
+![Korea-US](figures/Trump%20tweet%20July%2030%202025%20Korea%20US%20deal.png)
+
+It is interesting also to comment on India-US. Aparently, US failed to achieve a deal with India, which is not surprising, as it is really difficult to achieve any trade deal with India for any country, as Indian trade policy is very protectionist. Realizing this, Trump issued another tweet, saying that he does not care about trade with India and linked India with Russia. 
+
+India is known for supporting Russian war in Ukraine by becoming second largest country who buyes Russian oil and coal after China. But China bought Russian mineral resources even before the war and increased its purchages by about 50%, from 54 bln USD in 2021 to 95 bln USD in 2024. India, on the other hand used the opportuity to make money by buying Russian mineral resources right after the war started, increasing their Mineral fules (HS27) imports from Russia by 1350% from 4 to 58 billion USD.
+
+![India](figures/Trump%20tweet%20July%2030%20India.png)
+
+By linking India and Russia, Trump is trying to kill two birds with one stone - announce that he really did not want trade deal with India that much and also hinting that his secondary tariff sanctions are about to hit countries who trade with Russia, among which India is the second largest offender. It was also important the other day, that EU negotiators mentioned that one of the main rationales for EU-US deal, which EU chosen instead of trade war, was the agreement to support Ukraine and NATO. So there are likely behind the scenes political agreements that led to very weak EU stance on tariffs. We should really understand that the current US policy stick tariffs in all areas - investment, trade in enerty, geopolitics.

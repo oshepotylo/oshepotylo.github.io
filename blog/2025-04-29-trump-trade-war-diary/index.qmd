@@ -1,0 +1,28 @@
+---
+title: "Trump Trade War Diary — April 29, 2025"
+description: "The April 29, 2025 proclamation titled \"Amendments to Adjusting Imports of Automobiles and Automobile Parts Into the United States\" introduces several modifications to the earlier March 26, 2025 proclamation (Proclamation 10908), which imposed a 25% tariff on…"
+date: "2025-04-29"
+categories: [trade-wars, trump-trade-war-diary]
+---
+
+The White House issued [amendments](https://www.whitehouse.gov/presidential-actions/2025/04/amendments-to-adjusting-imports-of-automobiles-and-automobile-parts-into-the-united-states/) to the imports of automoblies and automobile parts/
+
+
+The April 29, 2025 proclamation titled "Amendments to Adjusting Imports of Automobiles and Automobile Parts Into the United States" introduces several modifications to the earlier March 26, 2025 proclamation (Proclamation 10908), which imposed a 25% tariff on imported automobiles and certain auto parts under Section 232 of the Trade Expansion Act of 1962.([The White House][1])
+
+**Key Adjustments:**
+
+1. **Elimination of Tariff Stacking:** The new proclamation prevents the compounding of multiple tariffs on the same products. Specifically, automobiles and auto parts subject to the 25% Section 232 tariffs will no longer be additionally taxed under separate tariffs, such as those on steel, aluminum, or goods from Canada and Mexico related to other trade measures. This change aims to reduce the cumulative tariff burden on manufacturers. ([Reuters][2])
+
+2. **Incentives for Domestic Assembly:** To encourage vehicle assembly within the United States, automakers assembling vehicles domestically between April 3, 2025, and April 30, 2026, are eligible for a credit of 3.75% of the vehicle's value. This credit can be applied to offset duties on imported parts, excluding those from China. In the subsequent year, the credit decreases to 2.5% and is set to expire thereafter. Notably, vehicles assembled in Canada and Mexico do not qualify for this incentive. ([Reuters][2])
+
+3. **Retroactive Relief:** The adjustments are retroactive, allowing automakers to recoup some tariffs paid on imported parts prior to this proclamation. This provision offers immediate financial relief to manufacturers affected by the initial tariff imposition. ([The Washington Post][3])
+
+4. **Continued Monitoring and Potential for Further Action:** The Secretary of Commerce is directed to continue monitoring imports of automobiles and auto parts to assess their impact on national security. The Secretary is also tasked with establishing a process to identify and impose tariffs on additional auto parts if necessary to prevent circumvention of the tariffs and to address any emerging threats to national security. ([The White House][4])
+
+These amendments aim to balance the objectives of protecting national security and supporting domestic manufacturing, while also addressing concerns from automakers about the financial impact of the tariffs.
+
+[1]: https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-adjusts-imports-of-automobiles-and-automobile-parts-into-the-united-states/?utm_source=chatgpt.com "Fact Sheet: President Donald J. Trump Adjusts Imports of ..."
+[2]: https://www.reuters.com/world/americas/whats-trumps-move-ease-us-automotive-tariffs-2025-04-30/?utm_source=chatgpt.com "What's in Trump's move to ease US automotive tariffs"
+[3]: https://www.washingtonpost.com/business/2025/04/29/trump-auto-tariffs-cars-white-house-trade-prices/?utm_source=chatgpt.com "Trump eases tariffs on imported auto parts through executive order"
+[4]: https://www.whitehouse.gov/presidential-actions/2025/03/adjusting-imports-of-automobiles-and-autombile-parts-into-the-united-states/?utm_source=chatgpt.com "Adjusting Imports of Automobiles and Automobile Parts into the ..."

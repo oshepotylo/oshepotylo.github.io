@@ -1,0 +1,30 @@
+---
+title: "Trump Trade War Diary — Day 191"
+description: "Reaction of businesses in the both parts of the Atlantics to the EU-US trade agreement was underwhelming - very weak positive in the US and quite strong negative in the EU stock market movement, critisizm of the deal in Germany and Franz, Sholz said it is…"
+date: "2025-07-29"
+categories: [trade-wars, trump-trade-war-diary]
+---
+
+Reaction of businesses in the both parts of the Atlantics to the EU-US trade agreement was underwhelming - very weak positive in the US and quite strong negative in the EU stock market movement, critisizm of the deal in Germany and Franz, Sholz said it is going to have a negative effect 
+
+There was no formally signed text presented, only verbal explnation. It followed with comments from both sides:
+
+White House presented a note, summarizing what it believes has been achieved 
+
+[link](https://www.whitehouse.gov/fact-sheets/2025/07/fact-sheet-the-united-states-and-european-union-reach-massive-trade-deal/)
+
+Commissioner Sevkovic gives a unique window into the EU rational, which is what I thought about their negotiating objectives:
+
+
+
+![Sevkovic speech](docs/Remarks_by_Commissioner__ef_ovi__on_the_trade_deal_between_the_EU_and_the_US.pdf){width=640px height=480px}
+
+## Data on tariffs
+
+Among competing institutions, tracking US tariffs, Yale Budget Lab came out a winnder in the level of analysis of the impact of tariffs and its tracking:
+
+[link](https://budgetlab.yale.edu/research/state-us-tariffs-july-28-2025)
+
+Peterson Institute of the World Economy has a nice summary table produced by Chad Bown:
+
+[link](https://www.piie.com/blogs/realtime-economics/2025/trumps-trade-war-timeline-20-date-guide)

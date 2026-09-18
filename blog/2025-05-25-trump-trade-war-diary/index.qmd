@@ -1,0 +1,10 @@
+---
+title: "Trump Trade War Diary — May 25, 2025"
+description: "Urusula van der Leyen, the President of the European Commission, and DJ Trump, the President of the United States, had a phone call on May 25, 2025, to discuss the recent escalation of tariffs between the US and the EU."
+date: "2025-05-25"
+categories: [trade-wars, trump-trade-war-diary]
+---
+
+Urusula van der Leyen, the President of the European Commission, and DJ Trump, the President of the United States, had a phone call on May 25, 2025, to discuss the recent escalation of tariffs between the US and the EU. The outcome of the call was the delay of Trump new tariffs on EU until July 9, 2025. This delay coincides with the Trump 90-day pause on reciprocal tariffs for most countries, which was announced earlier in April. The delay is seen as a potential opportunity for negotiations and de-escalation of trade tensions between the US and the EU. However, it remains to be seen whether this will lead to any significant breakthroughs in US-EU trade relations.
+
+![Ursula tweet](figures/Ursula%20May%2025%20tweet%20on%20Trump%20call.png)

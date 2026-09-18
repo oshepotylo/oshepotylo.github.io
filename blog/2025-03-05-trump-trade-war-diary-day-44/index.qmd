@@ -1,0 +1,19 @@
+---
+title: "Trump Trade War Diary — Day 44"
+description: "Bizarrly, Trump keeps claiming that the tariffs on Canada are due to fentanyl, which is a very weak argument. The tariffs are clearly to protect US industry and to force firms to move their production to the US."
+date: "2025-03-05"
+categories: [trade-wars, trump-trade-war-diary]
+---
+
+Trump pushes on reciprocity in rebuttal to Trudeau's announcements, but he clearly not quite understand the priniciple as can be seen from his tweets:
+
+![Trump tweets on reciprocity](figures/Trump%20tweet%20to%20Trudeau%20on%20reciprocity%20March%204.PNG)
+
+Bizarrly, Trump keeps claiming that the tariffs on Canada are due to fentanyl, which is a very weak argument. The tariffs are clearly to protect US industry and to force firms to move their production to the US. There are also arguments that Trump is trying to force Canada to join the US as a 51st state. He posted several very rude tweets to Trudeau:
+
+![Trump tweets on Trudeau](figures/Trump%20tweets%20hello%20to%20Trudeau%20on%20March%205.PNG)
+
+Trump administration gives auto industry a 30-day reprieve on tariffs. The tariffs were supposed to come into effect on March 4, but Trump decided to delay them for 30 days. The decision was made after a meeting with the auto industry representatives. The tariffs are expected to be 25% on all cars and car parts imported to the US. Trump administration urge the carmakers move their supply chains to the US.
+
+
+Vehicles and autoparts are the largest share of imports of US from Mexico. In 2024, out of 505 bln USD of imports, 137 bln USD (27%) were  vehicles and parts, which makes the average tariffs on US imports from Mexico at 18.25. For Canada, out of 413 bln USD of imports to US, 50 bln USD (12%) were vehicles and parts, 125 bln USD (30%) were mineral fuels which makes the effective tariff at 17.5%. However, the tariffs are expected to go up to 25 on vehicles and parts in a month.

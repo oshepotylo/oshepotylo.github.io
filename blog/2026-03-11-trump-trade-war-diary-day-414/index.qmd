@@ -1,0 +1,16 @@
+---
+title: "Trump Trade War Diary — Day 414"
+description: "Being defeated in the Supreme Court, Trump is now trying to find ways to keep his tariffs in place. His trade representative, Jamieson Greer initiated a section 301 investigation, which is available at link."
+date: "2026-03-11"
+categories: [trade-wars, trump-trade-war-diary]
+---
+
+Being defeated in the Supreme Court, Trump is now trying to find ways to keep his tariffs in place. His trade representative, Jamieson Greer initiated a section 301 investigation, which is available at [link](https://ustr.gov/sites/default/files/files/Press/Releases/2026/USTR%20301%20FRN%20Industrial%20Excess%20Capacity%203-11-26.pdf). 
+
+This document is a USTR Federal Register notice launching Section 301 investigations into whether the acts, policies, and practices of certain economies create or maintain structural excess capacity and overproduction in manufacturing. It is not a final tariff announcement; it starts an investigation process and opens the door to hearings and public comments. The notice argues that some trading partners have built production capacity beyond what domestic and global demand can justify, causing overproduction, persistent trade surpluses, unused capacity, and pressure on U.S. manufacturing, investment, and jobs.
+
+USTR says the problem is linked to policy distortions such as subsidies, suppressed wages, state-owned or state-controlled firms, market-access barriers, weak labor/environmental protections, subsidized lending, and currency or financial practices. It also frames trade surpluses with the United States as a sign that foreign excess production is being exported into the U.S. market, directly or indirectly through third countries.
+
+The investigations cover China, the EU, Singapore, Switzerland, Norway, Indonesia, Malaysia, Cambodia, Thailand, Korea, Vietnam, Taiwan, Bangladesh, Mexico, Japan, and India. The notice gives economy-specific examples: China is presented as the biggest case, with a 2025 global goods trade surplus above $1.2 trillion and low capacity utilization; the EU is cited for a large goods surplus and Germany/Ireland are highlighted within it; Mexico, Japan, and India are singled out for large bilateral surpluses with the U.S. and sectoral excess capacity, especially in autos, steel, solar, petrochemicals, and related manufacturing.
+
+Procedurally, USTR initiated the cases on March 11, 2026. Written comments and requests to appear were to open on March 17, 2026; comments and hearing requests are due by April 15, 2026; hearings begin May 5, 2026; and rebuttal comments are due seven days after the hearing closes. USTR specifically asks for evidence on whether the identified practices are unreasonable or discriminatory, whether they burden U.S. commerce, and what remedies should be taken, including tariff and non-tariff actions.

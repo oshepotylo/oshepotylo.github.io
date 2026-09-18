@@ -1,0 +1,49 @@
+---
+title: "Trump Trade War Diary — Day 194"
+description: "Finally, just several hours before the deadline on August 1, the White House has published new executive order, modifying the Executive Order 14257 of April 2, 2025, which set country-specific rates for imports to US, clearly violating WTO MFN rules and also…"
+date: "2025-08-01"
+categories: [trade-wars, trump-trade-war-diary]
+---
+
+Finally, just several hours before the deadline on August 1, the White House has published new executive order, modifying the Executive Order 14257 of April 2, 2025,  which set country-specific rates for imports to US, clearly violating WTO MFN rules and also not approved by the US Congress. So, we are officially entering a New Brave World of trade on new terms. And EU, by signing a "trade deal" with US rubber stump it the last week. 
+
+There are several points worth mentioning. goods shipped before August 7 will not be subject to new US tariffs - so there is going to be a spike in August imports to the US as people will try to beat the deadline. Moreover, stockpiled goods will be available until October. So, any increase in prices is going to be due to forward looking price setting. The actual goods facing new tariffs will see consumers only in October, just in time for Thanksgiving and Christmas shopping.
+
+![On timing](figures/Trump%20August%201%202025%20EO%20timing.png)
+
+
+EU got itself a special treatment by getting a flat 15% rate, which will create an interesting dynamics
+
+China is mentioned in Sec 2 (g) linking it with previous Executive Order 14298. It is very likely that Trump will issue additional ammendmens related to China by the end of today as another EO or in public announcment.
+
+Transshipment clause, Sec 3 will become a stick to be used at Customs officers discretion, as it gives them the power to add additional 40% duty on transshipped goods.
+
+![On timing](figures/Trump%20August%201%20EO%20transshipment.png)
+
+Regarding who is mostly hit by these tariffs, it is not certain without finalizing negotiations with China and Mexico, and without knowing what is proportion of goods that are exempt by USCAM agreement. According to this  [report](1) "A White House official said about 50% of US imports from Mexico and 62% from Canada may still face tariffs." And of course, goods that have higher demand elasticity will substantially reduce imports relative to goods that are inelastic. But...
+
+This gives the following assessement of which countries experiences most impact based on increase in value of import duties, based on current increase in tariffs and last year total imports to US in billion USD, with total increase in the range of 550 billion USD:
+
+| Country          | August 1 additional rate (%) | Import in 2024 (bln USD) | Value in question (bln USD) |
+|------------------|-----------------------------|-------------------------|----------------------------|
+| China*            | 34                          | 438.7                   | 149.17                     |
+| Canada**           | 35                          | 411.9                   | 89.38                      |
+| Mexico**           | 25                          | 505.5                   | 63.19                      |
+| Vietnam          | 20                          | 136.5                   | 27.30                      |
+| Rest of the World| 10                          | 265.6                   | 26.56                      |
+| Switzerland      | 39                          | 63.3                    | 24.70                      |
+| Taiwan           | 20                          | 116.3                   | 23.25                      |
+| Japan            | 15                          | 148.4                   | 22.26                      |
+| India            | 25                          | 87.3                    | 21.83                      |
+| South Korea      | 15                          | 131.6                   | 19.73                      |
+| Germany          | 11.1                        | 160.4                   | 17.80                      |
+| Thailand         | 19                          | 63.3                    | 12.04                      |
+| Ireland          | 11.1                        | 103.3                   | 11.46                      |
+| Malaysia         | 19                          | 52.5                    | 9.97                       |
+| Italy            | 11.1                        | 76.3                    | 8.47                       |
+| UK               | 10                          | 68.2                    | 6.82                       |
+| France           | 11.1                        | 59.8                    | 6.64                       |
+| Indonesia        | 19                          | 28.1                    | 5.33                       |
+| South Africa     | 30                          | 14.7                    | 4.41                       |
+
+* China and US are still negotiating ** Goods that satisfy USMCA trade agreements are subject to zero rate.

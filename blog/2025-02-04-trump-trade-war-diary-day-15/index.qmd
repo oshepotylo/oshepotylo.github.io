@@ -1,0 +1,64 @@
+---
+title: "Trump Trade War Diary — Day 15"
+description: "China slaps 15% tariffs on US coal and LNG moments after Trump's new tariffs come into effect."
+date: "2025-02-04"
+categories: [trade-wars, trump-trade-war-diary]
+---
+
+# China response
+
+China slaps 15% tariffs on US coal and LNG moments after Trump's new tariffs come into effect. It also launches an antitrust investigation into Goolge
+
+So, after all is done and dusted, US impsed an extra 10% tariff on China. It includes closing a "de minimis" loophole for small packages which was exploited by Chinese fashion giants Shein and Temu. It is 430 bln USD of US imports.
+
+What are effects? With 5% tariff elasticity, it is 40% reduction in trade from China to US which will reduce collection of tariffs by (0.1+0.19)*(1-exp(0.1))*430-0.19*430=6.88 bln USD
+
+Financial TImes [adds](https://www.ft.com/content/5653e2d6-2316-4316-9a7c-72cf4f7d86e5)
+
+The Chinese government has announced several retaliatory measures against the US following Donald Trump's imposition of new tariffs:
+
+1. New tariffs on US imports:
+- 10-15% tariffs on US LNG, coal, crude oil, and farm equipment
+- Additional tariffs on some US car exports
+- Set to take effect February 10
+
+2. Other retaliatory measures:
+- Launched an antitrust investigation into Google
+- Imposed export controls on tungsten and other rare metal products
+- Added PVH Group (owner of Calvin Klein and Tommy Hilfiger) and Illumina to China's "unreliable entity list"
+
+The situation developed after Trump implemented an additional 10% tariff on Chinese imports, citing concerns about immigration and fentanyl flows. While Trump had also announced tariffs on Canada and Mexico, these were delayed for a month following last-minute discussions with their leaders.
+
+Market reactions included:
+- Hong Kong's Hang Seng index reduced gains to 2.3%
+- The offshore renminbi weakened 0.1% against the dollar
+- Oil and natural gas prices fell
+
+While Trump and Xi Jinping are expected to speak in the coming days, economists remain skeptical about the likelihood of reaching an agreement to ease trade tensions.
+
+
+## EU-UK relationships
+
+
+* UK Prime Minister Keir Starmer addressed the European Council of EU leaders in Brussels - the first UK PM to do so since Brexit - calling for renewed engagement between the UK and EU.
+
+* Starmer proposed a new defense and security pact as the centerpiece of a "reset" relationship with the EU, emphasizing areas like military logistics, procurement, and protection of subsea cables.
+
+* The PM stated he won't "choose" between closer relations with Brussels or Washington, though this position may be tested if Trump implements threatened tariffs against the EU.
+
+* The meeting took place at the Palais d'Egmont in Brussels, symbolically significant as it's where the UK signed its treaty to join the European Economic Community in 1972.
+
+* EU officials responded positively, with European Council President António Costa calling the UK a "natural partner" and noting "new positive energy" in the relationship.
+
+* Key negotiation points for closer UK-EU ties include:
+  - EU demands for continued access to British fishing waters
+  - A proposed youth mobility scheme for EU nationals under 30
+  - Potential removal of barriers to food product trade
+  - Possible linking of UK-EU carbon emissions markets
+  - Resolution of Gibraltar's post-Brexit status
+
+* Recent polling shows 55% of British people believe Brexit was wrong, with only 11% viewing it as more of a success than a failure.
+
+* A full EU-UK summit is expected in April or May to advance discussions, with both sides showing interest in healing post-Brexit divisions, particularly given concerns about Trump's stance toward transatlantic allies.
+
+[link](https://www.ft.com/content/9b124ec8-93c3-452d-954b-0e7b7fe5d434)

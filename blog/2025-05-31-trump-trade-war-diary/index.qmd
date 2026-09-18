@@ -1,0 +1,53 @@
+---
+title: "Trump Trade War Diary — May 31, 2025"
+description: "- Tariff Increase: 50% on imported steel and aluminum (up from 25%). - Effective Date: June 4, 2025. - Platform: Announced via Truth Social. - Rationale: Protect U.S."
+date: "2025-05-31"
+categories: [trade-wars, trump-trade-war-diary]
+---
+
+Trump Announces 50% Tariff on Steel & Aluminum: Breaking News (May 31–June 2, 2025)
+
+![Trump's Truth Social Post](figures/Trump%20tweet%20May%2031%20on%20steel%20escalation.png)
+
+📌 Key Announcement
+
+- Tariff Increase: 50% on imported steel and aluminum (up from 25%).
+- Effective Date: June 4, 2025.
+- Platform: Announced via [Truth Social](https://truthsocial.com/).
+- Rationale: Protect U.S. industries and workers; Trump stated:
+   "At 25%, [trading partners] can sorta get over that fence. At 50%, nobody’s getting over that fence."
+
+🌍 Global Reactions
+
+1. European Union
+Threatened countermeasures ([Reuters](https://www.reuters.com/markets/commodities/eu-commission-strongly-regrets-announced-increase-us-steel-tariffs-2025-05-31/)).
+   Called the move "economic aggression."
+2. Markets
+- 📈 Steel stocks surged (e.g., Cleveland-Cliffs, U.S. Steel).
+- 📉 Auto stocks fell (Ford, GM) over cost concerns ([WSJ](https://www.wsj.com/livecoverage/stock-market-today-trump-tariffs-trade-war-06-02-2025/card/auto-stocks-fall-after-trump-moves-to-double-steel-and-aluminum-tariffs-fQMV6HpzCPyNqQLFXdlY)).
+- Global indices dipped amid trade war fears ([CNN](https://www.cnn.com/2025/06/02/business/global-stocks-fall-trump-tariff-reignite-intl)).
+
+⚡ Expected Impacts
+
+| Sector             | Effect                                 |
+|--------------------|----------------------------------------|
+| U.S. Steelmakers   | Short-term profit surge                |
+| Automakers         | Higher production costs                 |
+| Consumers          | Price hikes for steel/aluminum products |
+| Global Trade       | Retaliatory tariffs likely              |
+
+📰 Top Sources
+
+- [CNN](https://www.cnn.com/2025/05/30/business/trump-announces-50-percent-steel-tariff) – Full announcement details.
+- [Bloomberg](https://www.bloomberg.com/news/newsletters/2025-06-01/trump-ups-metals-tariff-to-50-to-aid-nippon-us-steel) – Market analysis.
+- [WSJ](https://www.wsj.com/livecoverage/stock-market-today-trump-tariffs-trade-war-06-02-2025/card/steel-aluminum-tariffs-may-spark-price-hikes-this-week-1cbfzXL5AooPIIMu1YkW) – Price hike projections.
+ 
+🔍 What’s Next?
+
+- June 4: Tariffs take effect.
+- EU response: Expected within days.
+- Long-term: Potential supply chain disruptions.
+
+Attachments
+- [Trump’s Truth Social Post](https://truthsocial.com/@realDonaldTrump/posts/114599330494282325) and [video](https://1a-1791.com/video/fww1/c2/s8/2/F/b/2/O/Fb2Oy.caa.mp4?b=1&u=ummtf)
+- [Steel Tariff History Chart](https://www.cnn.com/2025/03/12/economy/trump-steel-aluminum-tariffs-hnk-intl) (CNN)

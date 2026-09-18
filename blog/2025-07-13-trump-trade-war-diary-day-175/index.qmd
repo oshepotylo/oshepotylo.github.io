@@ -1,0 +1,59 @@
+---
+title: "Trump Trade War Diary — Day 175"
+description: "Over the last month and a half, there were not many issues in the trade policy diary, until the last week, when the 90-day moratorium on reciprocal tariffs expired."
+date: "2025-07-13"
+categories: [trade-wars, trump-trade-war-diary]
+---
+
+Over the last month and a half, there were not many issues in the trade policy diary, until the last week, when the 90-day moratorium on reciprocal tariffs expired. 
+
+
+Between June 4, 2025, and July 13, 2025, several significant developments occurred regarding US tariffs and trade deals:
+
+1. Vietnam-US Trade Deal (July 9, 2025):
+
+Vietnam secured an early trade deal with the United States, avoiding the worst of President Donald Trump's tariffs 2. Key points of this deal include:
+
+- A 20% tariff rate for Vietnamese goods, down from an initial threat of 46% 2.
+
+- A clause threatening a 40% rate on goods "transshipped" through Vietnam, though the term "transshipment" was not clearly defined 2.
+
+However, the deal lacks specific details, causing uncertainty for businesses. Thanh Cong Garment, a Vietnamese supplier to major apparel companies, reported that orders from US customers for the third quarter had already dropped between 15 and 20% 2.
+
+2. Copper Tariffs (Planned for August 1, 2025):
+
+President Trump has announced plans to impose a 50% tariff on copper imports starting August 1, 2025 10. This has caused significant concern across industries due to copper's widespread use in various products. Key points include:
+
+- The US relies heavily on copper imports, which accounted for about 53% of its copper demand in 2024 10.
+
+- There is a lack of clarity on whether the tariff will apply to all copper products, including semi-finished goods like wires and rods 3.
+
+- Companies have been stockpiling copper in anticipation of the tariffs, potentially providing a 6-9 month buffer before the full impact is felt 3.
+
+Trump also was pushing EU to make a deal by making new threats of tariffs:
+
+* **May 23, 2025** – **European Union** (to Ursula von der Leyen)
+  Trump threatened a **50 %** tariff on *all* EU goods, originally set to begin **June 1** (later delayed to August 1) ([Reuters][1], [Wikipedia][2]).
+
+He also made 2 significant threats to use tariffs for political leverage. Afer BRICS countries get together in Brasil and listened video call from Putin, Trump threatened to raise tariffs on Brazil and also on all BRICS countries:
+
+* **July 9, 2025** – **Brazil** (to President Lula da Silva)
+  A standalone letter raised Brazil’s tariff rate to **50 %**, also taking effect **August 1** .
+
+
+
+
+
+* **July 11, 2025** – **Canada** (to Prime Minister Trudeau)
+  Trump increased the Canadian tariff on non‐USMCA goods to **35 %**, slated for **August 1** ([Wikipedia][2]).
+
+* **July 12, 2025** – **European Union & Mexico** (to von der Leyen and President Sheinbaum)
+  In two letters posted the same day, he set a **30 %** tariff on imports from both the EU and Mexico, to begin **August 1** ([Wikipedia][2], [Reuters][3]).
+
+> **Note on the EU:** the *first* EU letter was sent on **May 23**, threatening 50 % as above—not June 12. The later **July 12** letter superseded that with a 30 % rate (still with the August 1 deadline).
+
+If you need more detail on any individual letter or the full list of countries in each wave, let me know!
+
+[1]: https://www.reuters.com/world/europe/view-markets-slump-trump-recommends-50-tariff-european-union-2025-05-23/?utm_source=chatgpt.com "Markets slump as Trump recommends 50% tariff on European Union"
+[2]: https://en.wikipedia.org/wiki/Tariffs_in_the_second_Trump_administration "Tariffs in the second Trump administration - Wikipedia"
+[3]: https://www.reuters.com/business/trump-announces-30-tariffs-eu-2025-07-12/?utm_source=chatgpt.com "Trump intensifies trade war with threat of 30% tariffs on EU, Mexico"

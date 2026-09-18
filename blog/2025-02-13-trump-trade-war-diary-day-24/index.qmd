@@ -1,0 +1,27 @@
+---
+title: "Trump Trade War Diary — Day 24"
+description: "Trump issued a new executive order on reciprocal tariffs against other countries, which includes VAT and Non-tariff measures. The order is available here. In a tweet that preceeded the order he explained that VAT in particular is unfair against US companies."
+date: "2025-02-13"
+categories: [trade-wars, trump-trade-war-diary]
+---
+
+Trump issued a new executive order on reciprocal tariffs against other countries, which includes VAT and Non-tariff measures. The order is available [here](https://www.whitehouse.gov/articles/2025/02/reciprocal-trade-and-tariffs/). In a tweet that preceeded the order he explained that VAT in particular is unfair against US companies. However, VAT tax is paid by all firms, so his claim of unfairness is weak. 
+
+Charging differential rates of tariffs is also an administrative nightmare and will increase red tape and corrpotion in customs in the US by a large margin.
+
+![Trump tweets on VAT and NTMs](figures/Trump%20tweet%20Feb%2013%20On%20reciprocal%20tariffs.PNG)
+
+
+Here is FT [summary](https://www.ft.com/content/f0aa939f-b179-44e4-8420-68aca684ac63) of the order:
+
+Donald Trump ordered advisers to develop a comprehensive approach to tackle the US trade deficit through retaliatory tariffs against what Washington considers unfair taxes, levies, regulations, and subsidies.
+Key points:
+
+- The plan goes beyond matching tariffs to include targeting non-tariff barriers like the EU's value-added tax (VAT) and digital services taxes
+- Main targets include Japan, India, the EU, and Brazil
+- The White House claims the US is "one of the most open economies" while trading partners keep their markets closed to US exports
+- The plan would break World Trade Organization rules, particularly the "most favored nation principle"
+- Examples cited include India's 100% tariff on US motorcycles versus the US 2.4% charge, and the EU's 10% tariff on car imports versus the US 2.5%
+- According to the WTO, the US trade-weighted average tariff is 2.2%, while India's is 12% (reaching 177% for certain products)
+
+This initiative follows Trump's previous threats of tariffs on North American trading partners and new levies on metals imports.

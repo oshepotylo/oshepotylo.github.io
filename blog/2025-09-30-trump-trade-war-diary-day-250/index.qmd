@@ -1,0 +1,34 @@
+---
+title: "Trump Trade War Diary — Day 250"
+description: "The tariff on wood and furniture has been announced today, with the executive order published at the White House website."
+date: "2025-09-30"
+categories: [trade-wars, trump-trade-war-diary]
+---
+
+The tariff on wood and furniture has been announced today, with the executive order published at the White House website. 
+
+The [order](https://www.whitehouse.gov/presidential-actions/2025/09/adjusting-imports-of-timber-lumber-and-their-derivative-products-into-the-united-states/) List of impacted goods is avaialbe as well. [Link](https://www.whitehouse.gov/wp-content/uploads/2025/09/timber-.pdf)
+
+It is very interesting to see how US incorporated the new trade deals it has with UK, EU and Japan into the deal. UK has 10 extra instead of 25, EU and Japan have 15 flat rates. Who is better off?
+
+I've created the CSV file at data/US/US_Timber_Tariffs_Sept_30_2025.csv with the  
+  following information extracted from the PDF:
+
+  Product Categories:
+
+  1. Softwood timber and lumber (15 product codes) - Additional 10% tariff on top of
+   existing duties
+    - Includes treated wood, various pine/fir/spruce logs, railway sleepers, and        
+  sawn lumber
+  2. Upholstered wooden furniture (4 base product codes) - Tariff varies by country:    
+    - Most countries: Additional 25%
+    - UK: Additional 10%
+    - Japan: 15% flat rate
+    - EU: 15% flat rate
+  3. Kitchen cabinets and vanities (3 product codes) - Tariff varies by country:        
+    - Most countries: Additional 25%
+    - UK: Additional 10%
+    - Japan: 15% flat rate
+    - EU: 15% flat rate
+
+  The tariffs are effective from October 14, 2025, at 12:01 AM Eastern Time.

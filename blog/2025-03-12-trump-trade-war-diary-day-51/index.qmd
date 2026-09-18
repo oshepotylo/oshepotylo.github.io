@@ -1,0 +1,60 @@
+---
+title: "Trump Trade War Diary — Day 51"
+description: "Trump's 25% tariffs on Steel and Aluminium against all trading partners came into effect."
+date: "2025-03-12"
+categories: [trade-wars, trump-trade-war-diary]
+---
+
+## US measures on Steel and Aluminium
+
+Trump's 25% tariffs on Steel and Aluminium against all trading partners came into effect. The tariffs are expected to have a significant impact on the US economy, as the prices of steel and aluminium in US will go up in the short to medium term, leading to inflation and lower output in all industries that use these products. Given that he also plan to have 25% tariffs on cars and car parts, it is expected that the car industry will have an extremely negative supply shock in the short to medium term.
+
+## EU retaliatory measures
+
+EU started the morning with the [announcement](https://ec.europa.eu/commission/presscorner/detail/en/ip_25_740) of the retaliatory measures against the US. The measures are designed quite cleverly in timing and scope. The framing is quite Machiavellian, as it is framed as stop of the previous suspension of the measures introduced during the first Trump trade war with EU in 2018 and 2020. All this time, the EU was waiting for the right moment to reintroduce the measures. The measures are designed to match the US tariffs on steel and aluminium
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j83Cqe2HHf4?si=c839nYSI5j1Ulthv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Details of the EU's Countermeasures:**
+
+- **Two-Phase Implementation:**
+  - *Phase One (Effective April 1):* The EU will allow the suspension of existing countermeasures from 2018 and 2020 to lapse, reinstating tariffs on U.S. products worth €8 billion. These products include items such as boats, bourbon, and motorbikes. Here is the 2018 list of products that may be targeted: [link](https://eur-lex.europa.eu/eli/reg_impl/2018/886/oj/eng) It is supplemented by the 2020 list of products that may be targeted: [link](https://eur-lex.europa.eu/eli/reg_impl/2020/502/oj/eng)
+  - *Phase Two (Mid-April):* A new set of countermeasures will be introduced, affecting U.S. exports valued at up to €18 billion. This phase will target a broader range of products, including industrial items like steel and aluminium, textiles, leather goods, home appliances, plastics, wood products, and agricultural products such as poultry, beef, certain seafood, nuts, eggs, dairy, sugar, and vegetables. The list of potentially targeted products is available here: [link](https://circabc.europa.eu/ui/group/e9d50ad8-e41f-4379-839a-fdfe08f0aa96/library/9f483239-477f-4f14-8e2a-a09e1edb1f3d/details?download=true)
+
+
+In total, EU measures could target up to 28.5 billion in US exports (based on 2024 import values), matching US tariffs. The first phase targets 5.6 bln USD, while the threat of the second, more heave phase is intentionally delayed to give both sides the room for negotiations. The EU remains open to negotiations and can reverse these measures if an agreement is reached. 
+
+![Two phases total value](out/total_value_by_wave.png)
+
+The first phase has been designed in 2018, targeting Republican constituencies, such as Kentucky whiskies producers and corn farmers, as well as items of steel and aluminium.
+
+![Phase 1 April 1](out/top10_wave1.png)
+
+The range of goods for potential second phase is much broader and includes items such as soybeens, plastic, and costmetics.
+
+![Phase 2 April 15](out/top10_wave2.png)
+
+
+- **Stakeholder Consultation:** A two-week consultation period, ending on March 26, has been initiated to gather input from industry and trade representatives on the proposed countermeasures. 
+
+**EU's Position and Call for Negotiation:**
+
+European Commission President Ursula von der Leyen emphasized the EU's regret over the U.S. tariffs, stating that "tariffs are taxes" detrimental to both businesses and consumers. She highlighted that such measures disrupt supply chains, increase prices, and create economic uncertainty. Despite the firm response, the EU remains open to dialogue, with von der Leyen instructing EU Trade Commissioner Maroš Šefčovič to seek a negotiated solution with Washington. 
+
+## Canada countermeasures
+
+Canada [enacted](https://www.canada.ca/en/department-finance/news/2025/03/canada-responds-to-unjustified-us-tariffs-on-canadian-steel-and-aluminum-products.html) counter-tariffs on American goods in response to the US trade measures on steel and alluminium. 25% tariffs now in effect (as of March 13, 2025) on a [range](https://www.canada.ca/en/department-finance/news/2025/03/list-of-products-from-the-united-states-subject-to-25-per-cent-tariffs-effective-march-13-2025.html) of US products, including:
+
+- Tools
+- Computers and servers
+- Display monitors
+- Sporting equipment
+- Cast-iron products
+
+
+These tariffs add to Canada's existing 25% counter-tariffs on $30 billion of US imports implemented after March 4 IEEPA tariffs.
+Further actions planned:
+
+-Additional counter-tariffs scheduled for April 2, pending public comment
+-Scope may expand if new US tariffs emerge
+-"All options remain on the table" for responding to what Canada terms "unjustified tariffs"

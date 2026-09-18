@@ -1,0 +1,49 @@
+---
+title: "Trump Trade War Diary — Day 199"
+description: "While most countries digest new tariffs, imposed on them by Trump, there are news obout new tariffs upcoming."
+date: "2025-08-06"
+categories: [trade-wars, trump-trade-war-diary]
+---
+
+While most countries digest new tariffs, imposed on them by Trump, there are news obout new tariffs upcoming. 
+
+Most notably, Trump announced an extra 25% tariff on India after his envoy Witkoff met Putin earlier in the day. From this we can infer that Russians are not going to stop their war in Ukraine and that Trump is going to use tariffs as a tool to punish countries who support Russia. It is also likely the part of the deal with EU, which agreed not to retaliate against US tariffs, but to support Ukraine and NATO. 
+
+In the White House [executive order](https://www.whitehouse.gov/presidential-actions/2025/08/addressing-threats-to-the-united-states-by-the-government-of-the-russian-federation/) which is directed at Russia. 
+
+India was 8th largest importer to the US in 2024, with 87.3 billion USD of imports, so this is a significant increase in tariffs for India, which will be hit by additional 25% to already set 25% tariff on most imports to the US (excluding articles that are excepted by 50 U.S.C. 1702(b) and Annex II to Executive Order 14257 of April 2, 2025, which ecludes critical minerals and materials as well as electronics, HS85 from the US import tariffs).
+
+Out of 87.3 billion USD of imports, 67.61 billion USD will be hit by  a 50% tariff.
+
+| Category              | Total Value (Billion USD) | Number of Products |
+| --------------------- | ------------------------- | ------------------ |
+| Not in Annex II List¹ | 67.61                     | 3 755              |
+| In Annex II List²     | 19.72                     | 448                |
+
+
+
+## ✅ Annex II List (Top 5)
+
+| Rank | HS‑6 Code | Value (USD)    | Official Description                                                                                                                                                                     |
+| ---- | --------- | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | 300490    | 10.562 | Medicaments; mixed or unmixed products n.e.c. in heading 3004, for therapeutic or prophylactic use; packaged for retail sale                            |
+| 2    | 271012    | 2.651  | Light oils and preparations of petroleum or bituminous minerals, ≥ 70% by weight petroleum oils; not crude, not waste, not biodiesel (“light oils”)  |
+| 3    | 300420    | 0.459    | Medicaments containing antibiotics, in measured doses or retail packaging (excluding penicillins/streptomycins)                      |
+| 4    | 300449    | 0.349    | Medicaments containing alkaloids or derivatives (excluding hormones/steroids/antibiotics), in measured doses or retail packaging   |
+| 5    | 271019    | 0.344    | Other petroleum oils/preparations ≥ 70% by weight petroleum oils; not crude, waste or light (“other oils”)                                          |
+                    |
+
+---
+
+## ✅ Not in Annex II List (Top 5)
+
+| Rank | HS‑6 Code | Value (USD)   | Official Description                                                                                                               |
+| ---- | --------- | ------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | 851713    | 6.920 | Telephone sets for cellular or wireless networks (smartphones etc.) – HS 85.17; sets of apparatus |
+| 2    | 710239    | 6.687 | Non‑industrial diamonds, worked (not mounted or set)                                                                     |
+| 3    | 711319    | 3.074 | Precious metal jewelry, worked but not elsewhere specified or included   |
+| 4    | 030617     | 1.816 | Other shrimps and prawns                                              |
+| 5    | 854143    | 1.522 | Semiconductor devices; diodes, transistors, LEDs etc. – HS 85.41                                                                   |
+                                       |
+
+---

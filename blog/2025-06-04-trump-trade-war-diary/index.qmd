@@ -1,0 +1,99 @@
+---
+title: "Trump Trade War Diary — June 4, 2025"
+description: "* UK-origin metal remains at 25 % under the provisional U-S/UK “Atlantic Metals Accord” until 9 July 2025; no other country has an arrangement."
+date: "2025-06-04"
+categories: [trade-wars, trump-trade-war-diary]
+---
+
+### Snapshot: where U-S steel & aluminium tariffs stand **today (4 June 2025)**
+
+| Date           | Legal instrument                                                                        | Headline change                                                                                                               | Effective rate now\* |
+| -------------- | --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | -------------------- |
+| 8 Mar 2018     | Proc. 9704 / 9705 (Trump 1)                                                             | 10 % Al, 25 % Steel on “most” countries                                                                                       | superseded           |
+| 24 Jan 2020    | Proc. 9980                                                                              | Brought many downstream “derivative” items under the same duty                                                                | superseded           |
+| 10 Feb 2025    | Proc. 10895 & 10896 (Trump 2)                                                           | Removed all country carve-outs; raised **Al** to 25 %, kept **Steel** at 25 %; imposed *melt-and-pour / smelt-and-cast* rules | superseded           |
+| **3 Jun 2025** | **Proc. (unnumbered) “Adjusting Imports of Aluminum and Steel into the United States”** | **Doubles both duties to 50 %** ad valorem for all covered headings and their derivatives                                     | **50 %**             |
+| 3 Jun 2025     | White House Fact-Sheet & CBP CSMS #65236574                                             | HTSUS Chap. 99 lines updated; tariff code “9903.80.90” (steel) & “9903.85.32” (aluminium) now show 50 %                       | see note             |
+
+\* UK-origin metal remains at 25 % under the provisional U-S/UK “Atlantic Metals Accord” until **9 July 2025**; no other country has an arrangement. ([reuters.com][1], [theguardian.com][2])
+
+---
+
+#### 1.  What the **new proclamation** actually says
+
+> “I have determined that a **50 percent ad valorem tariff** on covered steel articles … and on covered aluminum articles is necessary to remove the threatened impairment of the national security of the United States.”
+> — Proclamation “Adjusting Imports of Aluminum and Steel…”, §6(a) ([whitehouse.gov][3])
+
+Key operative clauses
+
+| Clause  | Practical meaning                                                                                                                                                              |
+| ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| §3 & §4 | Re-affirms Commerce’s Feb-2025 finding that capacity-utilisation **fell below 80 %**, and that earlier product-exclusion volumes “significantly undermined” the tariff remedy. |
+| §6(a)   | Sets the **50 %** rate and orders the USITC to publish new HTSUS lines by 6 June.                                                                                              |
+| §6(c)   | Exempts any country that concludes an “alternative means” agreement (so far **only the UK**).                                                                                  |
+| §8      | Orders Commerce to report back in **120 days** on capacity/utilisation and recommend whether to maintain, raise or lower the duty.                                             |
+
+(The full text is reproduced in the Federal Register pre-publication file, FR Doc 2025-13689.) ([govinfo.gov][4])
+
+---
+
+#### 2.  **Scope & coding** (what actually gets 50 %)
+
+* **Steel articles** — HTS 7206–7306, plus derivatives listed in Proc 9980 (nuts, nails, bumpers, etc.).
+  HTSUS codes now: 9903.80.90 (base steel); 9903.81.20–.81.55 (derivatives).
+* **Aluminium articles** — HTS 7601–7609, plus foil, wire and derivatives.
+  Codes: 9903.85.32 (base aluminium); 9903.85.33–.85.44 (derivatives).
+* **Stacking**: if the item also attracts anti-dumping, Section 301 or safeguard duties, those are **in addition**. CBP’s guidance note gives examples of stacking order. ([content.govdelivery.com][5], [nnrglobal.com][6])
+
+---
+
+#### 3.  What **did NOT change**
+
+* The **product-exclusion** portal at Commerce (re-opened in March) stays open. Successful exclusions remove the duty completely, not just the 25 % increment. ([whitecase.com][7])
+* The melt-and-pour / smelt-and-cast certification requirements introduced in February remain.
+* Section 232 tariffs are **separate** from the “universal” 10 % tariff and the paused “reciprocal” tariff program; the 28 May Court of International Trade decision striking down IEEPA-based tariffs did **not** touch Section 232. ([en.wikipedia.org][8])
+
+---
+
+#### 4.  **Why the White House says it acted**
+
+| Stated rationale (Proc. preamble & Fact-Sheet)                                     | Evidence                                                 |
+| ---------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| Capacity utilisation in both sectors fell to **71 %** in Q1 2025.                  | Commerce report (Feb 2025). ([whitehouse.gov][9])        |
+| “Product exclusions covering a significant volume of imports” re-opened loopholes. | CBP duty data show exclusions doubled between Mar & May. |
+| Global over-capacity (esp. China) still rising.                                    | OECD Steel report, May 2025.                             |
+| Section 232 permits stronger action when earlier measures prove inadequate.        | 19 U.S.C. §1862(e).                                      |
+
+---
+
+#### 5.  **Immediate market & diplomatic fallout**
+
+* Domestic HRC steel futures jumped **14 %** week-on-week after the 31 May announcement. ([reuters.com][1])
+* Canada and Mexico (largest suppliers) condemned the move and hinted at **WTO disputes**; the EU prepared a €21 bn retaliation list. ([theguardian.com][2])
+* Industry users (automotive, beer-canning, construction) warn of pass-through inflation; the United Steelworkers applaud the hike but want enforcement against trans-shipment. ([apnews.com][10])
+
+---
+
+### Bottom line
+
+* **Headline rate is now 50 %** on virtually every steel or aluminium product entering the United States, unless a country negotiates an “alternative means” deal (so far only the UK, at 25 %).
+* The measure builds on — and does **not** repeal — the February 2025 proclamations; melt/smelt rules, exclusion portal and derivative coverage remain intact.
+* Section 232 authority insulates the duty from the recent court rulings that struck down the Administration’s IEEPA-based “reciprocal” and “fentanyl” tariffs, so legal challenges will have to attack the national-security finding itself.
+* Commerce must report back by early October; until then importers should budget for the full **50 %** duty (plus any other applicable trade remedies) and monitor CBP CSMS updates for HTS code changes.
+
+---
+
+* [reuters.com](https://www.reuters.com/world/americas/higher-metals-tariffs-kick-deadline-best-offers-arrives-2025-06-04/?utm_source=chatgpt.com)
+* [apnews.com](https://apnews.com/article/240dbc3823ecd66d3dd05a66883f9277?utm_source=chatgpt.com)
+* [theguardian.com](https://www.theguardian.com/us-news/2025/jun/04/trump-tariffs-steel-aluminum?utm_source=chatgpt.com)
+
+[1]: https://www.reuters.com/world/americas/higher-metals-tariffs-kick-deadline-best-offers-arrives-2025-06-04/?utm_source=chatgpt.com "Higher metals tariffs kick in as deadline for 'best' offers arrives"
+[2]: https://www.theguardian.com/us-news/2025/jun/04/trump-tariffs-steel-aluminum?utm_source=chatgpt.com "Trump's 50% tariffs on foreign steel and aluminum come into effect"
+[3]: https://www.whitehouse.gov/presidential-actions/2025/06/adjusting-imports-of-aluminum-and-steel-into-the-united-states/?utm_source=chatgpt.com "Adjusting Imports of Aluminum and Steel into the United States"
+[4]: https://www.govinfo.gov/content/pkg/FR-2025-06-02/pdf/FR-2025-06-02.pdf?utm_source=chatgpt.com "[PDF] Vol. 90 Monday, No. 104 June 2, 2025 Pages 23265–23420 - GovInfo"
+[5]: https://content.govdelivery.com/bulletins/gd/USDHSCBP-3e36e5e?wgt_ref=USDHSCBP_WIDGET_2&utm_source=chatgpt.com "Proclamation “Adjusting Imports of Aluminum and Steel in the United ..."
+[6]: https://www.nnrglobal.com/insight/steel-and-aluminum-tariffs-double/?utm_source=chatgpt.com "Steel and Aluminum Tariffs Double - NNR Global Logistics"
+[7]: https://www.whitecase.com/insight-alert/commerce-department-opens-new-steel-and-aluminum-section-232-tariff-inclusions?utm_source=chatgpt.com "Commerce Department Opens New Steel and Aluminum Section ..."
+[8]: https://en.wikipedia.org/wiki/Tariffs_in_the_second_Trump_administration?utm_source=chatgpt.com "Tariffs in the second Trump administration"
+[9]: https://www.whitehouse.gov/fact-sheets/2025/06/fact-sheet-president-donald-j-trump-increases-section-232-tariffs-on-steel-and-aluminum/?utm_source=chatgpt.com "Fact Sheet: President Donald J. Trump Increases Section 232 Tariffs ..."
+[10]: https://apnews.com/article/240dbc3823ecd66d3dd05a66883f9277?utm_source=chatgpt.com "Trump promises to hike steel and aluminum tariffs to 50% starting Wednesday. Here's what we know"

@@ -1,0 +1,26 @@
+---
+title: "Trump Trade War Diary — Day 50"
+description: "Ontario introduced 25% surcharge on electricity it exports to US. This act was the retaliatory measure against US tariffs on Canada. In 2024, US imported electricity worth 2.3 bln USD."
+date: "2025-03-11"
+categories: [trade-wars, trump-trade-war-diary]
+---
+
+Ontario introduced 25% surcharge on electricity it exports to US. This act was the retaliatory measure against US tariffs on Canada. In 2024, US imported electricity worth 2.3 bln USD. Ontario Premier Doug Ford said that hs is ready to stop supply of electricity if US escalate further.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cByPubfAi0w?si=NQHccad5P-ikheUz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Trump did not hesitate and escalated with extra 25% on steel and aluminum from Canada:
+
+![](figures/Trump%20tweet%20March%2011%20On%20additional%20tariffs%20on%20Canada.png)
+
+It is significant escalation since the imports of steel and aluminium are about 19 bln USD of imports (HS72 and HS76) last year and the largest importer of these products to US with market share of 32%. Given that he plans to have 25% tariffs on Steel and Aluminium for all countries, it is expected that the tariffs on Canada will be 50% in total. This will have a significant impact on the US economy, as the prices of steel and aluminium in US will go up in the short to medium term, leading to inflation and lower output in all industries that use these products. Given that he also plan to have 25% tariffs on cars and car parts, it is expected that the car industry will have an extremely negative supply shock in the short to medium term.
+
+![Steel and Aluminium imports to US](figures/Steel%20and%20Aluminium.png)
+
+He also threatened that consequences might be severe:
+
+- 25% tariffs on vechicles and parts from Canada, which are currently exempt, at least until April 2
+- Made demands on Canada to lower tariffs on dairy products
+- Made his ridiculous claim that Canada should become 51st state of the US
+
+There is a long standing argument in political science that more trade leads to more peace. Alternatively, protectionist measures increase likelihood of a conflict between states. Trump is testing this theory to the limits. The situation remains fluid, and further developments are expected in the coming days.

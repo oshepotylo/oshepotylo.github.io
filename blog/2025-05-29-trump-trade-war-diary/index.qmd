@@ -1,0 +1,57 @@
+---
+title: "Trump Trade War Diary — May 29, 2025"
+description: "In an unexpected turn of events, the US Court of Int'l Trade declares Trump Liberation Day tariffs illegal."
+date: "2025-05-29"
+categories: [trade-wars, trump-trade-war-diary]
+---
+
+In an unexpected turn of events, the [US Court of Int'l Trade](https://www.cit.uscourts.gov/) declares Trump Liberation Day tariffs illegal. The court ruled that the emergency clause that the Trump administration exploited is not warranted and cannot be applied to a wide range of products and countries.
+
+Trump is going to appeal. He called the judges unelected bureaucrats, who distort the will of people - a motive known too well for Brexit watchers. It highlights the strong parallels between Brexit and MAGA movements, which are both exploiting populism and attacking civil servants as the enemies of the people. Both aim at dismantling existing institutions and replacing them with direct authoritarian rule of the state-elected autocrat with powers to make laws and exert violence against the opposition.
+
+The ruling causes another layer of uncertainty, but also creates a possibility of the April 2 tariffs reversed to the normal, low tariff environment.
+The story is far from over, but it is undeniably a heavy blow to Trump's executive order approach to governance.
+
+Update: The ruling is put on pause pending appeal, so the tariffs remain in place for now. A US federal appeals court gave Donald Trump’s global tariff plans a temporary reprieve on Thursday, pausing a ruling that had found his “liberation day” levies to be illegal.
+
+A note: 
+
+### Analytical Note: Implications of U.S. Court Ruling Against Trump’s April 2 Tariffs
+
+On May 28, 2025, the U.S. Court of International Trade ruled that the "Liberation Day" tariffs imposed by former President Donald Trump on April 2 were unlawful. The decision has significant economic, legal, and political implications, affecting global trade dynamics, market expectations, and executive authority in U.S. trade policy.
+
+### Economic Implications
+
+**Immediate Market Response:**
+The court's ruling provided immediate relief and optimism to global markets. Stock indices across the U.S. and Asia surged, with Dow Jones futures rising 1.4%, S\&P 500 futures increasing by 1.7%, and Nasdaq futures jumping by 2%. Investor confidence notably improved due to reduced trade uncertainty and robust corporate earnings, particularly in the technology sector, exemplified by Nvidia's strong performance.
+
+**Oil Market Impact:**
+The oil market responded positively, with U.S. crude oil prices climbing over \$1 per barrel to around \$62.90. This increase reflected market optimism and reduced fears of trade disruptions. However, ongoing supply constraints, including OPEC+ policies and limited U.S. oil exports, also influenced this upward trend.
+
+**Long-Term Uncertainty:**
+Despite the short-term optimism, the court’s decision introduces prolonged uncertainty. Businesses, concerned about possible appeals and subsequent policy shifts, might postpone investments and hiring, potentially hindering economic growth and corporate performance over the medium term.
+
+### Legal Implications
+
+**Constraint on Executive Power:**
+The court emphasized that the International Emergency Economic Powers Act (IEEPA), which Trump invoked to justify tariffs, does not grant unlimited authority to impose tariffs unilaterally without clear evidence of a genuine emergency. This landmark ruling reaffirms the role of congressional oversight and checks executive overreach in trade matters.
+
+**Potential Appeals and Legal Battles:**
+With the Trump administration appealing the decision, the case may escalate to higher courts, possibly reaching the Supreme Court. The outcome of these appeals will significantly impact future presidential authority in trade policy, potentially reshaping the legal landscape of executive power.
+
+### Political Implications
+
+**Balance of Power Debate:**
+The ruling has intensified political discussions regarding the separation of powers between Congress and the presidency. Advocates argue the decision safeguards democratic principles by reinforcing congressional authority, whereas critics claim it could limit swift executive responses in trade-related emergencies.
+
+**Trade Policy Direction:**
+The decision undermines a central element of Trump's trade strategy and could weaken his negotiating position internationally. It may encourage future administrations toward more collaborative policy formulation with Congress, potentially stabilizing U.S. trade policy.
+
+**International Relations:**
+U.S. allies and trade partners view the ruling favorably as evidence of judicial independence and policy predictability. Countries previously targeted, such as Australia and Japan, may adjust their diplomatic and economic strategies in light of the reduced threat of unilateral tariffs.
+
+### Future Outlook
+
+The immediate suspension of the tariffs pending appeals provides temporary market stability. However, businesses should remain vigilant, monitoring the appeals process and potential policy shifts. Should higher courts uphold the decision, affected industries might seek refunds for previously paid duties, influencing market dynamics further.
+
+In summary, while the ruling has fostered initial optimism across markets and international relations, the ongoing legal challenges suggest continued volatility. Stakeholders must carefully navigate this evolving landscape, recognizing both short-term benefits and long-term uncertainties.

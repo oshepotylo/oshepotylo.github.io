@@ -1,0 +1,64 @@
+---
+title: "Trump Trade War Diary — Day 20"
+description: "Over the last 5 days, there were no significant changes in Trump stance on trade policy. However, there were some interesting development in China retaliatory measures against the US and Trump reaction to it."
+date: "2025-02-09"
+categories: [trade-wars, trump-trade-war-diary]
+---
+
+Over the last 5 days, there were no significant changes in Trump stance on trade policy. However, there were some interesting development in China retaliatory measures against the US and Trump reaction to it.
+
+China has responded to Donald Trump's new 10% tariff on Chinese imports with limited retaliatory measures:
+
+* China announced tariffs of 10-15% on about $14 billion worth of US goods, targeting:
+
+ - Energy products (LNG, coal, crude oil)
+ - Farm equipment
+ - Cars
+ - Rare metals
+
+There is an excellent summary of the analysis [here](https://www.hklaw.com/en/insights/publications/2025/02/chinas-retaliatory-measures-in-response-to-trump-tariffs). The Chinese list of export controlled goods is available in this [law](https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_e623090907fc4e1092f0a4db72f57b95.html)
+There is also the Unreliable Entity List which now includes PVH Group and Illumina [link](https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_ab15d2258dda4e93b8ad1ec4776d37c3.html)
+
+* Additional Chinese countermeasures include:
+
+ - Launching an antitrust probe into Google
+ - Adding US companies Illumina and PVH Group to its "unreliable entity list"
+ - Implementing new export controls on tungsten and other rare metals
+
+Trade Talks with Chad Bown is back and in the new episode he and FT journalist Aime Williams discuss the latest developments in the US-China trade war, including the impact of Trump's new tariffs and China's retaliatory measures. They also analyze the potential effects of the tariffs on US imports from China and the broader implications for global trade. Listen to the full episode [here](https://open.spotify.com/episode/4OKs2x3oRx2Sx3XZiQ03hU?si=9cdad5f8e17f459b).
+
+One thing I learnt from the podcast is that despite the fact that US tariffs on China increased from 3% to 20% in the last years, China adjusted its exports to the US to export products that are not subject to tariffs and 80% of Chinese exports to the US are not subject to tariffs. So, 10% acorss the board tariff is a very big deal for China.
+
+However, there are going to be talks of Trump and Xi Jinping in the coming days. There is already news that Trump has stopped tariffs on small parcels. It was because his order created chaos in the US postal system and he was forced to stop it. 
+
+FT also [reports](https://www.ft.com/content/23ed9a9d-5902-4eac-b9af-ebc88dab9563) on the ongoing China-US negotiations. 
+
+Key Points:
+
+- The limited scope of China's retaliation suggests room for negotiations, though there are several complicating factors
+- Trump's primary stated goal is getting China to stop the flow of fentanyl, which is the leading cause of death for Americans aged 18-45
+
+Additional US Demands (according to experts):
+
+- Pressure on Russia regarding Ukraine
+- TikTok ownership transfer to an American buyer
+- Other potential undisclosed demands
+
+China's Position:
+
+- Taking a "wait-and-see" approach before further engagement
+- More concerned about US tech export controls than tariffs
+- Better positioned to handle tariffs than in previous trade disputes:
+
+ - US exports now only account for 15% of Chinese trade
+ - Many Chinese companies have diversified operations overseas
+ - Chinese experts believe tariffs' impact on their economy is less severe than Washington assumes
+
+
+
+Economic Impact:
+
+* Goldman Sachs estimates that every 20% increase in US tariffs would:
+
+ - Reduce China's GDP growth by 0.7 percentage points
+ - After mitigation measures (currency depreciation, stimulus), the net impact would be about 0.2 percentage points

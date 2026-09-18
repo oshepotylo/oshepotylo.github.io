@@ -1,0 +1,22 @@
+---
+title: "Trump Trade War Diary — Day 298"
+description: "The White House announced four new “frameworks for Agreements on Reciprocal Trade” with El Salvador, Argentina, Guatemala, and Ecuador. Although framed as “historic trade deals,” these are not full free trade agreements."
+date: "2025-11-14"
+categories: [trade-wars, trump-trade-war-diary]
+---
+
+**Topic:** Western Hemisphere “Reciprocal Trade” Frameworks
+
+**Summary:**  
+The White House [announced](https://www.whitehouse.gov/fact-sheets/2025/11/fact-sheet-president-donald-j-trump-announces-historic-trade-deals-with-western-hemisphere-trading-partners/#:~:text=DELIVERING%20ON%20RECIPROCAL%20TRADE%3A%20Today,partners%20in%20the%20Western%20Hemisphere.) four new “frameworks for Agreements on Reciprocal Trade” with El Salvador, Argentina, Guatemala, and Ecuador. Although framed as “historic trade deals,” these are not full free trade agreements. They are selective, issue-specific arrangements centred on regulatory alignment, non-tariff barrier reduction, and sectoral market access.
+
+**Key Analytical Points:**
+
+- **Not full FTAs:** These are preliminary frameworks promising future negotiations. No binding dispute settlement or comprehensive tariff elimination yet.
+- **Strategic pivot:** Positioning the U.S. as the regulatory anchor for the Western Hemisphere—digital, environmental, labour, agricultural, and IP rules.
+- **Pressure-based narrative:** Continues the administration’s deficit-driven justification for aggressive trade measures under the declared national emergency of April 2025.
+- **Selective liberalisation:** Tariff relief is narrow—targeting agriculture (Ecuador), industrial goods and IP reforms (Argentina), digital rules and labour enforcement (Guatemala), and regulatory recognition (El Salvador).
+- **Nearshoring logic:** The deals support the administration’s push to reconfigure supply chains into the Americas, especially textiles, agriculture, and regulated sectors like pharma and autos.
+
+**My Observation:**  
+This looks like the first structured attempt to build a hemispheric trade bloc under U.S. rules without committing to traditional FTA architecture. Heavy emphasis on regulatory recognition and digital trade mirrors the U.S. attempt to export its own standards—and limit the influence of EU regulatory models in Central and South America. The real impact will depend on whether frameworks evolve into enforceable agreements and whether partner countries can deliver on promised reforms.

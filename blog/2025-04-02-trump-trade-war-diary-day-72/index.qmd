@@ -1,0 +1,32 @@
+---
+title: "Trump Trade War Diary — Day 72"
+description: "Trump announces his \"reciprocal tariffs\" on all countries, which will go in two stages. Starting from tomorrow, there is a base 10% tariff on all imports from all countries, but there is a list of countries that will get higher tariffs."
+date: "2025-04-02"
+categories: [trade-wars, trump-trade-war-diary]
+---
+
+Trump announces his "reciprocal tariffs" on all countries, which will go in two stages. Starting from tomorrow, there is a base 10% tariff on all imports from all countries, but there is a list of countries that will get higher tariffs. The list is presented by Trump and it has 20% tariff on EU, 34% tariff on China, and 45% tariff on Vietnam. These reciprocal tariffs are expected to go into action in a week time, on April 9. Presumably, there is time given for countries to negotiate with the US and get a lower tariff.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bj5iFimkOYg?si=7gSf0900j_mvI_RL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+It seems that the tariffs are going to be country-specific rather than product specific, which is a big change from the common practive. This will create huge mess at the US border and will increase the red tape and corruption in customs. Goods will be re-labeled and re-routed from high tariff countries to low tariff countries, which will create a lot of opportunities for corruption.
+
+The White House posted the official document on the tariffs, which is available [here](https://www.whitehouse.gov/presidential-actions/2025/04/regulating-imports-with-a-reciprocal-tariff-to-rectify-trade-practices-that-contribute-to-large-and-persistent-annual-united-states-goods-trade-deficits/). 
+
+Sec. 2.  Reciprocal Tariff Policy.  It is the policy of the United States to rebalance global trade flows by imposing an additional ad valorem duty on all imports from all trading partners except as otherwise provided herein.  The additional ad valorem duty on all imports from all trading partners shall start at 10 percent and shortly thereafter, the additional ad valorem duty shall increase for trading partners enumerated in Annex I to this order at the rates set forth in Annex I to this order.  These** additional** ad valorem duties shall apply until such time as I determine that the underlying conditions described above are satisfied, resolved, or mitigated.   
+
+It seems that 10% base tariff will be added to already existing tariffs, which increase effective simple average tariff from 3.3 to 13.3%. On top of that, countires will be added extra "reciprocal tariffs" according to the annex A1 list. 
+
+The tariffs will not be applied to steel and aluminium products as well as to cars and parts, which will be tariffed at 25% as prevsiously announced.
+
+Goods from Mexico and Canada will be reuglated according to the previous Trump announcment, which is 25% for Mexico, 25% for Canada and 10% on energy products and potash. Also, rule of origin will be applied to all goods from Mexico and Canada as well all value added in US will be exempt from tariffs.
+
+There is also abolishment of duty-free de minimis shipments.
+
+There are also carrots and sticks:
+
+(b)  Should any trading partner retaliate against the United States in response to this action through import duties on U.S. exports or other measures, I may further modify the HTSUS to increase or expand in scope the duties imposed under this order to ensure the efficacy of this action. 
+
+(c)  Should any trading partner take significant steps to remedy non-reciprocal trade arrangements and align sufficiently with the United States on economic and national security matters, I may further modify the HTSUS to decrease or limit in scope the duties imposed under this order.
+
+(d)  Should U.S. manufacturing capacity and output continue to worsen, I may further modify the HTSUS to increase duties under this order.

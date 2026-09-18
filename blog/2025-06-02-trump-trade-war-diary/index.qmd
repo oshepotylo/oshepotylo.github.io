@@ -1,0 +1,45 @@
+---
+title: "Trump Trade War Diary — June 2, 2025"
+description: "\"The bad news is that China, perhaps not surprisingly to some, HAS TOTALLY VIOLATED ITS AGREEMENT WITH US. So much for being Mr. NICE GUY!\" Trump wrote. Later in the Oval Office, he hinted he planned to speak with Chinese leader Xi Jinping."
+date: "2025-06-02"
+categories: [trade-wars, trump-trade-war-diary]
+---
+
+# Trump's China Policy Updates: Key Developments (May 26-June 2, 2025)
+
+   "The bad news is that China, perhaps not surprisingly to some, HAS TOTALLY VIOLATED ITS AGREEMENT WITH US. So much for being Mr. NICE GUY!" Trump wrote. Later in the Oval Office, he hinted he planned to speak with Chinese leader Xi Jinping.
+
+
+![Trump's Truth Social Post](figures/Trump%20tweet%20May%2030%20China%20Mr%20nice%20guy.png)
+
+## Major Announcements
+
+### 1. Tariff Escalation & Trade Accusations
+- **May 30**: Trump doubled tariffs on Chinese steel/aluminum imports (from 25% to 50%), accusing China of violating trade agreements ([Reuters]((https://www.reuters.com/world/china/trump-says-china-has-totally-violated-agreement-with-us-tariffs-2025-05-30/))
+- **Export Restrictions**: Ordered U.S. companies to halt shipments of semiconductor design software, chemicals, and aviation equipment to China without licenses
+
+### 2. China's Response
+- **June 2**: China rejected Trump's claims as "groundless" and vowed "forceful measures" to protect its interests ([Reuters](https://www.reuters.com/world/china/china-rejects-trumps-accusation-that-it-breached-geneva-trade-deal-2025-06-02/))
+- **Trade Talks Stalled**: U.S. Treasury Secretary Scott Bessent admitted negotiations are "a bit stalled," requiring direct Trump-Xi involvement ([Bloomberg](https://www.bloomberg.com/news/articles/2025-06-02/china-accuses-us-of-violating-trade-truce-vows-firm-response))
+
+## Market & Diplomatic Impact
+
+| Area            | Effect                                      |
+|-----------------|---------------------------------------------|
+| U.S. Stocks     | Semiconductor and auto stocks dipped; steelmakers surged |
+| Global Trade    | EU and allies criticized the move, fearing renewed trade wars |
+| Supply Chains   | Export bans disrupt tech and manufacturing sectors |
+
+## Top Sources
+1. Reuters - Tariff details and China's rebuttal [link](https://www.reuters.com/world/china/trump-says-china-has-totally-violated-agreement-with-us-tariffs-2025-05-30/)
+2. Bloomberg - Diplomatic fallout analysis [link](https://www.bloomberg.com/news/articles/2025-06-02/china-accuses-us-of-violating-trade-truce-vows-firm-response)
+3. CNN - China's "provoking frictions" statement [link](https://www.cnn.com/2025/06/01/business/china-response-trump-us-trade-truce-intl-hnk)
+
+## What's Next?
+- **June 4**: New 50% tariffs take effect
+- **Potential Xi-Trump Call**: White House expects a direct dialogue to ease tensions
+- **Retaliation Watch**: China may target U.S. agriculture or tech imports
+
+   “If the US insists on its own way and continues to damage China’s interests, China will continue to take resolute and forceful measures to safeguard its legitimate rights and interests,” the The Chinese Ministry of Commerce said.
+
+Beijing accused the US of introducing discriminatory restrictions, which include new guidelines on AI chip export controls and the withdrawal of Chinese student visas.

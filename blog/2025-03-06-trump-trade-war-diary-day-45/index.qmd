@@ -1,0 +1,46 @@
+---
+title: "Trump Trade War Diary — Day 45"
+description: "Scared by the stock market reaction to the tariffs, Trump is backpedalling sending his economic policy guy, Howard Lutnick to calm the markets down."
+date: "2025-03-06"
+categories: [trade-wars, trump-trade-war-diary]
+---
+
+Scared by the stock market reaction to the tariffs, Trump is backpedalling sending his economic policy guy, Howard Lutnick to calm the markets down.
+
+- US Commerce Secretary Howard Lutnick announced that goods compliant with the 2020 US-Mexico-Canada Agreement (USMCA) will likely receive a one-month exemption from tariffs
+- This represents a significant shift in President Trump's trade policy
+- The announcement follows Trump's statement on Wednesday that USMCA-compliant carmakers would get a month-long exemption from the 25% tariffs
+- The initial tariff announcement earlier this week caused market turbulence, erasing all S&P 500 post-election gains
+- Canada and Mexico had announced retaliatory measures in response to the US tariffs
+- According to Lutnick: "It's likely that it will cover all USMCA-compliant goods and services... [they] are likely to get an exemption from these tariffs"
+
+
+
+Here is the stockmarket reaction to the news:
+
+![Stock market reaction](figures/S_and_P%20March%205.png)
+
+Soon after, D Trump tweeted that he is delaying tariffs for Mexico until 2nd April, indeed. It is still to be seen what will happen with Canada and China tariffs.
+
+![Trump tweet on Mexico](figures/Trump%20March%206%202025%20Mexico.png)
+
+By the end of the day, all US tariffs with Canada and Mexico which are USMCA compliant (Rules of Origin rules) are put on pause until 2nd April. It means that around 50% of Mexican and 62% of Canadian imports are not compliant.
+
+![](figures/Trump%20backs%20down%20on%20taridds%20March%206.png)
+
+ The tariffs on China are still in place.
+
+Today also was the update of US trade data. January 2025 witnessed an unprecedented surge in U.S. 
+
+
+1️⃣ US imports surged dramatically in January 2025, rising 25% compared to January 2024. Total imports reached ~$317 billion, a notable spike from ~$254 billion in January 2023. But why?
+
+2️⃣ A deeper dive reveals an extraordinary factor driving this increase: imports of gold. In January 2025 alone, US gold imports soared by an astonishing 552% compared to January 2024!
+
+3️⃣ This spike is unprecedented. Imports of gold jumped from ~$6 billion in January 2024 to nearly $39 billion in January 2025—representing over half of the total increase in imports.
+
+4️⃣ Switzerland led this gold rush, with imports skyrocketing from just ~$500 million last January to over $19 billion this year—a 3,830% increase!
+
+5️⃣ Why such a surge? This rush for gold usually signals uncertainty or fear among investors and the public. People appear anxious, hedging against economic or financial uncertainty.
+
+6️⃣ Bottom line: January 2025’s massive jump in US imports is less about broader trade activity and more about a gold-buying frenzy driven by widespread economic anxiety.

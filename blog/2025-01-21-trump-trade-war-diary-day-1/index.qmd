@@ -1,0 +1,76 @@
+---
+title: "Trump Trade War Diary — Day 1"
+description: "No specifics so far on anticipated tariff hikes, but all options on the table."
+date: "2025-01-21"
+categories: [trade-wars, trump-trade-war-diary]
+---
+
+White house press release: America First Trade Policy 
+
+[](https://www.whitehouse.gov/presidential-actions/2025/01/america-first-trade-policy/)
+
+Main points:
+
+No specifics so far on anticipated tariff hikes, but all options on the table.
+
+There is express analysis from International Economic Law and Policy Blog:
+
+[link](https://ielp.worldtradelaw.net/2025/01/trumps-trade-policy-day-1-just-a-memo.html?utm_source=dlvr.it&utm_medium=bluesky)
+
+The memo Trump issued sets in motion a series of investigations, reviews, and potential policy changes on trade rather than imposing immediate tariffs. It outlines plans to:
+
+• Investigate the causes of trade deficits and “unfair trade practices” by other countries;
+• Consider creating a new “External Revenue Service” to collect tariffs;
+• Begin the review process for the upcoming 2026 USMCA check-in;
+• Examine potential currency manipulation by key trading partners;
+• Look at revising or negotiating new trade agreements (including sector-specific deals);
+• Review enforcement of the U.S.-China Phase One deal and consider additional measures;
+• Assess “economic security” issues, including steel/aluminum tariffs, export controls, and outbound investment rules; and
+• Investigate discriminatory foreign taxes and potential stricter “Buy American” rules.
+
+Overall, the memo signals broader, more systematic trade and economic-security reviews—while postponing any immediate, sweeping tariffs until after these studies and recommendations are completed.
+
+Financial Times, on the other hand is more pessimistic, claiming that Trump threatened Canada and Mexico with 25% tariffs within days: [link](https://www.ft.com/content/d5141418-6827-4027-92f2-138b43315e31)
+
+Immediate Tariff Threats
+
+President Trump warns of imposing up to 25% tariffs on Canadian and Mexican imports as early as February 1.
+He also threatens 100% tariffs on Chinese imports if Beijing does not agree to sell at least 50% of TikTok to a US company.
+Trump signals possible tariffs on EU products unless they buy more American oil, and mentions a universal tariff remains “on the table.”
+
+
+It looks like the trade war will be used as a stick to force other countries to comply with US demands. 
+
+Borderlex reports that the EU is preparing a response to Trump’s threats: [link](https://borderlex.net/2025/01/21/america-first-policy-returns-with-few-clues-on-how-europeans-will-be-affected/)
+
+**Summary of the Article**
+
+In his return to the White House, President Trump has signaled that an “America First” policy will once again dominate U.S. trade relations. While he did not immediately impose new tariffs, a memorandum outlining the administration’s agenda indicates several ways the European Union could be impacted:
+
+1. **Risk to EU Steel and Aluminum Truce**  
+   - A review of steel and aluminum imports could reinstate Section 232 tariffs on the EU, ending the current truce.  
+   - The EU would then need to decide whether to retaliate with its own measures.
+
+2. **Possible Action Against EU Digital Taxes**  
+   - Trump vows to investigate foreign taxes deemed discriminatory or extraterritorial, likely including the EU’s digital levies.
+
+3. **Focus on Trade Deficits and Surpluses**  
+   - Europe runs an overall trade surplus with the U.S., drawing Washington’s scrutiny.  
+   - The administration plans to examine currency “misalignment” and consider a broad “global supplemental tariff.”
+
+4. **Revisiting Existing Trade Deals—and Potential New Ones**  
+   - The Office of the U.S. Trade Representative will assess the WTO Agreement on Government Procurement and re-evaluate current U.S. trade agreements.  
+   - Trump aims to pursue new bilateral deals that expand U.S. market access.
+
+5. **Export Controls and Anti-Subsidy Measures**  
+   - The U.S. intends to overhaul export controls to address strategic threats, echoing the EU’s own focus on foreign subsidies.  
+   - There may be stricter U.S. antidumping and countervailing duty laws, adding complexity for European exporters.
+
+6. **Energy Policies and LNG**  
+   - Trump wants to ramp up fossil fuel production and exports, potentially offering opportunities for the EU to replace Russian LNG.  
+   - However, any withdrawal from environmental initiatives could strain broader U.S.-EU cooperation on climate goals.
+
+7. **Panama Canal Controversy**  
+   - Although not directly tied to EU interests, Trump’s comments about reclaiming the Panama Canal highlight an aggressive foreign policy stance that could have broader geopolitical implications.
+
+Overall, the EU faces renewed uncertainty regarding tariffs and trade policy under Trump’s “America First” resurgence. Brussels may need to prepare for potential disputes in steel, digital taxes, and broader economic relations.
