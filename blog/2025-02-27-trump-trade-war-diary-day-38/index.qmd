@@ -3,6 +3,7 @@ title: "Trump Trade War Diary — Day 38"
 description: "- Implement tariffs on Mexico and Canada starting March 4 (reversing a previous delay) - Add an additional 10% tariff on Chinese imports (on top of existing 10% tariffs) starting March 4 - Proceed with planned \"reciprocal\" tariffs affecting various countries…"
 date: "2025-02-27"
 categories: [trade-wars, trump-trade-war-diary]
+image: "figures/Trump tweet Feb 27 On Mex and Can.png"
 ---
 
 ## Trump is to go ahead with tariffs on Canada and Mexico, more tariffs on China

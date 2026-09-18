@@ -3,6 +3,7 @@ title: "Trump Trade War Diary — Day 189"
 description: "Trump travelled to Scotland to play golf in his 2 resorts, Trump Turnberry and Trump Aberdeen. He also met with Ursula von der Leyen, the President of the European Commission, to discuss the ongoing trade tensions between the US and the EU."
 date: "2025-07-27"
 categories: [trade-wars, trump-trade-war-diary]
+image: "figures/July 28 2025 VDL Trump handshake.jpg"
 ---
 
 Trump travelled to Scotland to play golf in his 2 resorts, Trump Turnberry and Trump Aberdeen. He also met with Ursula von der Leyen, the President of the European Commission, to discuss the ongoing trade tensions between the US and the EU. The meeting was seen as an opportunity to de-escalate the situation, especially after Trump's recent threats of a 30% tariff on EU imports.

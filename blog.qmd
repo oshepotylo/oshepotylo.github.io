@@ -8,7 +8,7 @@ listing:
     sort: "date desc"
     categories: true
     feed: true
-    fields: [date, title, description, categories]
+    fields: [image, date, title, description, categories]
 page-layout: full
 ---
 

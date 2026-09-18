@@ -3,6 +3,7 @@ title: "Trump Trade War Diary — May 22, 2025"
 description: "Trump suddenly announces escalation of tariffs against EU to 50% on all imports starting June 1, 2025. Not only it is a surprise, but it is also a significant increase from the previous 10% tariffs."
 date: "2025-05-22"
 categories: [trade-wars, trump-trade-war-diary]
+image: "figures/Trump tweet May 22 On escalation of tarff with EU.png"
 ---
 
 Trump suddenly announces escalation of tariffs against EU to 50% on all imports starting June 1, 2025. Not only it is a surprise, but it is also a significant increase from the previous 10% tariffs. The announcement comes as a shock to many in the business community and raises concerns about the potential impact on transatlantic trade relations. The move is seen as a response to ongoing tensions between the US and EU over various trade issues, including digital services taxes and agricultural subsidies. The EU has vowed to retaliate against the new tariffs, which could further escalate the trade conflict between the two economic powers.

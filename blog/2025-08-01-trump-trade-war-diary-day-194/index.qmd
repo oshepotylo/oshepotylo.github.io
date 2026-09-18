@@ -3,6 +3,7 @@ title: "Trump Trade War Diary — Day 194"
 description: "Finally, just several hours before the deadline on August 1, the White House has published new executive order, modifying the Executive Order 14257 of April 2, 2025, which set country-specific rates for imports to US, clearly violating WTO MFN rules and also…"
 date: "2025-08-01"
 categories: [trade-wars, trump-trade-war-diary]
+image: "figures/Trump August 1 2025 EO timing.png"
 ---
 
 Finally, just several hours before the deadline on August 1, the White House has published new executive order, modifying the Executive Order 14257 of April 2, 2025,  which set country-specific rates for imports to US, clearly violating WTO MFN rules and also not approved by the US Congress. So, we are officially entering a New Brave World of trade on new terms. And EU, by signing a "trade deal" with US rubber stump it the last week. 

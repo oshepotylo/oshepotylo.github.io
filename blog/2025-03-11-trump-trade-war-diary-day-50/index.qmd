@@ -3,6 +3,7 @@ title: "Trump Trade War Diary — Day 50"
 description: "Ontario introduced 25% surcharge on electricity it exports to US. This act was the retaliatory measure against US tariffs on Canada. In 2024, US imported electricity worth 2.3 bln USD."
 date: "2025-03-11"
 categories: [trade-wars, trump-trade-war-diary]
+image: "figures/Trump tweet March 11 On additional tariffs on Canada.png"
 ---
 
 Ontario introduced 25% surcharge on electricity it exports to US. This act was the retaliatory measure against US tariffs on Canada. In 2024, US imported electricity worth 2.3 bln USD. Ontario Premier Doug Ford said that hs is ready to stop supply of electricity if US escalate further.

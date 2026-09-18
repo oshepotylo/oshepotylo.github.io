@@ -3,6 +3,7 @@ title: "Trump Trade War Diary — June 2, 2025"
 description: "\"The bad news is that China, perhaps not surprisingly to some, HAS TOTALLY VIOLATED ITS AGREEMENT WITH US. So much for being Mr. NICE GUY!\" Trump wrote. Later in the Oval Office, he hinted he planned to speak with Chinese leader Xi Jinping."
 date: "2025-06-02"
 categories: [trade-wars, trump-trade-war-diary]
+image: "figures/Trump tweet May 30 China Mr nice guy.png"
 ---
 
 # Trump's China Policy Updates: Key Developments (May 26-June 2, 2025)

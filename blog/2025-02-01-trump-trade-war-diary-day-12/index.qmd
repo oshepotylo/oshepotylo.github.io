@@ -3,6 +3,7 @@ title: "Trump Trade War Diary — Day 12"
 description: "The US is set to implement steep tariffs on its three largest trading partners—Canada, Mexico, and China—beginning February 1. Under President Trump’s directive, Canada and Mexico will face a 25% tariff, while China will be subject to a 10% levy."
 date: "2025-02-01"
 categories: [trade-wars, trump-trade-war-diary]
+image: "figures/Figure 2025-01-31 Universal gravity of Trump tariffs.png"
 ---
 
 **Summary:**

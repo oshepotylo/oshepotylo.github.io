@@ -3,6 +3,7 @@ title: "Trump Trade War Diary — Day 52"
 description: "Furious with the EU response, Trump tweeted that he will impose 200% tariffs on French wine and other alcohol from EU. The number iteslf raised several eyebrows, as it is not clear how he came up with it."
 date: "2025-03-13"
 categories: [trade-wars, trump-trade-war-diary]
+image: "figures/Trump tweets March 13 on EU wine.png"
 ---
 
 Furious with the EU response, Trump tweeted that he will impose 200% tariffs on French wine and other alcohol from EU. The number iteslf raised several eyebrows, as it is not clear how he came up with it. His own Secretary of Treasurey, Scott Bessent, was not aware of the decision.

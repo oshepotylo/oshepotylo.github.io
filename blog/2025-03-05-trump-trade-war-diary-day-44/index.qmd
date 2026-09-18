@@ -3,6 +3,7 @@ title: "Trump Trade War Diary — Day 44"
 description: "Bizarrly, Trump keeps claiming that the tariffs on Canada are due to fentanyl, which is a very weak argument. The tariffs are clearly to protect US industry and to force firms to move their production to the US."
 date: "2025-03-05"
 categories: [trade-wars, trump-trade-war-diary]
+image: "figures/Trump tweet to Trudeau on reciprocity March 4.PNG"
 ---
 
 Trump pushes on reciprocity in rebuttal to Trudeau's announcements, but he clearly not quite understand the priniciple as can be seen from his tweets:

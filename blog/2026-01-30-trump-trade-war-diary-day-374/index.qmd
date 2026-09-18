@@ -3,6 +3,7 @@ title: "Trump Trade War Diary — Day 374"
 description: "The US has announced it will decertify Bombardier aircraft and threatens 50% tariffs on all Canadian planes—unless Canada certifies Gulfstream jets \"immediately.\" This is a notable shift in trade war tactics."
 date: "2026-01-30"
 categories: [trade-wars, trump-trade-war-diary]
+image: "figures/Trump tweet Jan 30 2026 Canada airplains.png"
 ---
 
 On Aircraft and the Art of Regulatory Retaliation

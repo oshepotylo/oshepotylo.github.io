@@ -3,6 +3,7 @@ title: "Trump Trade War Diary — Day 24"
 description: "Trump issued a new executive order on reciprocal tariffs against other countries, which includes VAT and Non-tariff measures. The order is available here. In a tweet that preceeded the order he explained that VAT in particular is unfair against US companies."
 date: "2025-02-13"
 categories: [trade-wars, trump-trade-war-diary]
+image: "figures/Trump tweet Feb 13 On reciprocal tariffs.PNG"
 ---
 
 Trump issued a new executive order on reciprocal tariffs against other countries, which includes VAT and Non-tariff measures. The order is available [here](https://www.whitehouse.gov/articles/2025/02/reciprocal-trade-and-tariffs/). In a tweet that preceeded the order he explained that VAT in particular is unfair against US companies. However, VAT tax is paid by all firms, so his claim of unfairness is weak. 

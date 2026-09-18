@@ -3,6 +3,7 @@ title: "Trump Trade War Diary — Day 14"
 description: "In a miracluous turn of events, Trump announced that he is lifting tariffs on Canada and Mexico. The tariffs were supposed to be effective from February 4, but Trump changed his mind."
 date: "2025-02-03"
 categories: [trade-wars, trump-trade-war-diary]
+image: "figures/Day13-Trump-delays-tariff-Mexico.jpg"
 ---
 
 In a miracluous turn of events, Trump announced that he is lifting tariffs on Canada and Mexico. The tariffs were supposed to be effective from February 4, but Trump changed his mind. Here is the tweet:

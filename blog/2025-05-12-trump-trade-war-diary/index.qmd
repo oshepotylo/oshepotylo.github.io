@@ -3,6 +3,7 @@ title: "Trump Trade War Diary — May 12, 2025"
 description: "The US and China have agreed to a 90-day pause on reciprocal tariffs, with the exception of China."
 date: "2025-05-12"
 categories: [trade-wars, trump-trade-war-diary]
+image: "figures/US tariffs evolution.jpg"
 ---
 
 The US and China have agreed to a 90-day pause on reciprocal tariffs, with the exception of China. This pause is seen as a potential opportunity for negotiations, but it remains to be seen whether it will lead to any significant breakthroughs in US-China trade relations. The US has also announced the closure of the de minimis exemption for low-value imports from China and Hong Kong, effective May 2, 2025. This move is aimed at combating China's role in America's synthetic opioid crisis and is part of a broader strategy to tighten trade restrictions on China. China's response during this period has included an immediate retaliatory tariff increase to 84% on US goods and a comprehensive diplomatic offensive through the release of a White Paper outlining its position on the trade dispute. Despite these developments, the overall trajectory of US-China trade relations remains fraught with tension and uncertainty.

@@ -3,6 +3,7 @@ title: "Trump Trade War Diary — Day 21"
 description: "Donald Trump said he would on Monday impose 25 per cent tariffs on all steel and aluminium imports, expanding his trade conflicts to the metals sector in a new burst of protectionism from Washington."
 date: "2025-02-10"
 categories: [trade-wars, trump-trade-war-diary]
+image: "figures/Steel_Aluminium.png"
 ---
 
 	[link](https://www.ft.com/content/54810a2c-1db7-488b-ab38-7d00c2dcf016)

@@ -3,6 +3,7 @@ title: "Trump Trade War Diary — Day 193"
 description: "Trump announced a \"trade deal\" Korea with US, which set US tariffs for Korean imports at 15%. As with other deals, Korea had to declare some magik numbers - several hundred billion USD here and there of investment in US."
 date: "2025-07-31"
 categories: [trade-wars, trump-trade-war-diary]
+image: "figures/Trump tweet July 30 2025 Korea US deal.png"
 ---
 
 Trump announced a "trade deal" Korea with US, which set US tariffs for Korean imports at 15%. As with other deals, Korea had to declare some magik numbers - several hundred billion USD here and there of investment in US. All this pronouncements have one goal - if and when any compnay X from country Z invest in US, Trump will jump up and say that it is his personal achievement and his personal win.

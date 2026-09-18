@@ -3,6 +3,7 @@ title: "Trump Trade War Diary — Day 80"
 description: "After bond market showed sell-off of US bonds and interest rates spiked, after China showed no sign of surrender, and after EU agreed the first wave of retaliatory tariffs, D. Trump threw a white flag and cancelled his \"reciprocal\" tariffs."
 date: "2025-04-10"
 categories: [trade-wars, trump-trade-war-diary]
+image: "figures/Trump tweet April 10 Delay reciprocal tariffs.png"
 ---
 
 After bond market showed sell-off of US bonds and interest rates spiked, after China showed no sign of surrender, and after EU agreed the first wave of retaliatory tariffs, D. Trump threw a white flag and cancelled his "reciprocal" tariffs. 

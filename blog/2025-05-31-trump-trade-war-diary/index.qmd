@@ -3,6 +3,7 @@ title: "Trump Trade War Diary — May 31, 2025"
 description: "- Tariff Increase: 50% on imported steel and aluminum (up from 25%). - Effective Date: June 4, 2025. - Platform: Announced via Truth Social. - Rationale: Protect U.S."
 date: "2025-05-31"
 categories: [trade-wars, trump-trade-war-diary]
+image: "figures/Trump tweet May 31 on steel escalation.png"
 ---
 
 Trump Announces 50% Tariff on Steel & Aluminum: Breaking News (May 31–June 2, 2025)

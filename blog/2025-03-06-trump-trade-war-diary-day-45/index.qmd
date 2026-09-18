@@ -3,6 +3,7 @@ title: "Trump Trade War Diary — Day 45"
 description: "Scared by the stock market reaction to the tariffs, Trump is backpedalling sending his economic policy guy, Howard Lutnick to calm the markets down."
 date: "2025-03-06"
 categories: [trade-wars, trump-trade-war-diary]
+image: "figures/S_and_P March 5.png"
 ---
 
 Scared by the stock market reaction to the tariffs, Trump is backpedalling sending his economic policy guy, Howard Lutnick to calm the markets down.

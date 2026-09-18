@@ -3,6 +3,7 @@ title: "Trump Trade War Diary — Day 74"
 description: "Taking a short pause, China announced a reciprocal 34% tariff on all US imports, effective April 10. The move is a direct response to Trump's recent tariff hike and is expected to escalate trade tensions further."
 date: "2025-04-04"
 categories: [trade-wars, trump-trade-war-diary]
+image: "figures/April4FTSE100.png"
 ---
 
 ## China retaliates

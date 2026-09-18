@@ -3,6 +3,7 @@ title: "Trump Trade War Diary — Day 371"
 description: "Over the last several months, there were no significant changes in the trade policy diary, until post -New Year period, when Trump announced a new wave of tariff threats asking for political consessions from several countries."
 date: "2026-01-27"
 categories: [trade-wars, trump-trade-war-diary]
+image: "figures/Trump tweet Jan 12 2026 Iran.png"
 ---
 
 Over the last several months, there were no significant changes in the trade policy diary, until post -New Year period, when Trump announced a new wave of tariff threats asking for political consessions from several countries.
