@@ -10,7 +10,384 @@
 <atom:link href="https://shepotylo.com/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Commentary and analysis on trade policy, Brexit, and the war economy.</description>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Tue, 22 Sep 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Is Russia’s economy bigger than Britain’s? Nominal GDP, PPP and the economics of isolation</title>
+  <dc:creator>Oleksandr Shepotylo</dc:creator>
+  <link>https://shepotylo.com/blog/2026-10-03-russia-gdp-nominal-vs-ppp/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>In his new interview with Jacob Rees-Mogg, Tucker Carlson told him that Russia has “a much larger economy” than Britain. Rees-Mogg replied: “No, it hasn’t got a larger economy than Britain. It’s got a smaller economy than Britain. It’s got a larger military.”</p>
+<p>Carlson was repeating a Kremlin talking point. In January 2024 Vladimir Putin told entrepreneurs in Khabarovsk that “we are the largest economy in Europe. We left Germany behind” — and he made the same claim a month later in his interview with Carlson. Both times Putin was talking about GDP at purchasing power parity (PPP), though he didn’t always say so.</p>
+<p>The same argument keeps coming up when people compare the United States and China. Measured at PPP, China’s economy has been larger than America’s since the mid-2010s: in 2025 it was 41 trillion international dollars against 31 trillion. At market exchange rates China is still only about two-thirds the size of the US ($19.5 trillion against $30.8 trillion). So which number is the right one?</p>
+<section id="two-measures-for-two-different-questions" class="level2">
+<h2 class="anchored" data-anchor-id="two-measures-for-two-different-questions">Two measures for two different questions</h2>
+<p><strong>Nominal GDP</strong>, converted at market exchange rates, measures what an economy’s output is worth in world markets. That’s the right measure of economic <em>size and power in a global economy</em>. Oil, chips, machine tools, drone components, foreign assets, debt service and payments to allies are all bought at world prices, paid for in hard currency at the market exchange rate. A country’s capacity to act internationally depends on what its income can buy abroad.</p>
+<p><strong>PPP GDP</strong> revalues domestic output at a common set of prices. That’s the right tool for comparing <em>living standards</em>, so it belongs with GDP per capita. A haircut, a bus ride or a flat costs much less in Moscow than in London, and comparing incomes without correcting for this would overstate how much poorer Russian households are. PPP answers “how much can residents buy at home?” It doesn’t answer “how much weight does this economy carry in the world?”</p>
+</section>
+<section id="the-accounting-the-gap-is-the-price-level" class="level2">
+<h2 class="anchored" data-anchor-id="the-accounting-the-gap-is-the-price-level">The accounting: the gap <em>is</em> the price level</h2>
+<p>Let <img src="https://latex.codecogs.com/png.latex?Y"> be nominal GDP in local currency, <img src="https://latex.codecogs.com/png.latex?E"> the market exchange rate (local currency per US dollar) and <img src="https://latex.codecogs.com/png.latex?PPP"> the PPP conversion factor (local currency per international dollar). Then</p>
+<p><img src="https://latex.codecogs.com/png.latex?%0AGDP%5E%7BMER%7D%20=%20%5Cfrac%7BY%7D%7BE%7D,%20%5Cqquad%20GDP%5E%7BPPP%7D%20=%20%5Cfrac%7BY%7D%7BPPP%7D%0A%5Cquad%5CLongrightarrow%5Cquad%0A%5Cfrac%7BGDP%5E%7BMER%7D%7D%7BGDP%5E%7BPPP%7D%7D%20=%20%5Cfrac%7BPPP%7D%7BE%7D.%0A"></p>
+<p>The ratio <img src="https://latex.codecogs.com/png.latex?PPP/E"> is the <strong>price level index</strong>: the country’s price level relative to the United States. If it is below one, PPP GDP exceeds nominal GDP.</p>
+<p>In 2025 Russia’s price level was about <strong>35% of the US level</strong> (2.56/7.24). The UK’s was <strong>89%</strong> (4.00/4.49). That difference in price levels is the whole of the “Russia is bigger” claim. In dollars, Russia’s economy is about 64% of Britain’s. At PPP it is about 1.6 times larger.</p>
+</section>
+<section id="why-price-levels-differ-tradables-and-non-tradables" class="level2">
+<h2 class="anchored" data-anchor-id="why-price-levels-differ-tradables-and-non-tradables">Why price levels differ: tradables and non-tradables</h2>
+<p>Write the price level as a composite of tradables (<img src="https://latex.codecogs.com/png.latex?T">) and non-tradables (<img src="https://latex.codecogs.com/png.latex?N">):</p>
+<p><img src="https://latex.codecogs.com/png.latex?%0AP%20=%20P_T%5E%7B%5Calpha%7D%5C,P_N%5E%7B1-%5Calpha%7D.%0A"></p>
+<p>For tradable goods, arbitrage pushes towards the law of one price, <img src="https://latex.codecogs.com/png.latex?P_T%20%5Capprox%20E%5C,P_T%5E%7B*%7D">. Nothing equivalent holds for non-tradables such as housing, haircuts, construction, healthcare, education and public administration, which make up most of GDP. So even with free trade, <img src="https://latex.codecogs.com/png.latex?P%20%5Cneq%20E%5C,P%5E%7B*%7D"> and <img src="https://latex.codecogs.com/png.latex?PPP%20%5Cneq%20E">.</p>
+<p>The systematic part of the gap is the Balassa–Samuelson (Penn) effect. Productivity growth in tradables raises wages, which spill over into services where productivity grows more slowly:</p>
+<p><img src="https://latex.codecogs.com/png.latex?%0AA_T%20%5Cuparrow%20%5C;%5CRightarrow%5C;%20w%20%5Cuparrow%20%5C;%5CRightarrow%5C;%20P_N%20%5Cuparrow%20%5C;%5CRightarrow%5C;%20%5Cfrac%7BPPP%7D%7BE%7D%20%5Cuparrow%20.%0A"></p>
+<p>Richer countries have higher price levels, so their PPP and nominal GDP are closer together. Poor countries sit far above the 45° line (see the chart below).</p>
+</section>
+<section id="integration-narrows-the-gap-fragmentation-widens-it" class="level2">
+<h2 class="anchored" data-anchor-id="integration-narrows-the-gap-fragmentation-widens-it">Integration narrows the gap; fragmentation widens it</h2>
+<p>Integration closes the gap through three channels, each working on a different wedge:</p>
+<ul>
+<li><strong>Goods-market integration</strong> equalises tradable prices directly. It is the strongest and most direct channel.</li>
+<li><strong>Labour mobility</strong> pushes towards equal wages, and labour is the main cost of non-tradable services. That makes it a powerful channel for price-level convergence.</li>
+<li><strong>Capital mobility</strong> equalises risk-adjusted returns, <img src="https://latex.codecogs.com/png.latex?r%20%5Capprox%20r%5E%7B*%7D%20+%20%5Ctext%7Brisk%20premium%7D">, not goods prices. It narrows the gap only indirectly, through capital deepening and productivity catch-up. In the short run it can <em>widen</em> deviations, because under open capital accounts the exchange rate behaves like an asset price driven by portfolio flows.</li>
+</ul>
+<p>Even full liberalisation doesn’t deliver <img src="https://latex.codecogs.com/png.latex?PPP%20=%20E">. Land, local amenities, taxes, regulation and productivity still differ. The euro area has free movement of goods, capital and people and a single currency, yet price levels still differ a lot across its members. Integration reduces the gap. It doesn’t remove it.</p>
+<p>The flip side is the point that matters for Russia. <strong>If integration ties <img src="https://latex.codecogs.com/png.latex?PPP"> and <img src="https://latex.codecogs.com/png.latex?E"> together, fragmentation lets them drift apart.</strong></p>
+</section>
+<section id="russia-an-experiment-in-reverse-globalisation" class="level2">
+<h2 class="anchored" data-anchor-id="russia-an-experiment-in-reverse-globalisation">Russia: an experiment in reverse globalisation</h2>
+<p>Since 2022 Russia has been cut off from Western goods, finance and technology by sanctions, and it has imposed its own capital controls: mandatory sale of export revenue, limits on transfers abroad, and restrictions on transactions with non-residents. All three integration channels have been weakened at once.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 15%">
+<col style="width: 21%">
+<col style="width: 21%">
+<col style="width: 21%">
+<col style="width: 21%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Year</th>
+<th style="text-align: right;">Nominal GDP (US$ tn)</th>
+<th style="text-align: right;">PPP GDP (int. $ tn)</th>
+<th style="text-align: right;">PPP / nominal</th>
+<th style="text-align: right;">Price level (US = 100)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>2021</td>
+<td style="text-align: right;">1.83</td>
+<td style="text-align: right;">5.69</td>
+<td style="text-align: right;">3.11</td>
+<td style="text-align: right;">32</td>
+</tr>
+<tr class="even">
+<td>2022</td>
+<td style="text-align: right;">2.29</td>
+<td style="text-align: right;">6.01</td>
+<td style="text-align: right;">2.62</td>
+<td style="text-align: right;">38</td>
+</tr>
+<tr class="odd">
+<td>2023</td>
+<td style="text-align: right;">2.05</td>
+<td style="text-align: right;">6.48</td>
+<td style="text-align: right;">3.17</td>
+<td style="text-align: right;">32</td>
+</tr>
+<tr class="even">
+<td>2024</td>
+<td style="text-align: right;">2.19</td>
+<td style="text-align: right;">6.97</td>
+<td style="text-align: right;">3.19</td>
+<td style="text-align: right;">31</td>
+</tr>
+<tr class="odd">
+<td>2025</td>
+<td style="text-align: right;">2.56</td>
+<td style="text-align: right;">7.24</td>
+<td style="text-align: right;">2.82</td>
+<td style="text-align: right;">35</td>
+</tr>
+</tbody>
+</table>
+<p><em>Source: World Bank, World Development Indicators.</em></p>
+<p>Between 2022 and 2024, dollar GDP <em>fell</em> by about 5% while PPP GDP rose by about 16%. Several mechanisms are behind this.</p>
+<p><strong>1. The ruble is priced in a segmented market.</strong> With capital outflows restricted and imports cut, the exchange rate is set mainly by the trade balance under administrative controls, not by arbitrage. In 2022 energy revenue flooded in, imports collapsed and capital couldn’t leave. The ruble appreciated and dollar GDP jumped by 25% <em>while real output contracted</em>. When export revenue weakened and imports recovered, the ruble fell back and dollar GDP fell with it. The ratio swings with the ruble (2.6 in 2022, 3.2 in 2024, 2.8 in 2025), which is what an exchange rate cut off from goods and capital arbitrage looks like.</p>
+<p><strong>2. Arbitrage in goods is broken.</strong> Sanctioned goods now arrive through third countries, with intermediary margins, compliance risk and financing costs:</p>
+<p><img src="https://latex.codecogs.com/png.latex?%0AP%5E%7BRU%7D_T%20=%20E%5C,P%5E%7BW%7D_T%5C,(1+%5Ctau),%20%5Cqquad%20%5Ctau%20=%20%5Ctext%7Bsanctions%20and%20transaction%20wedge%7D.%0A"></p>
+<p>With weaker links between domestic and world prices, a low domestic price level can persist alongside an exchange rate driven by other forces. In effect the ruble has two values: a domestic one (what it buys in Russia) and an external one (what it buys in the world). Integration keeps the two close. Isolation lets them diverge.</p>
+<p><strong>3. War production inflates PPP output.</strong> GDP measures production, not welfare. A tank built in Nizhny Tagil, paid for with domestic labour and steel at domestic prices, counts fully in PPP GDP. It creates no dollars that Russian households or firms can spend abroad. A war economy boosts exactly the part of output that PPP values most generously.</p>
+<p>In short, PPP GDP describes how much domestic labour and material the Russian state can mobilise. Nominal GDP describes what Russia can buy in a world that is increasingly closed to it. Sanctions are aimed at the second capacity. A widening wedge between the two partly measures how far they have worked.</p>
+</section>
+<section id="russia-compared-with-other-countries" class="level2">
+<h2 class="anchored" data-anchor-id="russia-compared-with-other-countries">Russia compared with other countries</h2>
+<p>Russia’s ratio is not extreme in global terms. India, Indonesia and Egypt sit further above the 45° line because they are much poorer. The useful comparison is with countries at similar or lower income per head: Turkey (2.4), Brazil (2.2) and Mexico (1.9) all have smaller gaps than Russia (2.8). Russia’s ratio is closest to Kazakhstan (3.0), Ukraine (3.2) and Belarus (3.4).</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://shepotylo.com/blog/2026-10-03-russia-gdp-nominal-vs-ppp/images/gdp_nominal_vs_ppp_2025.png" class="img-fluid figure-img"></p>
+<figcaption>Nominal vs PPP GDP, 2025</figcaption>
+</figure>
+</div>
+<p><em>Figure: GDP at market exchange rates against GDP at PPP, 2025 (log scales). Points on the 45° line have US price levels; dashed lines mark PPP GDP equal to two and four times nominal GDP.</em></p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 15%">
+<col style="width: 21%">
+<col style="width: 21%">
+<col style="width: 21%">
+<col style="width: 21%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Country</th>
+<th style="text-align: right;">Nominal GDP (US$ tn)</th>
+<th style="text-align: right;">PPP GDP (int. $ tn)</th>
+<th style="text-align: right;">PPP / nominal</th>
+<th style="text-align: right;">Price level (US = 100)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>United States</td>
+<td style="text-align: right;">30.77</td>
+<td style="text-align: right;">30.77</td>
+<td style="text-align: right;">1.00</td>
+<td style="text-align: right;">100</td>
+</tr>
+<tr class="even">
+<td>China</td>
+<td style="text-align: right;">19.50</td>
+<td style="text-align: right;">41.26</td>
+<td style="text-align: right;">2.12</td>
+<td style="text-align: right;">47</td>
+</tr>
+<tr class="odd">
+<td>Germany</td>
+<td style="text-align: right;">5.05</td>
+<td style="text-align: right;">6.30</td>
+<td style="text-align: right;">1.25</td>
+<td style="text-align: right;">80</td>
+</tr>
+<tr class="even">
+<td>Japan</td>
+<td style="text-align: right;">4.44</td>
+<td style="text-align: right;">6.84</td>
+<td style="text-align: right;">1.54</td>
+<td style="text-align: right;">65</td>
+</tr>
+<tr class="odd">
+<td><strong>United Kingdom</strong></td>
+<td style="text-align: right;"><strong>4.00</strong></td>
+<td style="text-align: right;"><strong>4.49</strong></td>
+<td style="text-align: right;"><strong>1.12</strong></td>
+<td style="text-align: right;"><strong>89</strong></td>
+</tr>
+<tr class="even">
+<td>India</td>
+<td style="text-align: right;">3.96</td>
+<td style="text-align: right;">17.20</td>
+<td style="text-align: right;">4.35</td>
+<td style="text-align: right;">23</td>
+</tr>
+<tr class="odd">
+<td>France</td>
+<td style="text-align: right;">3.37</td>
+<td style="text-align: right;">4.40</td>
+<td style="text-align: right;">1.31</td>
+<td style="text-align: right;">77</td>
+</tr>
+<tr class="even">
+<td><strong>Russia</strong></td>
+<td style="text-align: right;"><strong>2.56</strong></td>
+<td style="text-align: right;"><strong>7.24</strong></td>
+<td style="text-align: right;"><strong>2.82</strong></td>
+<td style="text-align: right;"><strong>35</strong></td>
+</tr>
+<tr class="odd">
+<td>Italy</td>
+<td style="text-align: right;">2.55</td>
+<td style="text-align: right;">3.70</td>
+<td style="text-align: right;">1.45</td>
+<td style="text-align: right;">69</td>
+</tr>
+<tr class="even">
+<td>Canada</td>
+<td style="text-align: right;">2.32</td>
+<td style="text-align: right;">2.78</td>
+<td style="text-align: right;">1.20</td>
+<td style="text-align: right;">83</td>
+</tr>
+<tr class="odd">
+<td>Brazil</td>
+<td style="text-align: right;">2.28</td>
+<td style="text-align: right;">4.99</td>
+<td style="text-align: right;">2.19</td>
+<td style="text-align: right;">46</td>
+</tr>
+<tr class="even">
+<td>Spain</td>
+<td style="text-align: right;">1.91</td>
+<td style="text-align: right;">2.95</td>
+<td style="text-align: right;">1.55</td>
+<td style="text-align: right;">65</td>
+</tr>
+<tr class="odd">
+<td>South Korea</td>
+<td style="text-align: right;">1.87</td>
+<td style="text-align: right;">3.26</td>
+<td style="text-align: right;">1.74</td>
+<td style="text-align: right;">57</td>
+</tr>
+<tr class="even">
+<td>Mexico</td>
+<td style="text-align: right;">1.83</td>
+<td style="text-align: right;">3.41</td>
+<td style="text-align: right;">1.86</td>
+<td style="text-align: right;">54</td>
+</tr>
+<tr class="odd">
+<td>Australia</td>
+<td style="text-align: right;">1.80</td>
+<td style="text-align: right;">1.99</td>
+<td style="text-align: right;">1.10</td>
+<td style="text-align: right;">91</td>
+</tr>
+<tr class="even">
+<td>Turkey</td>
+<td style="text-align: right;">1.60</td>
+<td style="text-align: right;">3.89</td>
+<td style="text-align: right;">2.43</td>
+<td style="text-align: right;">41</td>
+</tr>
+<tr class="odd">
+<td>Indonesia</td>
+<td style="text-align: right;">1.45</td>
+<td style="text-align: right;">5.05</td>
+<td style="text-align: right;">3.49</td>
+<td style="text-align: right;">29</td>
+</tr>
+<tr class="even">
+<td>Netherlands</td>
+<td style="text-align: right;">1.33</td>
+<td style="text-align: right;">1.58</td>
+<td style="text-align: right;">1.19</td>
+<td style="text-align: right;">84</td>
+</tr>
+<tr class="odd">
+<td>Saudi Arabia</td>
+<td style="text-align: right;">1.28</td>
+<td style="text-align: right;">2.73</td>
+<td style="text-align: right;">2.14</td>
+<td style="text-align: right;">47</td>
+</tr>
+<tr class="even">
+<td>Switzerland</td>
+<td style="text-align: right;">1.04</td>
+<td style="text-align: right;">0.93</td>
+<td style="text-align: right;">0.89</td>
+<td style="text-align: right;">112</td>
+</tr>
+<tr class="odd">
+<td>Poland</td>
+<td style="text-align: right;">1.04</td>
+<td style="text-align: right;">1.98</td>
+<td style="text-align: right;">1.91</td>
+<td style="text-align: right;">52</td>
+</tr>
+<tr class="even">
+<td>Egypt</td>
+<td style="text-align: right;">0.37</td>
+<td style="text-align: right;">2.39</td>
+<td style="text-align: right;">6.55</td>
+<td style="text-align: right;">15</td>
+</tr>
+<tr class="odd">
+<td>Iran</td>
+<td style="text-align: right;">0.36</td>
+<td style="text-align: right;">1.82</td>
+<td style="text-align: right;">5.02</td>
+<td style="text-align: right;">20</td>
+</tr>
+<tr class="even">
+<td>Kazakhstan</td>
+<td style="text-align: right;">0.31</td>
+<td style="text-align: right;">0.92</td>
+<td style="text-align: right;">3.01</td>
+<td style="text-align: right;">33</td>
+</tr>
+<tr class="odd">
+<td>Ukraine</td>
+<td style="text-align: right;">0.21</td>
+<td style="text-align: right;">0.69</td>
+<td style="text-align: right;">3.22</td>
+<td style="text-align: right;">31</td>
+</tr>
+<tr class="even">
+<td>Belarus</td>
+<td style="text-align: right;">0.09</td>
+<td style="text-align: right;">0.32</td>
+<td style="text-align: right;">3.38</td>
+<td style="text-align: right;">30</td>
+</tr>
+</tbody>
+</table>
+<p><em>Source: World Bank, World Development Indicators, 2025. Price level = nominal / PPP GDP × 100.</em></p>
+<p>Two caveats apply. First, Kazakhstan, Ukraine, Belarus and Russia are all priced within the CIS block of the International Comparison Program (ICP). In ICP 2021 Russia moved from the OECD comparison to the CIS one. Part of Russia’s rise in PPP rankings is therefore a statistical revision, not economic news. Second, PPPs between benchmark years are extrapolated from relative inflation and assume comparable baskets. When sanctions make Western goods scarcer, lower-quality or available only through grey imports, measured Russian prices probably understate the true cost of the basket. That biases Russian PPP GDP upwards.</p>
+</section>
+<section id="we-have-seen-this-before-the-soviet-union" class="level2">
+<h2 class="anchored" data-anchor-id="we-have-seen-this-before-the-soviet-union">We have seen this before: the Soviet Union</h2>
+<p>None of this is new. The Soviet Union was a more extreme version of the same economy: isolated from world markets, with a non-convertible ruble and no market prices. Prices were set administratively by the State Committee on Prices (Goskomtsen). Retail prices of meat and dairy products stayed unchanged from 1962 until 1991, whatever happened to costs or demand. The official exchange rate of roughly 0.6 rubles to the dollar bore no relation to the black-market rate, which was many times higher.</p>
+<p>Without market prices there was no way to know what Soviet output was actually worth. The planning system produced enormous quantities of tanks, ballistic missiles, steel and jars of pickles. Meanwhile consumers queued for toilet paper and salami, and “sausage trains” carried shoppers from the provinces to Moscow. János Kornai called this the <em>economy of shortage</em>: chronic excess demand for what people wanted, alongside unsold stocks of what the plan said they should want.</p>
+<p>In the language of this post, Soviet output was valued at prices that did not come from arbitrage, either domestic or international. Value added at domestic administered prices,</p>
+<p><img src="https://latex.codecogs.com/png.latex?%0AVA%5E%7Bdom%7D%20=%20%5Csum_i%20p_i%5E%7Bdom%7D%20q_i%20-%20%5Csum_j%20p_j%5E%7Bdom%7D%20m_j%20,%0A"></p>
+<p>could look healthy. Revalued at world prices,</p>
+<p><img src="https://latex.codecogs.com/png.latex?%0AVA%5E%7Bworld%7D%20=%20E%5Cleft(%5Csum_i%20p_i%5E%7BW%7D%20q_i%20-%20%5Csum_j%20p_j%5E%7BW%7D%20m_j%5Cright),%0A"></p>
+<p>it was often much smaller and sometimes negative: industries that destroyed value by turning cheap energy and metals into goods nobody abroad would buy. Studies of Soviet and East European industry after 1989 found exactly such “negative value added” sectors. Western estimates that put the Soviet economy at about half the size of the US also proved far too high once prices were freed.</p>
+<p>The collapse, when it came, was fast. As Yegor Gaidar documented in <em>Collapse of an Empire</em>, the late Soviet economy depended on oil and gas exports to pay for imported grain and consumer goods. When oil prices fell in the mid-1980s, hard-currency earnings dried up, foreign borrowing filled the gap for a few years, and then the system ran out of options. An economy that looked enormous in physical output and administered-price statistics unravelled within about five years.</p>
+<p>Today’s Russian war economy shows some of the same symptoms:</p>
+<ul>
+<li>a growing share of output is allocated by state defence orders rather than markets;</li>
+<li>labour and capital are pulled from civilian sectors into military production;</li>
+<li>the ruble is managed through capital controls;</li>
+<li>imports of technology depend on intermediaries;</li>
+<li>the budget relies on hydrocarbon revenue that sanctions and oil prices can squeeze.</li>
+</ul>
+<p>Tanks and missiles are valued in GDP at what the state pays for them. They add to PPP output but earn no foreign currency and raise no living standards.</p>
+<p>There are also important differences. Most civilian prices in Russia are still set by markets. Private firms, a floating (if managed) exchange rate and Chinese supply chains give the economy far more ability to adjust than Gosplan ever had. A Soviet-style collapse is not inevitable. But the lesson of 1985–1991 is that physical output measured at prices insulated from world markets can hide how fragile an economy is. When the external constraint finally binds, the adjustment can be abrupt rather than gradual.</p>
+</section>
+<section id="so-is-russia-bigger-than-britain" class="level2">
+<h2 class="anchored" data-anchor-id="so-is-russia-bigger-than-britain">So is Russia bigger than Britain?</h2>
+<p>Only if “bigger” means the volume of domestic output valued at common prices. For what a country can buy, finance and sustain in the world economy (which is what Carlson’s argument about power and resources is really about), Russia’s economy is about two-thirds the size of Britain’s. Its large PPP-to-nominal gap isn’t evidence of hidden strength. It reflects low domestic prices, a war economy and isolation from global markets. The Soviet Union also looked big on paper until it ran out of hard currency. PPP remains the right measure for comparing living standards, which is a different question.</p>
+<hr>
+<p><strong>Sources</strong></p>
+<ul>
+<li><a href="https://www.aol.co.uk/articles/tucker-carlson-savaged-over-car-114300000.html">Tucker Carlson savaged over car-crash Jacob Rees-Mogg interview (AOL)</a></li>
+<li><a href="https://www.snopes.com/fact-check/russia-largest-economy-in-europe/">Snopes: Putin’s claim that Russia is the largest economy in Europe</a></li>
+<li><a href="https://data.worldbank.org/country/russian-federation">World Bank Open Data: Russian Federation</a>; WDI indicators NY.GDP.MKTP.CD and NY.GDP.MKTP.PP.CD</li>
+<li><a href="https://fred.stlouisfed.org/series/MKTGDPRUA646NWDB">FRED: Gross Domestic Product for Russian Federation (World Bank series)</a></li>
+<li><a href="https://www.worldbank.org/en/programs/icp">World Bank International Comparison Program</a></li>
+<li>Gaidar, Y. (2007). <em>Collapse of an Empire: Lessons for Modern Russia</em>. Brookings Institution Press.</li>
+<li>Kornai, J. (1980). <em>Economics of Shortage</em>. North-Holland.</li>
+<li>Hughes, G. and Hare, P. (1991). “Competitiveness and Industrial Restructuring in Czechoslovakia, Hungary and Poland.” <em>European Economy</em>, Special Edition No.&nbsp;2.</li>
+</ul>
+
+
+<!-- -->
+
+</section>
+
+ ]]></description>
+  <category>ukraine</category>
+  <category>russia-economy</category>
+  <category>gdp</category>
+  <category>ppp</category>
+  <guid>https://shepotylo.com/blog/2026-10-03-russia-gdp-nominal-vs-ppp/</guid>
+  <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://shepotylo.com/blog/2026-10-03-russia-gdp-nominal-vs-ppp/images/gdp_nominal_vs_ppp_2025.png" medium="image" type="image/png" height="151" width="144"/>
+</item>
 <item>
   <title>Fifty Percent: How Russia’s Cost-of-Living Crisis Became a Landslide</title>
   <link>https://shepotylo.com/blog/2026-09-22-russia-inflation-election-landslide/</link>
@@ -559,28 +936,6 @@
   <guid>https://shepotylo.com/blog/2026-01-27-trump-trade-war-diary-day-371/</guid>
   <pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
   <media:content url="https://shepotylo.com/blog/2026-01-27-trump-trade-war-diary-day-371/figures/Trump tweet Jan 12 2026 Iran.png" medium="image" type="image/png" height="74" width="144"/>
-</item>
-<item>
-  <title>Europe has five options for responding to Trump’s Greenland threats. None of them look good</title>
-  <link>https://shepotylo.com/blog/2026-01-20-europe-five-options-greenland/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>President Trump has threatened tariffs against eight European nations, including the UK, over their support for Denmark’s sovereignty over Greenland. This is a structural shift in transatlantic relations rather than a conventional trade dispute, since Trump’s real goal is territorial acquisition rather than trade concessions. Europe’s five available responses — accepting permanent tariffs, diversifying trade partnerships, building military independence, strengthening UK-EU ties, or holding unified solidarity to head off further demands — all carry costs, and none is straightforwardly good.</p>
-<p><strong>Originally published on The Conversation</strong>, January 20, 2026.</p>
-<p><a href="https://theconversation.com/europe-has-five-options-for-responding-to-trumps-greenland-threats-none-of-them-look-good-273885">Read the full piece →</a></p>
-
-
-<!-- -->
-
-
- ]]></description>
-  <category>other</category>
-  <category>trade-wars</category>
-  <guid>https://shepotylo.com/blog/2026-01-20-europe-five-options-greenland/</guid>
-  <pubDate>Tue, 20 Jan 2026 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
