@@ -1,0 +1,47 @@
+---
+title: "Tariffs and Triumph: The UK's Edge in a Fractured World"
+description: >-
+  **Centre for Business Prosperity Report, 2025. With Jun Du.**
+  <details class="abstract-toggle"><summary onclick="event.preventDefault();
+  event.stopPropagation(); this.closest('details').open =
+  !this.closest('details').open;">Show abstract</summary>
+  We analyse the impact of Donald Trump's 2025 tariff policies on global trade using a structural gravity model that simulates six scenarios, from targeted US tariffs to full global retaliation. A full-scale trade conflict would cost the world economy $1.4 trillion in welfare. The UK faces supply-chain vulnerabilities but may gain from trade rerouting: UK exports to the US rise by 17.5% in one scenario, yet fall by 43.6% under full retaliation. No economy emerges unscathed from systemic tariff escalation.
+  </details>
+date: "2025-03-01"
+status: "published"
+categories: [trade-wars, consultancy]
+---
+
+A structural gravity assessment of Donald Trump's 2025 tariff agenda and what
+it means for the UK. We simulate six scenarios, ranging from targeted US
+tariffs to full global retaliation.
+
+## Key findings
+
+- Full-scale trade conflict produces a **$1.4 trillion global welfare loss**.
+- Trade diversion can briefly favour the UK: in one scenario **UK exports to
+  the US rise by 17.5%**.
+- Under full retaliation, **UK exports to the US fall by 43.6%**.
+- Imports shrink across the board, threatening input supplies for sectors
+  such as aerospace and technology.
+- As in the 2018 US–China trade war, escalation brings higher prices, weaker
+  competitiveness and fragmented supply chains — no economy emerges unscathed.
+
+## Policy recommendations
+
+Adapt global value chains by diversifying suppliers; diversify trade through
+CPTPP and a deal with India; keep trade policy agile while strengthening
+multilateral cooperation; and stabilise the relationship with the EU through
+sector-specific deals, lower non-tariff barriers, digitised customs,
+regulatory alignment and investment in trade infrastructure.
+
+For how these numbers played out once the tariffs landed, see the
+[Trump Trade War Diary — Day 189](/blog/2025-07-27-trump-trade-war-diary-day-189/index.qmd)
+and the peer-reviewed follow-up,
+[The Return of Protectionism](return-of-protectionism-trump-tariffs.qmd).
+
+**Report:** Centre for Business Prosperity, Aston University, March 2025.
+With Jun Du.
+
+[Download the report (PDF)](https://www.aston.ac.uk/sites/default/files/2025-03/tariffs-and-triumph-v5.pdf) ·
+[Report page](https://www.aston.ac.uk/research/bss/research-centres/business-prosperity/fractured-world)

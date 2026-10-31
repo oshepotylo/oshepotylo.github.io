@@ -1,0 +1,44 @@
+---
+title: "Elasticity of Substitution between Transportation Modes: The Case of Russia's Blockade of Ukraine's Ports"
+description: >-
+  **SSRN Working Paper, 2025. With Mykola Ryzhenkov.**
+  <details class="abstract-toggle"><summary onclick="event.preventDefault();
+  event.stopPropagation(); this.closest('details').open =
+  !this.closest('details').open;">Show abstract</summary>
+  Ukrainian exports have long relied on Black Sea ports to reach world markets. Combining shipment-level Trade Data Monitor data with conflict intensity near Ukrainian ports, we use Russia's naval blockade as a natural experiment to estimate how exporters substitute between sea and land transport. The blockade cut sea-based export volumes by roughly two-thirds relative to land shipments, with exporters shifting mainly to trucks. The estimated elasticity of substitution between maritime and land transport rises from about 1.1 in the very short run to 1.3–1.5 in the long run, as exporters adapted and alternative corridors developed.
+  </details>
+date: "2025-11-01"
+status: "wip"
+categories: [ukraine]
+---
+
+What happens to a country's trade when its ports are shut? Russia's
+full-scale invasion and naval blockade of Ukraine's Black Sea ports provide a
+rare natural experiment. We combine shipment-level Trade Data Monitor records
+with measures of conflict intensity near Ukrainian ports, and use
+difference-in-differences and shift-share designs to identify the causal
+effect of losing access to sea routes.
+
+## Key findings
+
+- Products that relied most on sea transport saw the steepest falls in export
+  values and volumes, alongside higher FOB prices and fewer product varieties
+  shipped by sea.
+- The blockade cut sea-based export volumes by **roughly two-thirds** relative
+  to land shipments; exporters switched mainly to road haulage.
+- The elasticity of substitution between maritime and land transport rises
+  from **1.06–1.14 in the very short run to 1.26–1.53 in the long run** —
+  exporters adapt, but slowly, and only as alternative corridors are built.
+
+The estimates matter well beyond Ukraine: they quantify how costly it is for
+an economy to reroute trade when a key transport mode is disrupted, and how
+much of that cost is temporary.
+
+Presented at the BOFIT seminar series (Bank of Finland, March 2025) and the
+First International Virtual Conference on Ukraine (August 2024).
+
+**Working paper:** SSRN, 2025. With Mykola Ryzhenkov (Osnabrück University).
+Replication data: Mendeley Data, 2026.
+
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5759442) ·
+[BOFIT seminar](https://www.suomenpankki.fi/en/news-and-topical/events/calendar/events/bofit2/2025/2025-03-04-ryzhenkov/)

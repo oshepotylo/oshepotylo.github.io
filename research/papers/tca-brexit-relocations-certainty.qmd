@@ -1,0 +1,35 @@
+---
+title: "Certainty without conviction: why the Trade and Cooperation Agreement failed to reverse Brexit relocations?"
+description: >-
+  **Contemporary Social Science, 2026. With Nigel Driffield, Jun Du and Xiaocan Yuan.**
+  <details class="abstract-toggle"><summary onclick="event.preventDefault();
+  event.stopPropagation(); this.closest('details').open =
+  !this.closest('details').open;">Show abstract</summary>
+  Using data on UK outward greenfield foreign direct investment from 2013 to 2023, synthetic difference-in-differences and Poisson-based models, we show that Brexit redirected significant investment into the EU — mostly in projects that do not fit the standard market- or efficiency-seeking FDI motives, pointing to institutional adaptation by firms. The EU–UK Trade and Cooperation Agreement stabilised outward flows but did not reverse them: trade agreements alone cannot restore business certainty without regulatory alignment and institutional credibility.
+  </details>
+date: "2026-10-01"
+status: "published"
+categories: [brexit, firms]
+---
+
+Did the Trade and Cooperation Agreement bring back the investment that UK
+firms moved to the EU after the referendum? Using project-level data on UK
+outward greenfield FDI from 2013 to 2023, together with synthetic
+difference-in-differences and Poisson-based estimators, we find that Brexit
+redirected a significant volume of investment into the EU.
+
+Most of the relocated projects do not fit the textbook motives for FDI —
+seeking new markets or lower costs. Instead, they look like institutional
+adaptation: firms putting operations inside the EU's regulatory perimeter to
+keep serving customers there. The TCA removed the worst-case uncertainty and
+stabilised outward flows, but it did not reverse them.
+
+The policy lesson is that a trade agreement can deliver certainty without
+conviction. Restoring firms' confidence in operating from the UK requires
+regulatory alignment and institutional credibility, not just tariff-free
+market access.
+
+**Published in:** *Contemporary Social Science*, 21(1), 2734513. Open access.
+
+[Read the article (DOI)](https://doi.org/10.1080/21582041.2026.2734513) ·
+[Aston Research Explorer](https://research.aston.ac.uk/en/publications/certainty-without-conviction-why-the-trade-and-cooperation-agreem/)

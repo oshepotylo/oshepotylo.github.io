@@ -1,0 +1,54 @@
+---
+title: "Streamlining Standards: Sectoral Trade Gains from Mutual Recognition of Conformity Assessment (MRCA) in a Post-Brexit World"
+description: >-
+  **Centre for Business Prosperity / The Productivity Institute Working Paper, 2026. With Jun Du and Lin Zhang.**
+  <details class="abstract-toggle"><summary onclick="event.preventDefault();
+  event.stopPropagation(); this.closest('details').open =
+  !this.closest('details').open;">Show abstract</summary>
+  Mutual Recognition of Conformity Assessment (MRCA) is a targeted mechanism, distinct from broader Mutual Recognition Agreements, that lets product testing, inspection and certification carried out in one jurisdiction be accepted in another. Using a PPML gravity model on bilateral trade data for 2010–2023 across 98 two-digit HS sectors, we find that MRCA provisions are associated with an average 9.8% increase in exports, with positive effects in 25 sectors (notably electrical machinery, machinery and dairy) and negative effects in seven (e.g. nickel, rail equipment). We assess MRCA as a practical mechanism within a UK–EU reset: a pragmatic alternative to full harmonisation that preserves market access, reduces compliance burdens and mitigates post-Brexit frictions.
+  </details>
+date: "2026-08-01"
+status: "wip"
+categories: [brexit, consultancy]
+---
+
+This paper investigates Mutual Recognition of Conformity Assessment (MRCA), a
+targeted mechanism distinct from broader Mutual Recognition Agreements (MRAs),
+which streamlines regulatory compliance by enabling acceptance of product
+evaluations (testing, inspection, certification) across jurisdictions. Using a
+Poisson Pseudo-Maximum Likelihood (PPML) gravity model applied to bilateral
+trade data (2010–2023) across 98 two-digit HS sectors, we find that MRCA
+provisions are associated with an average 9.8% increase in exports, with
+positive effects in 25 sectors (notably electrical machinery, machinery, and
+dairy) and negative effects in seven (e.g., nickel, rail equipment).
+
+## Key findings
+
+- MRCA provisions raise exports by **9.8% on average**, with statistically
+  significant gains in roughly one-third of sectors.
+- The largest absolute gains are in high-value, technology-intensive
+  industries: electrical machinery (HS85) and mechanical appliances (HS84) gain
+  around **$25 million per country pair**.
+- Dairy (HS04) and apparel (HS61) see export growth of **41–51%**.
+- Resource-intensive sectors such as nickel, ores and railway locomotives see
+  declines of **18–61%**, reflecting adjustment costs and greater competitive
+  exposure.
+
+## Policy implications
+
+MRCA offers a practical, politically feasible route for UK–EU regulatory
+cooperation that enhances market access without the legal and institutional
+complexity of full alignment or treaty reform. Because gains are uneven, a
+sector-sensitive approach is needed: prioritise industries with high
+conformity costs and strong existing alignment — pharmaceuticals, electronics,
+machinery — and use transitional arrangements or adjustment support where
+competition bites. Beyond the EU, MRCA is a scalable template for UK
+cooperation with CPTPP and Gulf Cooperation Council partners.
+
+For the policy argument in brief, see
+[After SPS: the EU trade barrier that needs fixing next](/blog/2026-09-14-after-sps-the-eu-trade-barrier-that-needs-fixing-next/index.qmd).
+
+**Working paper:** Centre for Business Prosperity, Aston University / The
+Productivity Institute, August 2026. With Jun Du and Lin Zhang.
+
+[Download the paper (PDF)](https://www.aston.ac.uk/sites/default/files/2026-10/du_shepotylo_zhang_2026_streamlining_standards_mrca_v1.pdf)

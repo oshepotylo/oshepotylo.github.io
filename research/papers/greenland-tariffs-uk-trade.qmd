@@ -1,0 +1,58 @@
+---
+title: "Greenland Tariffs and UK Trade: Building Deterrence beyond Tariffs"
+description: >-
+  **Centre for Business Prosperity Policy Brief and Working Paper, 2026. With Jun Du.**
+  <details class="abstract-toggle"><summary onclick="event.preventDefault();
+  event.stopPropagation(); this.closest('details').open =
+  !this.closest('details').open;">Show abstract</summary>
+  In January 2026 the Trump administration threatened 10% tariffs on eight European countries, including the UK, that had sent military personnel to Greenland; the threat was withdrawn four days later. Using a structural gravity model across eight scenarios — 10% and 25% US tariffs, with and without UK and EU retaliation — we show that UK retaliation would leave the UK worse off in every scenario, and coordinated UK–EU tariff retaliation is the worst outcome for Britain. Economic coercion can come from security allies, not just strategic rivals; Europe's real leverage lies in services, investment, procurement and regulation.
+  </details>
+date: "2026-01-27"
+status: "published"
+categories: [trade-wars, consultancy]
+---
+
+On 17 January 2026 the Trump administration threatened 10% tariffs on eight
+European countries, including the UK, that had sent military personnel to
+Greenland. The threat was withdrawn four days later and no tariffs were
+imposed — but the episode showed that economic coercion can come from
+security allies, not only from strategic rivals.
+
+## Key findings
+
+- We model eight scenarios: 10% and 25% US tariffs, each with and without UK
+  and EU retaliation.
+- **UK retaliation leaves the UK worse off in every scenario** — not
+  retaliating is a dominant strategy, and coordinated UK–EU tariff
+  retaliation is the worst outcome for Britain.
+- Europe's leverage lies elsewhere: the US runs a **€148 billion annual
+  services surplus** with the EU, and mutual EU–US FDI stocks exceed
+  **€5.3 trillion**.
+- US tariff revenue reached **$264 billion in 2025**, creating fiscal
+  incentives that trade negotiations alone may not unwind.
+- China, India, Brazil and Canada are the most likely destinations for UK
+  exports displaced from the US.
+
+## Policy recommendations
+
+1. **Recognise fiscal extraction** — tariff revenue creates lasting incentives,
+   especially when security-dependent allies cannot credibly retaliate.
+2. **Build UK–EU coordination on non-tariff tools** — services, investment,
+   procurement and regulation offer pressure points where Europe can impose
+   asymmetric costs. The UK should seek observer or associate status in EU
+   Anti-Coercion Instrument deliberations and coordinate on investment
+   screening.
+3. **Treat China trade as portfolio diversification** — separate genuine
+   security risks from commercial opportunities rather than decoupling across
+   the board.
+
+For the accompanying commentary, see
+[Europe has five options for responding to Trump's Greenland threats](/blog/2026-01-20-europe-five-options-greenland/index.qmd)
+(The Conversation, January 2026).
+
+**Policy brief and working paper:** Centre for Business Prosperity, Aston
+University, January 2026. With Jun Du.
+
+[Policy brief (PDF)](https://www.aston.ac.uk/sites/default/files/2026-01/greenland-plicy-insight-paper.pdf) ·
+[Full working paper (PDF)](https://www.aston.ac.uk/sites/default/files/2026-01/Greenland_Working_Paper_v4_0.pdf) ·
+[Report page](https://www.aston.ac.uk/research/bss/research-centres/business-prosperity/publications-and-reports/greenland-tariffs-uk-trade)

@@ -1,0 +1,47 @@
+---
+title: "Unbound: UK Trade Post Brexit"
+description: >-
+  **Centre for Business Prosperity Report, 2024. With Jun Du, Xingyi Liu and Yujie Shi.**
+  <details class="abstract-toggle"><summary onclick="event.preventDefault();
+  event.stopPropagation(); this.closest('details').open =
+  !this.closest('details').open;">Show abstract</summary>
+  Three years on from the 2021 UK–EU Trade and Cooperation Agreement, we analyse monthly UK–EU trade data from January 2017 to December 2023 and find that the TCA has had a stifling effect on trade between the UK and the EU: UK exports to the EU are 27% lower, imports from the EU 32% lower, and the variety of products exported 33% lower than they would otherwise have been. Agrifood, textiles and clothing, and material-based manufacturing are hit hardest, and the shifts appear structural rather than temporary.
+  </details>
+date: "2024-09-01"
+status: "published"
+categories: [brexit, consultancy]
+---
+
+A report on the impact of the 2021 UK–EU Trade and Cooperation Agreement,
+three years on. Using monthly UK–EU trade data from January 2017 to December
+2023, split before and after the TCA took effect in January 2021, we find
+that the agreement has had a stifling effect on trade in both directions.
+
+## Key findings
+
+- UK **exports to the EU down 27%**; **imports from the EU down 32%**.
+- The **variety of products exported down 33%**.
+- Agrifood, textiles and clothing, and material-based manufacturing see the
+  largest falls in both export value and product variety. Tobacco, railway and
+  aircraft manufacturing are rare exceptions with gains in export variety.
+- On the import side, value and variety fall in most sectors — especially
+  agrifood, optical, textile and material-based manufacturing.
+- The shifts appear **structural rather than short-term**, and are likely to
+  persist without policy change.
+
+## Policy recommendations
+
+Mitigate the costs of the new arrangements, restructure UK supply chains
+strategically, and help firms adapt to new barriers and raise productivity —
+through sector-specific deals, engagement with individual member states,
+lower non-tariff barriers, digitised customs, closer regulatory alignment,
+and investment in port and customs infrastructure.
+
+The report was cited in parliamentary questions.
+
+**Report:** Centre for Business Prosperity, Aston University, 2024. With Jun
+Du, Xingyi Liu and Yujie Shi. Also available as an SSRN working paper.
+
+[Download the full report (PDF)](https://www.aston.ac.uk/sites/default/files/2024-09/Full%20Report.pdf) ·
+[Report page](https://www.aston.ac.uk/research/bss/research-centres/business-prosperity/unbound) ·
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5954028)

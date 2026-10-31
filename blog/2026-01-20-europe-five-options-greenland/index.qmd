@@ -7,6 +7,8 @@ categories: [other, trade-wars]
 
 President Trump has threatened tariffs against eight European nations, including the UK, over their support for Denmark's sovereignty over Greenland. This is a structural shift in transatlantic relations rather than a conventional trade dispute, since Trump's real goal is territorial acquisition rather than trade concessions. Europe's five available responses — accepting permanent tariffs, diversifying trade partnerships, building military independence, strengthening UK-EU ties, or holding unified solidarity to head off further demands — all carry costs, and none is straightforwardly good.
 
+The modelling behind this piece is in our report [Greenland Tariffs and UK Trade: Building Deterrence beyond Tariffs](/research/papers/greenland-tariffs-uk-trade.qmd).
+
 **Originally published on The Conversation**, January 20, 2026.
 
 [Read the full piece →](https://theconversation.com/europe-has-five-options-for-responding-to-trumps-greenland-threats-none-of-them-look-good-273885)
