@@ -14,7 +14,7 @@
 <title>Oleksandr Shepotylo</title>
 <link>https://shepotylo.com/ukraine/</link>
 </image>
-<generator>quarto-1.10.18</generator>
+<generator>quarto-1.10.20</generator>
 <lastBuildDate>Sat, 03 Oct 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Is Russia’s economy bigger than Britain’s? Nominal GDP, PPP and the economics of isolation</title>
@@ -561,6 +561,37 @@
   <category>firms</category>
   <guid>https://shepotylo.com/research/papers/tb-epidemic-productivity-ukraine.html</guid>
   <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Elasticity of Substitution between Transportation Modes: The Case of Russia’s Blockade of Ukraine’s Ports</title>
+  <link>https://shepotylo.com/research/papers/ukraine-port-blockade-transport-modes.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>What happens to a country’s trade when its ports are shut? Russia’s full-scale invasion and naval blockade of Ukraine’s Black Sea ports provide a rare natural experiment. We combine shipment-level Trade Data Monitor records with measures of conflict intensity near Ukrainian ports, and use difference-in-differences and shift-share designs to identify the causal effect of losing access to sea routes.</p>
+<section id="key-findings" class="level2">
+<h2 class="anchored" data-anchor-id="key-findings">Key findings</h2>
+<ul>
+<li>Products that relied most on sea transport saw the steepest falls in export values and volumes, alongside higher FOB prices and fewer product varieties shipped by sea.</li>
+<li>The blockade cut sea-based export volumes by <strong>roughly two-thirds</strong> relative to land shipments; exporters switched mainly to road haulage.</li>
+<li>The elasticity of substitution between maritime and land transport rises from <strong>1.06–1.14 in the very short run to 1.26–1.53 in the long run</strong> — exporters adapt, but slowly, and only as alternative corridors are built.</li>
+</ul>
+<p>The estimates matter well beyond Ukraine: they quantify how costly it is for an economy to reroute trade when a key transport mode is disrupted, and how much of that cost is temporary.</p>
+<p>Presented at the BOFIT seminar series (Bank of Finland, March 2025) and the First International Virtual Conference on Ukraine (August 2024).</p>
+<p><strong>Working paper:</strong> SSRN, 2025. With Mykola Ryzhenkov (Osnabrück University). Replication data: Mendeley Data, 2026.</p>
+<p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5759442">SSRN</a> · <a href="https://www.suomenpankki.fi/en/news-and-topical/events/calendar/events/bofit2/2025/2025-03-04-ryzhenkov/">BOFIT seminar</a></p>
+
+
+<!-- -->
+
+</section>
+
+ ]]></description>
+  <category>ukraine</category>
+  <guid>https://shepotylo.com/research/papers/ukraine-port-blockade-transport-modes.html</guid>
+  <pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Russian economy on life support</title>

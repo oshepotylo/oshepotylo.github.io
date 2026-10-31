@@ -14,7 +14,7 @@
 <title>Oleksandr Shepotylo</title>
 <link>https://shepotylo.com/brexit/</link>
 </image>
-<generator>quarto-1.10.18</generator>
+<generator>quarto-1.10.20</generator>
 <lastBuildDate>Mon, 05 Oct 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>From pace-setter to laggard: Brexit and the British car industry</title>
@@ -117,6 +117,30 @@
   <media:content url="https://shepotylo.com/blog/2026-10-05-brexit-uk-car-industry-germany/images/fig1_longrun_index_2016.png" medium="image" type="image/png" height="88" width="144"/>
 </item>
 <item>
+  <title>Certainty without conviction: why the Trade and Cooperation Agreement failed to reverse Brexit relocations?</title>
+  <link>https://shepotylo.com/research/papers/tca-brexit-relocations-certainty.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Did the Trade and Cooperation Agreement bring back the investment that UK firms moved to the EU after the referendum? Using project-level data on UK outward greenfield FDI from 2013 to 2023, together with synthetic difference-in-differences and Poisson-based estimators, we find that Brexit redirected a significant volume of investment into the EU.</p>
+<p>Most of the relocated projects do not fit the textbook motives for FDI — seeking new markets or lower costs. Instead, they look like institutional adaptation: firms putting operations inside the EU’s regulatory perimeter to keep serving customers there. The TCA removed the worst-case uncertainty and stabilised outward flows, but it did not reverse them.</p>
+<p>The policy lesson is that a trade agreement can deliver certainty without conviction. Restoring firms’ confidence in operating from the UK requires regulatory alignment and institutional credibility, not just tariff-free market access.</p>
+<p><strong>Published in:</strong> <em>Contemporary Social Science</em>, 21(1), 2734513. Open access.</p>
+<p><a href="https://doi.org/10.1080/21582041.2026.2734513">Read the article (DOI)</a> · <a href="https://research.aston.ac.uk/en/publications/certainty-without-conviction-why-the-trade-and-cooperation-agreem/">Aston Research Explorer</a></p>
+
+
+<!-- -->
+
+
+ ]]></description>
+  <category>brexit</category>
+  <category>firms</category>
+  <guid>https://shepotylo.com/research/papers/tca-brexit-relocations-certainty.html</guid>
+  <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+</item>
+<item>
   <title>After SPS: the EU trade barrier that needs fixing next</title>
   <link>https://shepotylo.com/blog/2026-09-14-after-sps-the-eu-trade-barrier-that-needs-fixing-next/</link>
   <description><![CDATA[ 
@@ -125,7 +149,7 @@
 
 
 <p>Drawing on five years of monthly bilateral trade data across 100 countries (2017–2025), this piece finds that while deeply integrated sectors like pharmaceuticals and automotive components have proven more resilient to Brexit than consumer goods, the underlying commercial logic of running cross-border production under two regulatory regimes is weakening year on year. Overall, UK exports to the EU have seen a 53.8% decline in product varieties and a 16.5% fall in value, with technical barriers — conformity assessment and dual certification in particular — imposing disproportionate costs on the most interconnected sectors. The recommendation is a sectoral mutual recognition agreement modelled on the EU–Switzerland framework, alongside investment support for firms absorbing dual regulatory costs, before the window to preserve these cross-border production relationships closes.</p>
-<p>Written by Jun Du, based on our joint research on UK–EU trade.</p>
+<p>Written by Jun Du, based on our joint research on UK–EU trade. The evidence on mutual recognition is in our working paper <a href="../../research/papers/mrca-streamlining-standards.html">Streamlining Standards: Sectoral Trade Gains from Mutual Recognition of Conformity Assessment</a>.</p>
 <p><strong>Originally published on British Chambers of Commerce</strong>, September 14, 2026.</p>
 <p><a href="https://www.britishchambers.org.uk/news/2026/09/after-sps-the-eu-trade-barrier-that-needs-fixing-next">Read the full piece →</a></p>
 
@@ -138,6 +162,42 @@
   <category>firms</category>
   <guid>https://shepotylo.com/blog/2026-09-14-after-sps-the-eu-trade-barrier-that-needs-fixing-next/</guid>
   <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Streamlining Standards: Sectoral Trade Gains from Mutual Recognition of Conformity Assessment (MRCA) in a Post-Brexit World</title>
+  <link>https://shepotylo.com/research/papers/mrca-streamlining-standards.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This paper investigates Mutual Recognition of Conformity Assessment (MRCA), a targeted mechanism distinct from broader Mutual Recognition Agreements (MRAs), which streamlines regulatory compliance by enabling acceptance of product evaluations (testing, inspection, certification) across jurisdictions. Using a Poisson Pseudo-Maximum Likelihood (PPML) gravity model applied to bilateral trade data (2010–2023) across 98 two-digit HS sectors, we find that MRCA provisions are associated with an average 9.8% increase in exports, with positive effects in 25 sectors (notably electrical machinery, machinery, and dairy) and negative effects in seven (e.g., nickel, rail equipment).</p>
+<section id="key-findings" class="level2">
+<h2 class="anchored" data-anchor-id="key-findings">Key findings</h2>
+<ul>
+<li>MRCA provisions raise exports by <strong>9.8% on average</strong>, with statistically significant gains in roughly one-third of sectors.</li>
+<li>The largest absolute gains are in high-value, technology-intensive industries: electrical machinery (HS85) and mechanical appliances (HS84) gain around <strong>$25 million per country pair</strong>.</li>
+<li>Dairy (HS04) and apparel (HS61) see export growth of <strong>41–51%</strong>.</li>
+<li>Resource-intensive sectors such as nickel, ores and railway locomotives see declines of <strong>18–61%</strong>, reflecting adjustment costs and greater competitive exposure.</li>
+</ul>
+</section>
+<section id="policy-implications" class="level2">
+<h2 class="anchored" data-anchor-id="policy-implications">Policy implications</h2>
+<p>MRCA offers a practical, politically feasible route for UK–EU regulatory cooperation that enhances market access without the legal and institutional complexity of full alignment or treaty reform. Because gains are uneven, a sector-sensitive approach is needed: prioritise industries with high conformity costs and strong existing alignment — pharmaceuticals, electronics, machinery — and use transitional arrangements or adjustment support where competition bites. Beyond the EU, MRCA is a scalable template for UK cooperation with CPTPP and Gulf Cooperation Council partners.</p>
+<p>For the policy argument in brief, see <a href="../../blog/2026-09-14-after-sps-the-eu-trade-barrier-that-needs-fixing-next/index.html">After SPS: the EU trade barrier that needs fixing next</a>.</p>
+<p><strong>Working paper:</strong> Centre for Business Prosperity, Aston University / The Productivity Institute, August 2026. With Jun Du and Lin Zhang.</p>
+<p><a href="https://www.aston.ac.uk/sites/default/files/2026-10/du_shepotylo_zhang_2026_streamlining_standards_mrca_v1.pdf">Download the paper (PDF)</a></p>
+
+
+<!-- -->
+
+</section>
+
+ ]]></description>
+  <category>brexit</category>
+  <category>consultancy</category>
+  <guid>https://shepotylo.com/research/papers/mrca-streamlining-standards.html</guid>
+  <pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>What steel tariffs reveal about the cost of going it alone</title>
@@ -362,6 +422,43 @@
   <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
 </item>
 <item>
+  <title>Unbound: UK Trade Post Brexit</title>
+  <link>https://shepotylo.com/research/papers/unbound-uk-trade-post-brexit.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>A report on the impact of the 2021 UK–EU Trade and Cooperation Agreement, three years on. Using monthly UK–EU trade data from January 2017 to December 2023, split before and after the TCA took effect in January 2021, we find that the agreement has had a stifling effect on trade in both directions.</p>
+<section id="key-findings" class="level2">
+<h2 class="anchored" data-anchor-id="key-findings">Key findings</h2>
+<ul>
+<li>UK <strong>exports to the EU down 27%</strong>; <strong>imports from the EU down 32%</strong>.</li>
+<li>The <strong>variety of products exported down 33%</strong>.</li>
+<li>Agrifood, textiles and clothing, and material-based manufacturing see the largest falls in both export value and product variety. Tobacco, railway and aircraft manufacturing are rare exceptions with gains in export variety.</li>
+<li>On the import side, value and variety fall in most sectors — especially agrifood, optical, textile and material-based manufacturing.</li>
+<li>The shifts appear <strong>structural rather than short-term</strong>, and are likely to persist without policy change.</li>
+</ul>
+</section>
+<section id="policy-recommendations" class="level2">
+<h2 class="anchored" data-anchor-id="policy-recommendations">Policy recommendations</h2>
+<p>Mitigate the costs of the new arrangements, restructure UK supply chains strategically, and help firms adapt to new barriers and raise productivity — through sector-specific deals, engagement with individual member states, lower non-tariff barriers, digitised customs, closer regulatory alignment, and investment in port and customs infrastructure.</p>
+<p>The report was cited in parliamentary questions.</p>
+<p><strong>Report:</strong> Centre for Business Prosperity, Aston University, 2024. With Jun Du, Xingyi Liu and Yujie Shi. Also available as an SSRN working paper.</p>
+<p><a href="https://www.aston.ac.uk/sites/default/files/2024-09/Full%20Report.pdf">Download the full report (PDF)</a> · <a href="https://www.aston.ac.uk/research/bss/research-centres/business-prosperity/unbound">Report page</a> · <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5954028">SSRN</a></p>
+
+
+<!-- -->
+
+</section>
+
+ ]]></description>
+  <category>brexit</category>
+  <category>consultancy</category>
+  <guid>https://shepotylo.com/research/papers/unbound-uk-trade-post-brexit.html</guid>
+  <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
   <title>Would a veterinary agreement be a boost for UK-EU agri-food exports?</title>
   <link>https://shepotylo.com/blog/2024-06-17-veterinary-agreement-uk-eu-agrifood/</link>
   <description><![CDATA[ 
@@ -469,70 +566,6 @@
   <category>brexit</category>
   <guid>https://shepotylo.com/blog/2023-06-14-tca-impact-uk-trade/</guid>
   <pubDate>Wed, 14 Jun 2023 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Harvesting Trade Opportunities: Staggered DID of Impact and Structural Gravity of Future of EU-UK Agrifood Trade</title>
-  <link>https://shepotylo.com/research/papers/eu-uk-agrifood-trade-future.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Combining a staggered difference-in-differences estimate of Brexit’s realised impact on EU-UK agrifood trade with a structural gravity projection of plausible future trading arrangements, this paper asks how much of the post-Brexit agrifood trade loss is recoverable under alternative UK-EU relationships, and how much is likely permanent.</p>
-<p><strong>Conference paper:</strong> International Agricultural Trade Research Consortium</p>
-<p><a href="https://research.aston.ac.uk/en/persons/oleksandr-shepotylo/publications/">Aston Research Explorer</a></p>
-
-
-<!-- -->
-
-
- ]]></description>
-  <category>brexit</category>
-  <category>agrifood</category>
-  <guid>https://shepotylo.com/research/papers/eu-uk-agrifood-trade-future.html</guid>
-  <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>How did Brexit affect UK trade?</title>
-  <link>https://shepotylo.com/research/papers/how-did-brexit-affect-uk-trade.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>A plain-language stocktake of the UK trade evidence two years after the Trade and Cooperation Agreement took effect, aimed at a policy and social-science audience rather than a specialist trade-economics one. We summarise what the firm- and product-level data show about goods versus services, large firms versus small ones, and which sectors adjusted fastest.</p>
-<p><strong>Published in:</strong> <em>Contemporary Social Science</em>, 18(2), 266–283</p>
-<p><a href="https://research.aston.ac.uk/en/persons/oleksandr-shepotylo/publications/">Aston Research Explorer</a></p>
-
-
-<!-- -->
-
-
- ]]></description>
-  <category>brexit</category>
-  <guid>https://shepotylo.com/research/papers/how-did-brexit-affect-uk-trade.html</guid>
-  <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>UK trade in the time of COVID-19: A review</title>
-  <link>https://shepotylo.com/research/papers/uk-trade-covid-review.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>We review the UK’s trade performance through the COVID-19 crisis and consider how it might be revived. UK goods exports contracted more sharply in 2020 than those of international peers, with a deeper decline and slower recovery than Germany, Italy, Spain, and the US. Trends from 2017 to 2019 already showed the UK’s global competitiveness weakening, suggesting a more persistent problem against a backdrop of productivity slowdown and Brexit uncertainty. We analyse the confluence of internal and external factors bearing on UK trade and argue that boosting productivity is central to recovering from both the COVID shock and Brexit.</p>
-<p><strong>Published in:</strong> The World Economy, 2022. With Jun Du.</p>
-<p><a href="https://orcid.org/0000-0003-4990-6025">Aston Research Explorer / ORCID</a></p>
-
-
-<!-- -->
-
-
- ]]></description>
-  <category>brexit</category>
-  <guid>https://shepotylo.com/research/papers/uk-trade-covid-review.html</guid>
-  <pubDate>Sun, 01 May 2022 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

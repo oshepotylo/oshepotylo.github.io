@@ -14,7 +14,7 @@
 <title>Oleksandr Shepotylo</title>
 <link>https://shepotylo.com/firms/</link>
 </image>
-<generator>quarto-1.10.18</generator>
+<generator>quarto-1.10.20</generator>
 <lastBuildDate>Mon, 05 Oct 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>From pace-setter to laggard: Brexit and the British car industry</title>
@@ -117,6 +117,30 @@
   <media:content url="https://shepotylo.com/blog/2026-10-05-brexit-uk-car-industry-germany/images/fig1_longrun_index_2016.png" medium="image" type="image/png" height="88" width="144"/>
 </item>
 <item>
+  <title>Certainty without conviction: why the Trade and Cooperation Agreement failed to reverse Brexit relocations?</title>
+  <link>https://shepotylo.com/research/papers/tca-brexit-relocations-certainty.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Did the Trade and Cooperation Agreement bring back the investment that UK firms moved to the EU after the referendum? Using project-level data on UK outward greenfield FDI from 2013 to 2023, together with synthetic difference-in-differences and Poisson-based estimators, we find that Brexit redirected a significant volume of investment into the EU.</p>
+<p>Most of the relocated projects do not fit the textbook motives for FDI — seeking new markets or lower costs. Instead, they look like institutional adaptation: firms putting operations inside the EU’s regulatory perimeter to keep serving customers there. The TCA removed the worst-case uncertainty and stabilised outward flows, but it did not reverse them.</p>
+<p>The policy lesson is that a trade agreement can deliver certainty without conviction. Restoring firms’ confidence in operating from the UK requires regulatory alignment and institutional credibility, not just tariff-free market access.</p>
+<p><strong>Published in:</strong> <em>Contemporary Social Science</em>, 21(1), 2734513. Open access.</p>
+<p><a href="https://doi.org/10.1080/21582041.2026.2734513">Read the article (DOI)</a> · <a href="https://research.aston.ac.uk/en/publications/certainty-without-conviction-why-the-trade-and-cooperation-agreem/">Aston Research Explorer</a></p>
+
+
+<!-- -->
+
+
+ ]]></description>
+  <category>brexit</category>
+  <category>firms</category>
+  <guid>https://shepotylo.com/research/papers/tca-brexit-relocations-certainty.html</guid>
+  <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+</item>
+<item>
   <title>After SPS: the EU trade barrier that needs fixing next</title>
   <link>https://shepotylo.com/blog/2026-09-14-after-sps-the-eu-trade-barrier-that-needs-fixing-next/</link>
   <description><![CDATA[ 
@@ -125,7 +149,7 @@
 
 
 <p>Drawing on five years of monthly bilateral trade data across 100 countries (2017–2025), this piece finds that while deeply integrated sectors like pharmaceuticals and automotive components have proven more resilient to Brexit than consumer goods, the underlying commercial logic of running cross-border production under two regulatory regimes is weakening year on year. Overall, UK exports to the EU have seen a 53.8% decline in product varieties and a 16.5% fall in value, with technical barriers — conformity assessment and dual certification in particular — imposing disproportionate costs on the most interconnected sectors. The recommendation is a sectoral mutual recognition agreement modelled on the EU–Switzerland framework, alongside investment support for firms absorbing dual regulatory costs, before the window to preserve these cross-border production relationships closes.</p>
-<p>Written by Jun Du, based on our joint research on UK–EU trade.</p>
+<p>Written by Jun Du, based on our joint research on UK–EU trade. The evidence on mutual recognition is in our working paper <a href="../../research/papers/mrca-streamlining-standards.html">Streamlining Standards: Sectoral Trade Gains from Mutual Recognition of Conformity Assessment</a>.</p>
 <p><strong>Originally published on British Chambers of Commerce</strong>, September 14, 2026.</p>
 <p><a href="https://www.britishchambers.org.uk/news/2026/09/after-sps-the-eu-trade-barrier-that-needs-fixing-next">Read the full piece →</a></p>
 
@@ -523,30 +547,6 @@
   <category>non-tariff-measures</category>
   <guid>https://shepotylo.com/research/papers/seafood-ntm-export-margins.html</guid>
   <pubDate>Fri, 01 Jan 2016 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Services liberalization and productivity of manufacturing firms</title>
-  <link>https://shepotylo.com/research/papers/services-liberalization-productivity.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Liberalizing services sectors — telecoms, transport, finance — raises the productivity of the manufacturing firms that use those services as inputs, not just the productivity of the liberalized sector itself. Using Ukrainian firm-level panel data, we trace this indirect productivity channel and show it is large enough to matter for the sequencing of liberalization reforms.</p>
-<p><strong>Published in:</strong> <em>The Economics of Transition</em>, 23(1), 1–44</p>
-<p><a href="https://research.aston.ac.uk/en/persons/oleksandr-shepotylo/publications/">Aston Research Explorer</a></p>
-
-
-<!-- -->
-
-
- ]]></description>
-  <category>firms</category>
-  <category>ukraine</category>
-  <category>services-trade</category>
-  <category>firm-level</category>
-  <guid>https://shepotylo.com/research/papers/services-liberalization-productivity.html</guid>
-  <pubDate>Thu, 01 Jan 2015 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
