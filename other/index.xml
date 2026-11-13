@@ -10,11 +10,13 @@
 <atom:link href="https://shepotylo.com/other/index.xml" rel="self" type="application/rss+xml"/>
 <description>Development, institutions, and spatial economics — work outside the four main hubs.</description>
 <image>
-<url>https://shepotylo.com/../images/themes/other.png</url>
+<url>https://shepotylo.com/images/themes/other.png</url>
 <title>Oleksandr Shepotylo</title>
 <link>https://shepotylo.com/other/</link>
+<height>146</height>
+<width>144</width>
 </image>
-<generator>quarto-1.10.20</generator>
+<generator>quarto-1.11.9</generator>
 <lastBuildDate>Fri, 01 May 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>The Excavator at the End of the Universe</title>

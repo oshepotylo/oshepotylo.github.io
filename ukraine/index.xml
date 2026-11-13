@@ -10,11 +10,13 @@
 <atom:link href="https://shepotylo.com/ukraine/index.xml" rel="self" type="application/rss+xml"/>
 <description>Exports, reconstruction, and whether an economy can win a war.</description>
 <image>
-<url>https://shepotylo.com/../images/themes/ukraine.jpg</url>
+<url>https://shepotylo.com/images/themes/ukraine.jpg</url>
 <title>Oleksandr Shepotylo</title>
 <link>https://shepotylo.com/ukraine/</link>
+<height>96</height>
+<width>144</width>
 </image>
-<generator>quarto-1.10.20</generator>
+<generator>quarto-1.11.9</generator>
 <lastBuildDate>Sat, 03 Oct 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Is Russia’s economy bigger than Britain’s? Nominal GDP, PPP and the economics of isolation</title>

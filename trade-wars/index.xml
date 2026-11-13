@@ -10,11 +10,13 @@
 <atom:link href="https://shepotylo.com/trade-wars/index.xml" rel="self" type="application/rss+xml"/>
 <description>When allies coerce, markets fragment, and geopolitics rewrites the trade map.</description>
 <image>
-<url>https://shepotylo.com/../images/themes/trade-wars.jpg</url>
+<url>https://shepotylo.com/images/themes/trade-wars.jpg</url>
 <title>Oleksandr Shepotylo</title>
 <link>https://shepotylo.com/trade-wars/</link>
+<height>81</height>
+<width>144</width>
 </image>
-<generator>quarto-1.10.20</generator>
+<generator>quarto-1.11.9</generator>
 <lastBuildDate>Wed, 06 May 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Brussels Races the Clock: Europe’s Last-Minute Bid to Lock In a US Trade Deal</title>

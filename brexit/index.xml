@@ -10,11 +10,13 @@
 <atom:link href="https://shepotylo.com/brexit/index.xml" rel="self" type="application/rss+xml"/>
 <description>What leaving the EU actually did to British trade — measured, not argued.</description>
 <image>
-<url>https://shepotylo.com/../images/themes/brexit.jpg</url>
+<url>https://shepotylo.com/images/themes/brexit.jpg</url>
 <title>Oleksandr Shepotylo</title>
 <link>https://shepotylo.com/brexit/</link>
+<height>72</height>
+<width>144</width>
 </image>
-<generator>quarto-1.10.20</generator>
+<generator>quarto-1.11.9</generator>
 <lastBuildDate>Mon, 05 Oct 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>From pace-setter to laggard: Brexit and the British car industry</title>

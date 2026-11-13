@@ -9,8 +9,265 @@
 <link>https://shepotylo.com/blog.html</link>
 <atom:link href="https://shepotylo.com/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Commentary and analysis on trade policy, Brexit, and the war economy.</description>
-<generator>quarto-1.10.20</generator>
-<lastBuildDate>Mon, 05 Oct 2026 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.11.9</generator>
+<lastBuildDate>Fri, 13 Nov 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>UK trade in September 2026: gold drives a $60bn goods deficit</title>
+  <dc:creator>Oleksandr Shepotylo</dc:creator>
+  <link>https://shepotylo.com/blog/2026-11-13-uk-trade-september-2026/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>UK goods imports reached <strong>$108.1bn in September 2026</strong>, the highest monthly figure in the past year, and the goods trade deficit widened to <strong>$60.3bn</strong>. Most of the jump came from gold. Strip out gold, though, and the picture is still one of strong growth on both sides of the ledger, with car exports a standout.</p>
+<section id="key-takeaways" class="level2">
+<h2 class="anchored" data-anchor-id="key-takeaways">Key takeaways</h2>
+<ul>
+<li><strong>Imports up 17.4% on the month and 38.7% on the year</strong>, to $108.1bn.</li>
+<li><strong>Gold did most of the lifting.</strong> Non-monetary gold imports were $27.8bn, almost three times the $9.6bn of September 2025. Switzerland alone supplied $15.9bn.</li>
+<li><strong>The goods deficit widened to $60.3bn</strong>, from $49.5bn in August and $32.7bn a year earlier.</li>
+<li><strong>Underlying trade still grew strongly.</strong> Excluding gold, exports rose 14.5% and imports 17.6% year on year, and the deficit was $36.0bn, the widest in the past 13 months.</li>
+<li><strong>Car exports surged.</strong> Exports of mid-size petrol cars nearly doubled on the month and rose more than fivefold on the year, with the US and China as key destinations.</li>
+</ul>
+</section>
+<section id="the-headline-numbers" class="level2">
+<h2 class="anchored" data-anchor-id="the-headline-numbers">The headline numbers</h2>
+<table class="caption-top table">
+<caption>UK goods trade, US$ billions. Source: Trade Data Monitor (HMRC data).</caption>
+<thead>
+<tr class="header">
+<th style="text-align: left;"></th>
+<th style="text-align: right;">Sep 2026</th>
+<th style="text-align: right;">Aug 2026</th>
+<th style="text-align: right;">Sep 2025</th>
+<th style="text-align: right;">Change on month</th>
+<th style="text-align: right;">Change on year</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>All goods</strong></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Exports</td>
+<td style="text-align: right;">$47.8bn</td>
+<td style="text-align: right;">$42.5bn</td>
+<td style="text-align: right;">$45.2bn</td>
+<td style="text-align: right;">+12.5%</td>
+<td style="text-align: right;">+5.7%</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Imports</td>
+<td style="text-align: right;">$108.1bn</td>
+<td style="text-align: right;">$92.0bn</td>
+<td style="text-align: right;">$77.9bn</td>
+<td style="text-align: right;">+17.4%</td>
+<td style="text-align: right;">+38.7%</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Trade balance</td>
+<td style="text-align: right;">−$60.3bn</td>
+<td style="text-align: right;">−$49.5bn</td>
+<td style="text-align: right;">−$32.7bn</td>
+<td style="text-align: right;">−$10.7bn</td>
+<td style="text-align: right;">−$27.6bn</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Excluding gold (HS 7108)</strong></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Exports</td>
+<td style="text-align: right;">$44.3bn</td>
+<td style="text-align: right;">$38.6bn</td>
+<td style="text-align: right;">$38.7bn</td>
+<td style="text-align: right;">+14.7%</td>
+<td style="text-align: right;">+14.5%</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Imports</td>
+<td style="text-align: right;">$80.3bn</td>
+<td style="text-align: right;">$68.2bn</td>
+<td style="text-align: right;">$68.3bn</td>
+<td style="text-align: right;">+17.7%</td>
+<td style="text-align: right;">+17.6%</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Trade balance</td>
+<td style="text-align: right;">−$36.0bn</td>
+<td style="text-align: right;">−$29.6bn</td>
+<td style="text-align: right;">−$29.6bn</td>
+<td style="text-align: right;">−$6.4bn</td>
+<td style="text-align: right;">−$6.4bn</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="gold-drives-the-import-surge" class="level2">
+<h2 class="anchored" data-anchor-id="gold-drives-the-import-surge">Gold drives the import surge</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://shepotylo.com/blog/2026-11-13-uk-trade-september-2026/images/uk_trade_gold_split_Sep2026.png" class="img-fluid figure-img" alt="Stacked monthly columns of UK exports and imports from September 2025 to September 2026, split into gold and all other goods. Imports rise to $108.1bn in September 2026, of which $27.8bn is gold."></p>
+<figcaption>UK goods exports and imports by month, split into gold and all other goods, September 2025–September 2026</figcaption>
+</figure>
+</div>
+<p><em>Figure 1. UK monthly goods trade, US$ billions. Gold is non-monetary gold (HS 7108).</em></p>
+<p>London is the hub of the global gold market, so large volumes of bullion move in and out of the UK for refining, vaulting and trading. These flows are big and volatile and say little about the real economy, which is why the ONS headline trade figures exclude precious metals.</p>
+<p>September’s gold imports came mainly from <strong>Switzerland ($15.9bn)</strong>, followed by Canada ($3.5bn), the US ($1.9bn), South Africa ($1.6bn) and Uzbekistan ($1.4bn). Silver imports also jumped, to $2.1bn from $0.8bn in August. Gold <em>exports</em>, by contrast, fell to $3.5bn, from $6.5bn a year earlier.</p>
+<p>Precious metals also explain many of the biggest country-level swings:</p>
+<ul>
+<li>Exports to <strong>Qatar (−$1.6bn), Hong Kong (−$0.9bn) and Oman (−$0.8bn)</strong> fell year on year because large gold shipments in September 2025 were not repeated.</li>
+<li>About half of the <strong>$2.1bn rise in exports to China</strong> was gold.</li>
+<li>Imports from <strong>Singapore</strong> fell by $2.1bn on the month as an August gold shipment dropped out.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://shepotylo.com/blog/2026-11-13-uk-trade-september-2026/images/top_countries_imports_YoY_Sep2026.png" class="img-fluid figure-img" alt="Bar chart of the five import sources with the largest increases and decreases between September 2025 and September 2026. Switzerland leads with an increase of about $14.5bn."></p>
+<figcaption>Import sources with the largest changes, September 2026 vs September 2025</figcaption>
+</figure>
+</div>
+<p><em>Figure 2. Top five increases and decreases in UK imports by source country, September 2026 vs September 2025, US$ billions.</em></p>
+</section>
+<section id="beyond-gold-energy-tech-and-cars" class="level2">
+<h2 class="anchored" data-anchor-id="beyond-gold-energy-tech-and-cars">Beyond gold: energy, tech and cars</h2>
+<p>With gold set aside, imports were still up $12bn on the year. Fuels did much of the work. Refined petroleum products rose $1.3bn and crude oil $0.9bn, and imports from <strong>Norway</strong> were up $1.1bn on higher oil and gas deliveries. Computer processing units (+$0.9bn), medicines (+$0.4bn) and smartphones (+$0.4bn) also rose.</p>
+<p>On the export side, the standout is <strong>cars</strong>. Exports of petrol cars with 1.5 to 3 litre engines (HS 870323) reached $812m, up from $415m in August and $148m in September 2025. The year-on-year rise partly reflects a low base, since Jaguar Land Rover’s production was halted by a cyberattack in September 2025, but the jump on the month shows real momentum. Larger-engine cars added another $267m on the year. The US took an extra $444m of these two car categories, and China an extra $214m.</p>
+<table class="caption-top table">
+<caption>Largest product movers, September 2026 vs September 2025, US$ millions.</caption>
+<colgroup>
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Product (HS6)</th>
+<th style="text-align: left;">Flow</th>
+<th style="text-align: right;">Sep 2026</th>
+<th style="text-align: right;">Sep 2025</th>
+<th style="text-align: right;">Change</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Gold, semi-manufactured (710813)</td>
+<td style="text-align: left;">Imports</td>
+<td style="text-align: right;">$27,673m</td>
+<td style="text-align: right;">$9,561m</td>
+<td style="text-align: right;">+$18,113m</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Refined petroleum oils (271019)</td>
+<td style="text-align: left;">Imports</td>
+<td style="text-align: right;">$3,044m</td>
+<td style="text-align: right;">$1,769m</td>
+<td style="text-align: right;">+$1,275m</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Silver, semi-manufactured (710691)</td>
+<td style="text-align: left;">Imports</td>
+<td style="text-align: right;">$2,148m</td>
+<td style="text-align: right;">$989m</td>
+<td style="text-align: right;">+$1,160m</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Crude oil (270900)</td>
+<td style="text-align: left;">Imports</td>
+<td style="text-align: right;">$3,016m</td>
+<td style="text-align: right;">$2,164m</td>
+<td style="text-align: right;">+$852m</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Petrol cars, 1.5–3.0 litre (870323)</td>
+<td style="text-align: left;">Exports</td>
+<td style="text-align: right;">$812m</td>
+<td style="text-align: right;">$148m</td>
+<td style="text-align: right;">+$664m</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Crude oil (270900)</td>
+<td style="text-align: left;">Exports</td>
+<td style="text-align: right;">$1,455m</td>
+<td style="text-align: right;">$1,032m</td>
+<td style="text-align: right;">+$422m</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Precious-metal jewellery (711319)</td>
+<td style="text-align: left;">Exports</td>
+<td style="text-align: right;">$635m</td>
+<td style="text-align: right;">$218m</td>
+<td style="text-align: right;">+$418m</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Petrol cars, over 3.0 litre (870324)</td>
+<td style="text-align: left;">Exports</td>
+<td style="text-align: right;">$657m</td>
+<td style="text-align: right;">$390m</td>
+<td style="text-align: right;">+$267m</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Gold, semi-manufactured (710813)</td>
+<td style="text-align: left;">Exports</td>
+<td style="text-align: right;">$3,475m</td>
+<td style="text-align: right;">$6,524m</td>
+<td style="text-align: right;">−$3,049m</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Silver, semi-manufactured (710691)</td>
+<td style="text-align: left;">Exports</td>
+<td style="text-align: right;">$110m</td>
+<td style="text-align: right;">$842m</td>
+<td style="text-align: right;">−$733m</td>
+</tr>
+</tbody>
+</table>
+<p>By destination, exports to the <strong>US rose $1.6bn (+32%)</strong> and to the <strong>Netherlands $1.2bn (+49%)</strong>. The jewellery export jump went almost entirely to Qatar.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://shepotylo.com/blog/2026-11-13-uk-trade-september-2026/images/top_countries_exports_YoY_Sep2026.png" class="img-fluid figure-img" alt="Bar chart of the five export destinations with the largest increases and decreases between September 2025 and September 2026. China, the US and the Netherlands lead the increases; Qatar, Hong Kong and Oman show the largest decreases."></p>
+<figcaption>Export destinations with the largest changes, September 2026 vs September 2025</figcaption>
+</figure>
+</div>
+<p><em>Figure 3. Top five increases and decreases in UK exports by destination country, September 2026 vs September 2025, US$ billions.</em></p>
+</section>
+<section id="what-to-watch" class="level2">
+<h2 class="anchored" data-anchor-id="what-to-watch">What to watch</h2>
+<ul>
+<li><strong>Gold is a wildcard.</strong> Bullion flows can reverse as quickly as they arrive, so expect large swings in the headline balance over the coming months. The ex-gold series is the better guide to underlying trade.</li>
+<li><strong>The ex-gold deficit is widening too.</strong> At $36.0bn it is the widest in the past 13 months, driven by fuel and technology imports.</li>
+<li><strong>Cars are worth tracking.</strong> It is not yet clear whether the September jump marks a sustained recovery in car exports, particularly to the US.</li>
+</ul>
+</section>
+<section id="data-and-methods" class="level2">
+<h2 class="anchored" data-anchor-id="data-and-methods">Data and methods</h2>
+<p>Data are monthly UK goods trade statistics (HMRC) at the HS 6-digit level, accessed through Trade Data Monitor. All values are in <strong>US dollars</strong>, so changes partly reflect movements in the sterling–dollar exchange rate. “Gold” refers to non-monetary gold, HS heading 7108. Monthly trade data are subject to revision.</p>
+<p>The full report, with the top 10 product movers and top 5 partner movers for exports and imports on both a monthly and yearly basis, is available here: <a href="UK_Trade_Report_Sep2026.html">UK Monthly Trade Report, September 2026 (HTML)</a>.</p>
+
+
+<!-- -->
+
+</section>
+
+ ]]></description>
+  <category>uk-trade</category>
+  <category>gold</category>
+  <category>car-industry</category>
+  <guid>https://shepotylo.com/blog/2026-11-13-uk-trade-september-2026/</guid>
+  <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://shepotylo.com/blog/2026-11-13-uk-trade-september-2026/images/uk_trade_gold_split_Sep2026.png" medium="image" type="image/png" height="85" width="144"/>
+</item>
 <item>
   <title>From pace-setter to laggard: Brexit and the British car industry</title>
   <dc:creator>Oleksandr Shepotylo</dc:creator>
@@ -982,31 +1239,6 @@
   <category>trade-wars</category>
   <guid>https://shepotylo.com/blog/2026-02-13-europe-flirts-with-buy-european-era/</guid>
   <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Trump Trade War Diary — Day 374</title>
-  <link>https://shepotylo.com/blog/2026-01-30-trump-trade-war-diary-day-374/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>On Aircraft and the Art of Regulatory Retaliation</p>
-<p>The US has announced it will decertify Bombardier aircraft and threatens 50% tariffs on all Canadian planes—unless Canada certifies Gulfstream jets “immediately.” This is a notable shift in trade war tactics. The blunt universal tariff—the economic equivalent of shouting at weather—has given way to something more precise: weaponised certification. The framing is instructive. Canada’s certification process isn’t “illegal”; it’s simply Canadian. Different country, different timeline. This has been true since approximately the invention of countries. But by presenting decertification as response rather than aggression, Washington shifts the narrative.</p>
-<p>Why aircraft? Bombardier is a crown jewel of Canadian manufacturing, politically impossible to abandon. Meanwhile, Canada has been diversifying trade toward the EU and Asia—reducing its dependence on US markets. Targeting aerospace sends a clear message: alternatives have costs. The deeper problem is that using safety certification as a trade weapon rather undermines the concept of mutual recognition that makes international aviation function. If every country’s airworthiness decisions become bargaining chips, we end up with planes certified to fly everywhere except the places they need to go.</p>
-<p>Somewhere in Toulouse, Airbus executives are watching with the quiet satisfaction of people who didn’t start the fire but remembered to bring marshmallows.</p>
-<p><img src="https://shepotylo.com/blog/2026-01-30-trump-trade-war-diary-day-374/figures/Trump tweet Jan 30 2026 Canada airplains.png" class="img-fluid"></p>
-
-
-<!-- -->
-
-
- ]]></description>
-  <category>trade-wars</category>
-  <category>trump-trade-war-diary</category>
-  <guid>https://shepotylo.com/blog/2026-01-30-trump-trade-war-diary-day-374/</guid>
-  <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
-  <media:content url="https://shepotylo.com/blog/2026-01-30-trump-trade-war-diary-day-374/figures/Trump tweet Jan 30 2026 Canada airplains.png" medium="image" type="image/png" height="133" width="144"/>
 </item>
 </channel>
 </rss>

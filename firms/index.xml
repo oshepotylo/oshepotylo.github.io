@@ -10,11 +10,13 @@
 <atom:link href="https://shepotylo.com/firms/index.xml" rel="self" type="application/rss+xml"/>
 <description>What trade policy actually does at the level of the firm.</description>
 <image>
-<url>https://shepotylo.com/../images/themes/firms.jpg</url>
+<url>https://shepotylo.com/images/themes/firms.jpg</url>
 <title>Oleksandr Shepotylo</title>
 <link>https://shepotylo.com/firms/</link>
+<height>96</height>
+<width>144</width>
 </image>
-<generator>quarto-1.10.20</generator>
+<generator>quarto-1.11.9</generator>
 <lastBuildDate>Mon, 05 Oct 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>From pace-setter to laggard: Brexit and the British car industry</title>
