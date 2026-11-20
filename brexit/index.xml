@@ -17,7 +17,108 @@
 <width>144</width>
 </image>
 <generator>quarto-1.11.9</generator>
-<lastBuildDate>Mon, 05 Oct 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>What would the UK gain from closer ties with the EU? Trade, productivity and investment gains from deeper UK–EU integration</title>
+  <link>https://shepotylo.com/research/papers/uk-eu-closer-ties-options.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Ten years after the referendum, every option for the UK’s relationship with the EU is back on the table. In September 2026 the Prime Minister said the options run from the current Trade and Cooperation Agreement (TCA) to full membership, and in October told the House of Commons that after the UK–EU summit in Brussels on 20 November the two sides should start a dialogue about the long-term relationship. This paper puts the options on one scale, measured from the TCA. It pools 37 gravity studies (3,554 estimates) to measure the trade effect of each type of agreement, solves a general equilibrium model of world trade covering 81 economies, and adds services trade, the productivity effects of trade liberalisation and the recovery of business investment held back since the referendum.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://shepotylo.com/research/files/du-shepotylo-2026-uk-eu-gains-by-layer.png" class="img-fluid figure-img" alt="Horizontal bar chart of the long-run gain in UK real income relative to the TCA, split into goods trade, services trade, productivity and investment recovery. EU membership 3.67%, EEA/Swiss-type agreement 1.79%, deep free trade agreement 1.54%, customs union 1.26%, sectoral landing (veterinary agreement and mutual recognition) 0.85%."></p>
+<figcaption>Where the gains come from: long-run UK real-income gain relative to the TCA, by layer. Bars show goods trade, services trade, productivity and investment recovery net of its cost; brackets show the range when 22–93% of the investment shortfall is due to uncertainty; triangles show the total with the 2025 US tariffs and an EU tariff on all imports from China.</figcaption>
+</figure>
+</div>
+<table class="caption-top table">
+<caption>UK real-income gain relative to the TCA; £bn a year at 2025 GDP. A breakdown of the TCA (no deal, WTO terms) would cost 0.70% of real income, about £21 billion a year, from goods trade alone.</caption>
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Agreement</th>
+<th>Lower trade costs, goods and services</th>
+<th>Long run, with productivity and investment</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>EU membership</td>
+<td>+1.59%</td>
+<td>+3.67% (£112bn a year)</td>
+</tr>
+<tr class="even">
+<td>EEA/Swiss-type agreement</td>
+<td>+0.66%</td>
+<td>+1.79% (£54bn)</td>
+</tr>
+<tr class="odd">
+<td>Deep free trade agreement (“TCA Plus”)</td>
+<td>+0.74%</td>
+<td>+1.54% (£47bn)</td>
+</tr>
+<tr class="even">
+<td>Customs union</td>
+<td>+0.46%</td>
+<td>+1.26% (£38bn)</td>
+</tr>
+<tr class="odd">
+<td>Sectoral landing (veterinary agreement and mutual recognition)</td>
+<td>+0.30%</td>
+<td>+0.85% (£26bn)</td>
+</tr>
+</tbody>
+</table>
+<section id="key-findings" class="level2">
+<h2 class="anchored" data-anchor-id="key-findings">Key findings</h2>
+<ul>
+<li><strong>Membership gives the largest gain under every assumption tested</strong>: 1.6% of real income from lower trade costs in goods and services, and <strong>3.7%, about £112 billion a year</strong>, in the long run once productivity and the recovery of lost investment are counted. Lower trade costs alone would raise UK goods exports to the EU by about 40%.</li>
+<li><strong>The trade-cost gains are the best-measured part.</strong> Productivity and investment roughly double them but rest on judgements: if the 13.6% shortfall in business investment would have narrowed anyway under the TCA, membership would be worth 2.9%.</li>
+<li><strong>Legal permanence matters as well as depth.</strong> Agreements that are harder to undo bring back more of the investment held back by uncertainty. That is why an EEA/Swiss-type agreement ranks first among the partial options in 85% of the 5,751 combinations of assumptions tested.</li>
+<li><strong>Services access matters as much</strong>: an EEA-type agreement with full access is worth 2.34%, a Swiss-type agreement without it 1.25%.</li>
+<li><strong>A customs union ties the UK to EU trade policy.</strong> In goods trade it is level with an EEA/Swiss-type agreement (0.42% each), but if the EU taxed all of its imports from China at the US rate it would fall 0.29 percentage points behind, and unwinding the UK’s own trade agreements outside the EU could lower it further.</li>
+<li><strong>The gains take time; the 2025 US tariffs change little.</strong> If the UK re-joined in 2035, output would be 1.5% higher at accession and 2.8% higher by 2040, with about three-quarters of the long-run gain arriving by 2050.</li>
+</ul>
+</section>
+<section id="what-this-means-for-each-option" class="level2">
+<h2 class="anchored" data-anchor-id="what-this-means-for-each-option">What this means for each option</h2>
+<p>The paper does not recommend an option — that choice also turns on sovereignty, budget contributions, free movement and what the EU would agree, which the estimates do not price. It shows what each option is worth and which features would make it worth more.</p>
+<ul>
+<li><strong>Membership</strong> gives the largest gains under every assumption, and brings a vote on EU rules, budget contributions and free movement.</li>
+<li><strong>An EEA/Swiss-type agreement</strong> keeps UK trade policy independent. Its value rises with services access, and an EEA-type agreement is the stronger form.</li>
+<li><strong>A customs union</strong> is a conditional option: its value depends on EU trade policy towards third countries, over which the UK would have no vote.</li>
+<li><strong>A deeper TCA</strong> is strong on trade, but unless it is anchored in more permanent institutions it brings back less of the lost investment. The near-term reset agenda — the veterinary agreement, emissions-trading linkage and <a href="../../research/papers/mrca-streamlining-standards.html">mutual recognition of conformity assessment</a> — is worth banking while the longer-term choice is made.</li>
+<li><strong>Across all options</strong>, the government should compare the choices on the same basis, against the TCA, and report the better-measured gains from lower trade costs separately from the larger but less certain gains from productivity and investment.</li>
+</ul>
+</section>
+<section id="in-the-media" class="level2">
+<h2 class="anchored" data-anchor-id="in-the-media">In the media</h2>
+<ul>
+<li><a href="https://www.productivity.ac.uk/research/what-would-the-uk-gain-from-closer-ties-with-the-eu/">What would the UK gain from closer ties with the EU?</a> — <em>The Productivity Institute</em>, 20 November 2026.</li>
+<li><a href="https://www.ft.com/content/22c052bf-a9dc-49f3-a18b-02b5dc490635?syn-25a6b1a6=1"><em>Financial Times</em></a>, November 2026.</li>
+<li>Related commentary: <a href="https://www.productivity.ac.uk/news/the-options-are-familiar-the-world-around-them-is-not/">The options are familiar. The world around them is not.</a> — Jun Du, <em>The Productivity Institute</em> blog, 6 October 2026.</li>
+</ul>
+<p><strong>Working paper:</strong> The Productivity Institute Working Paper No.&nbsp;085 / Centre for Business Prosperity, Aston University, November 2026. With Jun Du.</p>
+<p><a href="../files/du-shepotylo-2026-uk-eu-closer-ties.pdf">Download the paper (PDF)</a> · <a href="https://www.productivity.ac.uk/research/what-would-the-uk-gain-from-closer-ties-with-the-eu/">The Productivity Institute page</a></p>
+
+
+<!-- -->
+
+</section>
+
+ ]]></description>
+  <category>brexit</category>
+  <category>consultancy</category>
+  <guid>https://shepotylo.com/research/papers/uk-eu-closer-ties-options.html</guid>
+  <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://shepotylo.com/research/files/du-shepotylo-2026-uk-eu-gains-by-layer.png" medium="image" type="image/png" height="82" width="144"/>
+</item>
 <item>
   <title>From pace-setter to laggard: Brexit and the British car industry</title>
   <dc:creator>Oleksandr Shepotylo</dc:creator>
@@ -547,27 +648,6 @@
   <category>brexit</category>
   <guid>https://shepotylo.com/blog/2023-07-30-gdp-blues-uk-slowdown/</guid>
   <pubDate>Sun, 30 Jul 2023 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>The impact of the Trade and Cooperation Agreement on UK trade</title>
-  <link>https://shepotylo.com/blog/2023-06-14-tca-impact-uk-trade/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>With Jun Du, this piece sets out econometric evidence that the Trade and Cooperation Agreement, in force since January 2021, is a major driver of the UK’s weak trade performance — not a neutral continuity arrangement. Exports to the EU came in 22.1% lower and imports 9.5% lower than a no-Brexit counterfactual would predict, and the UK lost an estimated 20–42% of its export product variety over the first fifteen months, with small firms in manufacturing regions hit hardest.</p>
-<p><strong>Originally published on UK in a Changing Europe</strong>, June 14, 2023.</p>
-<p><a href="https://ukandeu.ac.uk/the-impact-of-the-trade-and-cooperation-agreement-on-uk-trade/">Read the full piece →</a></p>
-
-
-<!-- -->
-
-
- ]]></description>
-  <category>brexit</category>
-  <guid>https://shepotylo.com/blog/2023-06-14-tca-impact-uk-trade/</guid>
-  <pubDate>Wed, 14 Jun 2023 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
