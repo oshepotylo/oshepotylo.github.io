@@ -1,7 +1,7 @@
 ---
 title: "What would the UK gain from closer ties with the EU? Trade, productivity and investment gains from deeper UK–EU integration"
 description: >-
-  **The Productivity Institute Working Paper No. 085, 2026. With Jun Du.**
+  **Centre for Business Prosperity / The Productivity Institute Working Paper, 2026. With Jun Du.**
   <details class="abstract-toggle"><summary onclick="event.preventDefault();
   event.stopPropagation(); this.closest('details').open =
   !this.closest('details').open;">Show abstract</summary>
@@ -95,8 +95,8 @@ features would make it worth more.
 - Related commentary: [The options are familiar. The world around them is not.](https://www.productivity.ac.uk/news/the-options-are-familiar-the-world-around-them-is-not/)
   — Jun Du, *The Productivity Institute* blog, 6 October 2026.
 
-**Working paper:** The Productivity Institute Working Paper No. 085 /
-Centre for Business Prosperity, Aston University, November 2026. With Jun Du.
+**Working paper:** Centre for Business Prosperity / The Productivity Institute
+Working Paper, November 2026. With Jun Du.
 
 [Download the paper (PDF)](../files/du-shepotylo-2026-uk-eu-closer-ties.pdf) ·
 [The Productivity Institute page](https://www.productivity.ac.uk/research/what-would-the-uk-gain-from-closer-ties-with-the-eu/)
