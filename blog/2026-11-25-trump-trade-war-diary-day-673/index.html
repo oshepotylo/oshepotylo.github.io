@@ -116,35 +116,6 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 }</script>
 <script data-goatcounter="https://shepotylo.goatcounter.com/count" async="" src="//gc.zgo.at/count.js"></script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="../../styles.css">
 </head>
@@ -342,13 +313,13 @@ window.Quarto = {
 <thead>
 <tr class="header">
 <th>Economy</th>
-<th style="text-align: right;">US imports 2025 (<span class="math inline">\(bn) | Proposed rate (%) | Alternative (%) | IEEPA rate, Jul 2025 (%) | Exempt: annex / S232 (% of imports) | Exposed to proposed rate (\)</span>bn)</th>
-<th style="text-align: right;">Sectors singled out</th>
-<th style="text-align: right;"></th>
-<th style="text-align: right;"></th>
-<th style="text-align: right;"></th>
-<th style="text-align: right;"></th>
-<th></th>
+<th style="text-align: right;">US imports 2025 ($bn)</th>
+<th style="text-align: right;">Proposed rate (%)</th>
+<th style="text-align: right;">Alternative (%)</th>
+<th style="text-align: right;">IEEPA rate, Jul 2025 (%)</th>
+<th style="text-align: right;">Exempt: annex / S232 (% of imports)</th>
+<th style="text-align: right;">Exposed to proposed rate ($bn)</th>
+<th>Sectors singled out</th>
 </tr>
 </thead>
 <tbody>
@@ -1168,7 +1139,7 @@ This is a saving-investment imbalance argument relabelled as an unfair trade pra
 <span id="cb1-24"><a href="#cb1-24" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>**Countries with a deal:** the alternative is a higher *fallback* rate, which applies if "ongoing consultations and existing commitments are unsatisfactory".</span>
 <span id="cb1-25"><a href="#cb1-25" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>**Countries without a deal (India, Vietnam, Singapore):** it works the other way round. The headline rate is the stick. A lower rate applies "were <span class="co">[</span><span class="ot">the country</span><span class="co">]</span> to reach an Agreement on Reciprocal Trade ... responsive to the determinations".</span>
 <span id="cb1-26"><a href="#cb1-26" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-27"><a href="#cb1-27" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Economy <span class="pp">|</span> US imports 2025 ($bn) <span class="pp">|</span> Proposed rate (%) <span class="pp">|</span> Alternative (%) <span class="pp">|</span> IEEPA rate, Jul 2025 (%) <span class="pp">|</span> Exempt: annex / S232 (% of imports) <span class="pp">|</span> Exposed to proposed rate ($bn) <span class="pp">|</span> Sectors singled out <span class="pp">|</span></span>
+<span id="cb1-27"><a href="#cb1-27" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Economy <span class="pp">|</span> US imports 2025 (\$bn) <span class="pp">|</span> Proposed rate (%) <span class="pp">|</span> Alternative (%) <span class="pp">|</span> IEEPA rate, Jul 2025 (%) <span class="pp">|</span> Exempt: annex / S232 (% of imports) <span class="pp">|</span> Exposed to proposed rate (\$bn) <span class="pp">|</span> Sectors singled out <span class="pp">|</span></span>
 <span id="cb1-28"><a href="#cb1-28" aria-hidden="true" tabindex="-1"></a><span class="pp">|---|---:|---:|---:|---:|---:|---:|---|</span></span>
 <span id="cb1-29"><a href="#cb1-29" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> European Union <span class="pp">|</span> 586.8 <span class="pp">|</span> 15<span class="sc">\*</span> <span class="pp">|</span> 20<span class="sc">\*</span> (fallback) <span class="pp">|</span> 15 <span class="pp">|</span> 51 / 16 <span class="pp">|</span> 189.6 <span class="pp">|</span> autos, chemicals, pharmaceuticals <span class="pp">|</span></span>
 <span id="cb1-30"><a href="#cb1-30" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> China <span class="pp">|</span> 292.5 <span class="pp">|</span> 20 (10 on Annex A) <span class="pp">|</span> 40 (fallback) <span class="pp">|</span> 20† <span class="pp">|</span> 8 / – <span class="pp">|</span> 270.0‡ <span class="pp">|</span> 22 sectors: steel, aluminium, EVs, batteries, chips, solar, ships, robotics, textiles... <span class="pp">|</span></span>

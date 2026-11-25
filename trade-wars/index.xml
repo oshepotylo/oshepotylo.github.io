@@ -250,10 +250,10 @@
 <thead>
 <tr class="header">
 <th style="text-align: left;">HS chapter</th>
-<th style="text-align: right;">UK exports to US, 2025 (<img src="https://latex.codecogs.com/png.latex?bn)%20%7C%20Gain,%20proposal%20(">m)</th>
+<th style="text-align: right;">UK exports to US, 2025 ($bn)</th>
+<th style="text-align: right;">Gain, proposal ($m)</th>
 <th style="text-align: right;">Gain, %</th>
 <th style="text-align: right;">Gain if talks fail ($m)</th>
-<th style="text-align: right;"></th>
 </tr>
 </thead>
 <tbody>
@@ -439,13 +439,13 @@
 <thead>
 <tr class="header">
 <th>Economy</th>
-<th style="text-align: right;">US imports 2025 (<img src="https://latex.codecogs.com/png.latex?bn)%20%7C%20Proposed%20rate%20(%25)%20%7C%20Alternative%20(%25)%20%7C%20IEEPA%20rate,%20Jul%202025%20(%25)%20%7C%20Exempt:%20annex%20/%20S232%20(%25%20of%20imports)%20%7C%20Exposed%20to%20proposed%20rate%20(">bn)</th>
-<th style="text-align: right;">Sectors singled out</th>
-<th style="text-align: right;"></th>
-<th style="text-align: right;"></th>
-<th style="text-align: right;"></th>
-<th style="text-align: right;"></th>
-<th></th>
+<th style="text-align: right;">US imports 2025 ($bn)</th>
+<th style="text-align: right;">Proposed rate (%)</th>
+<th style="text-align: right;">Alternative (%)</th>
+<th style="text-align: right;">IEEPA rate, Jul 2025 (%)</th>
+<th style="text-align: right;">Exempt: annex / S232 (% of imports)</th>
+<th style="text-align: right;">Exposed to proposed rate ($bn)</th>
+<th>Sectors singled out</th>
 </tr>
 </thead>
 <tbody>
