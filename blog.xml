@@ -10,7 +10,708 @@
 <atom:link href="https://shepotylo.com/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Commentary and analysis on trade policy, Brexit, and the war economy.</description>
 <generator>quarto-1.11.9</generator>
-<lastBuildDate>Fri, 13 Nov 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Section 301 “excess capacity” tariffs: the US, China and Vietnam lose, the UK gains, if it stays outside</title>
+  <dc:creator>Oleksandr Shepotylo</dc:creator>
+  <link>https://shepotylo.com/blog/2026-11-25-section-301-excess-capacity-uk/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Today USTR proposed country-wide tariffs on 14 economies under Section 301, on the grounds of “structural excess capacity”. (My <a href="../../blog/2026-11-25-trump-trade-war-diary-day-673/index.html">diary entry</a> covers what is in the notices.) The obvious next question is who gains and who loses. To answer it, I built the proposed tariffs product by product and ran them through a general-equilibrium (GE) trade model of 81 economies. I also ran 5,000 Monte Carlo draws to see how robust the results are.</p>
+<p>The short answer:</p>
+<ul>
+<li><strong>The US loses</strong>, in every scenario.</li>
+<li><strong>China and the Southeast Asian exporters that replaced it lose most.</strong></li>
+<li><strong>The EU roughly breaks even</strong> on income, but more displaced Asian goods head its way.</li>
+<li><strong>The UK, which is not on the list, gains a little.</strong> That holds only for as long as it stays off the list.</li>
+</ul>
+<section id="key-takeaways" class="level2">
+<h2 class="anchored" data-anchor-id="key-takeaways">Key takeaways</h2>
+<ul>
+<li><strong>It is a top-up, not a new wall.</strong> On average the proposal adds <strong>2.3pp</strong> to US import tariffs, mostly on China (+9.7pp) and Vietnam (+9.3pp). The EU gets about +1.6pp, and Japan and Korea less than 1pp.</li>
+<li><strong>The US loses in every scenario and in all 5,000 model runs.</strong> US real income falls by 0.03–0.06%, even after about <strong>$34bn a year</strong> of extra tariff revenue.</li>
+<li><strong>China loses 0.03–0.05%</strong>, and about twice that if talks fail and its rate rises to 40%. Vietnam (−0.5% to −0.8%) and Cambodia (−1.0% to −1.6%) lose far more.</li>
+<li><strong>The EU is roughly unaffected on income.</strong> But it faces <strong>$17–35bn</strong> of goods diverted from the US market, several times more than the UK.</li>
+<li><strong>The UK gains about £0.3–0.5bn a year (+0.010–0.016%).</strong> UK exports to the US rise by <strong>4.5–6%</strong>. The gain is positive in every model run.</li>
+<li><strong>The gains are in mid-tech manufacturing:</strong> machinery, scientific and medical instruments, electrical equipment, chemicals and plastics. Cars, steel and most pharmaceuticals are unaffected.</li>
+<li><strong>The risk is being drawn in.</strong> If the UK were added at 20%, the gain would turn into a loss, and UK exports to the US would fall by about 5%.</li>
+</ul>
+</section>
+<section id="a-top-up-not-a-new-wall" class="level2">
+<h2 class="anchored" data-anchor-id="a-top-up-not-a-new-wall">A top-up, not a new wall</h2>
+<p>The key to the numbers is a detail of the notices: every proposed rate is <em>net of existing Section 301 duties</em>. Since 24 July 2026, 60 economies, the UK among them, have paid a forced-labour Section 301 tariff of 10–12.5%. The new action uses exactly the same core exemption list. So for most targets it only <strong>tops up</strong> the duty they already pay to the new headline rate. The UK stays where it is.</p>
+<p>Take a product with a 2% MFN tariff that is covered by both actions:</p>
+<table class="caption-top table">
+<caption>Total US tariff (MFN + Section 301) on an illustrative covered product with 2% MFN, %. Sources: forced-labour Section 301 tiers (91 FR 47717) and the proposed rates in the USTR notices of 25 November 2026.</caption>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Exporter</th>
+<th style="text-align: right;">Today</th>
+<th style="text-align: right;">Under the proposal</th>
+<th style="text-align: right;">Gap to the UK</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>United Kingdom</strong></td>
+<td style="text-align: right;"><strong>12</strong></td>
+<td style="text-align: right;"><strong>12</strong></td>
+<td style="text-align: right;">–</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">EU</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">15</td>
+<td style="text-align: right;">+3</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Japan, Korea, Switzerland</td>
+<td style="text-align: right;">12.5</td>
+<td style="text-align: right;">15</td>
+<td style="text-align: right;">+3</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Thailand, Malaysia, Indonesia, Cambodia</td>
+<td style="text-align: right;">12–14.5</td>
+<td style="text-align: right;">20</td>
+<td style="text-align: right;">+8</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">China</td>
+<td style="text-align: right;">14.5</td>
+<td style="text-align: right;">22</td>
+<td style="text-align: right;">+10</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">India</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">27</td>
+<td style="text-align: right;">+15</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Vietnam</td>
+<td style="text-align: right;">14.5</td>
+<td style="text-align: right;">37</td>
+<td style="text-align: right;">+25</td>
+</tr>
+</tbody>
+</table>
+<p><strong>On covered goods, the UK goes from paying 2pp more than EU exporters to paying 3pp less.</strong> Against Asian suppliers, the UK’s advantage widens to between 8 and 25 points.</p>
+<p>“Covered” is a big qualifier. Almost half of what the US buys from the 14 economies is exempt through the product annex: pharmaceuticals, civil aircraft, energy, smartphones and computers. Cars, steel, aluminium and the other Section 232 goods are also carved out, for every target except China. Only about 41% of these imports face the new rates, which is why the trade-weighted increases are much smaller than the headline rates.</p>
+</section>
+<section id="winners-and-losers-around-the-world" class="level2">
+<h2 class="anchored" data-anchor-id="winners-and-losers-around-the-world">Winners and losers around the world</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://shepotylo.com/blog/2026-11-25-section-301-excess-capacity-uk/images/fig_ge_welfare_by_economy.png" class="img-fluid figure-img" alt="Dot chart of real-income changes by economy for three scenarios: proposal, deals signed and talks fail. Mexico, Canada and the UK gain; Cambodia, Vietnam and Malaysia lose most; the US and China lose in all three scenarios; the EU, Japan and Switzerland are close to zero."></p>
+<figcaption>Welfare effect by economy under three eventualities</figcaption>
+</figure>
+</div>
+<p>Where I give a single number below, it is the central calibration. Ranges run from the Monte Carlo median to the central estimate.</p>
+<section id="the-united-states-paying-for-its-own-tariffs" class="level3">
+<h3 class="anchored" data-anchor-id="the-united-states-paying-for-its-own-tariffs">The United States: paying for its own tariffs</h3>
+<p>The US is the clearest loser.</p>
+<ul>
+<li><strong>Under the proposal</strong>, US real income falls by <strong>0.03–0.06%</strong>. That is despite about <strong>$34bn a year of extra tariff revenue</strong>: the higher prices US buyers pay for imports outweigh the revenue.</li>
+<li><strong>If talks fail</strong> and the fallback rates kick in (China at 40%, Korea, Taiwan and ASEAN at 25%), the loss doubles to <strong>0.13%</strong>, even though revenue rises to $52bn.</li>
+<li><strong>If China and the EU retaliate</strong>, the loss grows to <strong>0.20%</strong>.</li>
+<li><strong>The US loses in every scenario and in every one of the 5,000 draws.</strong></li>
+</ul>
+<p>The new tariffs mostly re-label duties that the Supreme Court struck down in February. A new legal basis does not change their economics.</p>
+</section>
+<section id="china-and-its-replacements" class="level3">
+<h3 class="anchored" data-anchor-id="china-and-its-replacements">China and its replacements</h3>
+<p>China loses <strong>0.03–0.05%</strong> of real income under the proposal. If talks fail and the 40% fallback applies to all Chinese goods, the loss rises to <strong>0.08–0.10%</strong>, and to 0.09–0.13% if China retaliates.</p>
+<p>But China is not the biggest loser in proportional terms. Between January–May 2024 and January–May 2026, China’s share of US imports fell from 12.6% to 7.3%. Over the same period the other twelve targets rose from 26.7% to 36.4%. This is exactly the relocation that the “failure to address global excess capacity” findings take aim at, and the costs fall on the economies that took China’s place:</p>
+<ul>
+<li><strong>Cambodia</strong> loses <strong>1.6%</strong>. Its exports are apparel with nothing in the exemption annex.</li>
+<li><strong>Vietnam</strong> loses <strong>0.8%</strong> at the proposed 35%. If it signs a deal and gets 20% instead, the loss falls to 0.2%.</li>
+<li><strong>Malaysia</strong> (−0.14%) and <strong>Indonesia</strong> (−0.07%) lose too.</li>
+</ul>
+<p>The biggest winners are the US’s neighbours left out of the action: <strong>Mexico (+0.20%)</strong>, whose determination is pending, and <strong>Canada (+0.06%)</strong>.</p>
+</section>
+<section id="the-eu-little-change-on-income-more-pressure-on-imports" class="level3">
+<h3 class="anchored" data-anchor-id="the-eu-little-change-on-income-more-pressure-on-imports">The EU: little change on income, more pressure on imports</h3>
+<p>The EU’s headline rate is unchanged at 15% all-in. In practice, it moves from the forced-labour cap of 10% to 15% on covered goods. Only about a third of EU exports to the US are exposed, so the trade-weighted increase is about 1.6pp.</p>
+<ul>
+<li><strong>Income barely moves.</strong> The central estimate is −0.004%, and the Monte Carlo median is essentially zero, with gains and losses equally likely.</li>
+<li><strong>Germany (−0.010%) and France (−0.013%)</strong> lose a little. Ireland gains a little (+0.013%): most of its exports are exempt, so its tariff rises less than its competitors’.</li>
+<li><strong>Retaliation hurts the EU most.</strong> If talks fail, the EU loses 0.012%. If it then suspends its 2026 tariff concessions on US goods and retaliates, it loses about 0.04%.</li>
+</ul>
+<p>The bigger issue for Brussels is <strong>trade deflection</strong>. Chinese and Vietnamese goods priced out of the US market need to go somewhere. I estimate that <strong>$17bn (proposal) to $35bn (talks fail)</strong> could be redirected to the EU, equal to 1.1–2.2% of its imports from the 14 targets. This is several times what the UK faces.</p>
+</section>
+</section>
+<section id="the-uk-winning-by-standing-still" class="level2">
+<h2 class="anchored" data-anchor-id="the-uk-winning-by-standing-still">The UK: winning by standing still</h2>
+<p>The UK is not targeted, and it already pays the forced-labour 10%. Its exporters therefore gain a preference margin over almost every competitor in the US market, without the UK doing anything.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://shepotylo.com/blog/2026-11-25-section-301-excess-capacity-uk/images/fig_ge_uk_welfare.png" class="img-fluid figure-img" alt="Bar chart of the change in UK real income under six scenarios. Proposal +0.016%, deals signed +0.012%, talks fail +0.030%, escalation +0.018%, UK drawn in at 15% +0.002%, UK drawn in at 20% −0.010%."></p>
+<figcaption>UK welfare by scenario</figcaption>
+</figure>
+</div>
+<table class="caption-top table">
+<caption>UK outcomes relative to the tariff regime in force on 25 November 2026. Medians of 5,000 Monte Carlo draws. GE structural-gravity model, 81 economies, 2025 baseline.</caption>
+<colgroup>
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Scenario</th>
+<th style="text-align: right;">UK real income, % (median)</th>
+<th style="text-align: right;">£bn a year (median)</th>
+<th style="text-align: right;">UK exports to the US, % (median)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Proposal as published</td>
+<td style="text-align: right;">+0.010</td>
+<td style="text-align: right;">+0.30</td>
+<td style="text-align: right;">+4.5</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Deals signed (India 17%, Vietnam 20%, Singapore 10%)</td>
+<td style="text-align: right;">+0.008</td>
+<td style="text-align: right;">+0.23</td>
+<td style="text-align: right;">+3.5</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Talks fail (fallback rates, China 40%)</td>
+<td style="text-align: right;">+0.021</td>
+<td style="text-align: right;">+0.63</td>
+<td style="text-align: right;">+9.8</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Escalation (China and the EU retaliate)</td>
+<td style="text-align: right;">+0.012</td>
+<td style="text-align: right;">+0.37</td>
+<td style="text-align: right;">+6.5</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">UK drawn in at 15%</td>
+<td style="text-align: right;">+0.004</td>
+<td style="text-align: right;">+0.12</td>
+<td style="text-align: right;">+0.6</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">UK drawn in at 20%</td>
+<td style="text-align: right;">−0.004</td>
+<td style="text-align: right;">−0.13</td>
+<td style="text-align: right;">−4.7</td>
+</tr>
+</tbody>
+</table>
+<p>The main points:</p>
+<ul>
+<li><strong>The gain is small but robust.</strong> Under the proposal, UK real income rises by 0.010% at the median, about <strong>£0.3bn a year</strong>. In the central calibration the gain is 0.016% (£0.5bn), and it is positive in all 5,000 draws.</li>
+<li><strong>It works through two channels.</strong>
+<ul>
+<li>US buyers switch from Chinese and Vietnamese suppliers to UK goods. UK exports to the US rise by 4.5% at the median and 6% (about <strong>£2.8bn</strong>) in the central run.</li>
+<li>Asian goods priced out of the US flow to the UK instead. Imports from China rise by about 1.4–1.6%, and UK consumer prices fall slightly.</li>
+</ul></li>
+<li><strong>UK exports to the EU dip</strong> by about 0.35–0.5%, as some UK output is diverted to the US.</li>
+<li><strong>If talks fail, the gain doubles</strong> to about 0.02–0.03% (£0.6–0.9bn). This is the UK’s best case, but it comes with the largest fall in world income.</li>
+<li><strong>Being drawn in is the main risk.</strong> A UK determination at 15% would add only 5pp on covered goods, because the UK already pays 10%. Even so, it would wipe out most of the gain. At 20% the result turns negative: UK real income falls slightly and UK exports to the US fall by about 5%.</li>
+</ul>
+<p>One caveat matters. The welfare gain depends on how the model treats trade imbalances. If trade deficits scale with output instead of staying fixed, it shrinks to about 0.002%. The trade diversion does not depend on this: <strong>UK exports to the US rise by about 6–9% under every set of assumptions I tested.</strong></p>
+</section>
+<section id="which-uk-products-gain" class="level2">
+<h2 class="anchored" data-anchor-id="which-uk-products-gain">Which UK products gain</h2>
+<p>To see where the gains land, I used a product-level model at HS 6-digit level. US spending on each product is fixed, and buyers switch between suppliers as relative tariffs change. This model agrees with the GE model. UK exports to the US rise by <strong>$3.4bn (+6.2%)</strong> under the proposal, from a 2025 base of $54.8bn, and by $7.6bn if talks fail.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://shepotylo.com/blog/2026-11-25-section-301-excess-capacity-uk/images/fig_pe_uk_gains_by_chapter.png" class="img-fluid figure-img" alt="Horizontal bar chart of the change in UK exports to the US by HS chapter under the proposal and talks-fail scenarios. Machinery leads with about $690m (proposal) and $1.5bn (talks fail), followed by optical and medical instruments, electrical machinery, plastics, organic chemicals and chemical products."></p>
+<figcaption>Where UK exporters pick up share in the US market</figcaption>
+</figure>
+</div>
+<table class="caption-top table">
+<caption>UK exports to the US, largest gains by HS chapter. Product-level model, US$, 2025 values.</caption>
+<colgroup>
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">HS chapter</th>
+<th style="text-align: right;">UK exports to US, 2025 (<img src="https://latex.codecogs.com/png.latex?bn)%20%7C%20Gain,%20proposal%20(">m)</th>
+<th style="text-align: right;">Gain, %</th>
+<th style="text-align: right;">Gain if talks fail ($m)</th>
+<th style="text-align: right;"></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">84 Machinery and mechanical appliances</td>
+<td style="text-align: right;">12.3</td>
+<td style="text-align: right;">+690</td>
+<td style="text-align: right;">+5.6</td>
+<td style="text-align: right;">+1,489</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">90 Optical, measuring and medical instruments</td>
+<td style="text-align: right;">3.4</td>
+<td style="text-align: right;">+421</td>
+<td style="text-align: right;">+12.3</td>
+<td style="text-align: right;">+920</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">85 Electrical machinery and equipment</td>
+<td style="text-align: right;">3.8</td>
+<td style="text-align: right;">+377</td>
+<td style="text-align: right;">+10.0</td>
+<td style="text-align: right;">+835</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">38 Chemical products n.e.c. (incl.&nbsp;diagnostic reagents)</td>
+<td style="text-align: right;">1.1</td>
+<td style="text-align: right;">+187</td>
+<td style="text-align: right;">+17.1</td>
+<td style="text-align: right;">+385</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">39 Plastics and articles thereof</td>
+<td style="text-align: right;">1.1</td>
+<td style="text-align: right;">+162</td>
+<td style="text-align: right;">+15.4</td>
+<td style="text-align: right;">+399</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">29 Organic chemicals</td>
+<td style="text-align: right;">0.9</td>
+<td style="text-align: right;">+161</td>
+<td style="text-align: right;">+18.5</td>
+<td style="text-align: right;">+392</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">94 Furniture</td>
+<td style="text-align: right;">1.0</td>
+<td style="text-align: right;">+137</td>
+<td style="text-align: right;">+14.0</td>
+<td style="text-align: right;">+298</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">30 Pharmaceutical products</td>
+<td style="text-align: right;">5.4</td>
+<td style="text-align: right;">+121</td>
+<td style="text-align: right;">+2.2</td>
+<td style="text-align: right;">+293</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">33 Cosmetics and perfumery</td>
+<td style="text-align: right;">0.5</td>
+<td style="text-align: right;">+73</td>
+<td style="text-align: right;">+14.9</td>
+<td style="text-align: right;">+178</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">49 Printed books and other printed matter</td>
+<td style="text-align: right;">0.4</td>
+<td style="text-align: right;">+73</td>
+<td style="text-align: right;">+17.7</td>
+<td style="text-align: right;">+196</td>
+</tr>
+</tbody>
+</table>
+<p>The pattern is clear. <strong>UK gains are biggest where it competes head-on with Chinese and Vietnamese suppliers, in goods that are neither exempt nor under Section 232.</strong> In the products where UK exporters gain, Chinese suppliers lose about $47bn of US sales and Vietnamese suppliers about $27bn. The UK picks up a slice of that. At the product level, the largest gains are in:</p>
+<ul>
+<li><strong>diagnostic and laboratory reagents:</strong> +$132m (+18%);</li>
+<li><strong>printed matter:</strong> books, brochures, leaflets, +$60m (+19%);</li>
+<li><strong>diesel engines:</strong> +$57m (+7%);</li>
+<li><strong>taps, valves and similar appliances:</strong> +$54m (+20%);</li>
+<li><strong>electrical machines and apparatus:</strong> +$46m (+14%);</li>
+<li><strong>plastic articles:</strong> +$38m (+18%), and <strong>cosmetics:</strong> +$32m (+14%);</li>
+<li><strong>medical technology:</strong> prosthetics (+$31m, +24%), lasers (+$31m, +17%), medical and surgical instruments (+$27m), optical analysis instruments (+$24m, +20%);</li>
+<li><strong>television cameras:</strong> +$27m (+36%), and <strong>gas filtration machinery:</strong> +$22m (+15%).</li>
+</ul>
+<p><strong>What hardly moves.</strong> Several of the UK’s largest exports to the US gain only 1–2%: cars ($8.2bn), pharmaceuticals ($5.4bn) and aircraft and parts ($2.4bn). Competitors’ cars, medicines and aircraft parts are also exempt or already under Section 232, so the new tariffs give the UK little extra advantage there.</p>
+</section>
+<section id="the-flip-side-goods-deflected-to-the-uk" class="level2">
+<h2 class="anchored" data-anchor-id="the-flip-side-goods-deflected-to-the-uk">The flip side: goods deflected to the UK</h2>
+<p>The same price wedge that helps UK exporters in the US also pushes Asian goods towards the UK. I estimate that <strong>$3bn (proposal) to $5bn (talks fail)</strong> of displaced sales could be redirected to the UK. That is only 0.4–0.7% of UK imports, and almost all of it comes from China and Vietnam.</p>
+<p>The aggregate is small, but it is concentrated in a few product lines. If talks fail, the redirected volume reaches roughly 10–40% of UK imports in:</p>
+<ul>
+<li><strong>plastic builders’ ware, shutters and blinds</strong> from Vietnam (41% of UK imports of the product);</li>
+<li><strong>candles</strong> (15%) and <strong>concrete and artificial-stone articles</strong> (12%) from Vietnam;</li>
+<li><strong>hearing aids</strong> from Vietnam (10%). UK imports from Vietnam were already up 36% in January–May 2026;</li>
+<li><strong>hosiery</strong> and <strong>medical furniture</strong> from China (about 10% each);</li>
+<li><strong>wooden office furniture</strong> from Vietnam (10%). Imports were already up 69% in January–May 2026;</li>
+<li><strong>electric fans</strong> from China (9%). Imports were already up 94% in January–May 2026.</li>
+</ul>
+<p>These are upper-bound estimates. Even so, these lines belong on a Trade Remedies Authority watch-list.</p>
+</section>
+<section id="what-it-means-for-the-uk" class="level2">
+<h2 class="anchored" data-anchor-id="what-it-means-for-the-uk">What it means for the UK</h2>
+<ol type="1">
+<li><strong>Staying outside the net is the main UK interest, but the stakes are modest.</strong> The proposal is worth about £0.3–0.5bn a year. Being drawn in at 20% would turn that into a small loss.
+<ul>
+<li>USTR has shown that it can add economies: the forced-labour Section 301 already covers the UK, and Mexico and Norway are pending.</li>
+<li>Before the 5 January deadline, the UK should argue on the record that it does not fit the profile these investigations are built on: persistent surpluses and low capacity utilisation. The UK runs a large goods deficit and has a small manufacturing share.</li>
+</ul></li>
+<li><strong>The gain is a preference margin, and margins erode.</strong> Every competitor that cuts its rate through a deal, or wins product exclusions, takes some of it back. UK exporters of machinery, instruments and chemicals should prepare for the exclusion process.</li>
+<li><strong>UK–EU coordination on trade defence makes sense.</strong> The EU faces several times the UK’s deflection pressure. Joint monitoring makes more sense than separate safeguards, especially for steel, aluminium and other sensitive products.</li>
+<li><strong>The US is the biggest loser.</strong> The new tariffs mainly re-label duties that the Supreme Court struck down, and the US is worse off in every scenario.</li>
+</ol>
+</section>
+<section id="full-analysis" class="level2">
+<h2 class="anchored" data-anchor-id="full-analysis">Full analysis</h2>
+<p>The full report has the scenario design, product-level tariff construction, methodology, Monte Carlo and sensitivity results, deflection tables and caveats:</p>
+<p><strong><a href="s301_excess_capacity_UK.html">Section 301 “structural excess capacity” tariffs: what they entail and what they mean for the UK (full report, HTML)</a></strong></p>
+</section>
+<section id="data-and-methods" class="level2">
+<h2 class="anchored" data-anchor-id="data-and-methods">Data and methods</h2>
+<ul>
+<li><strong>Tariffs.</strong> I built the tariffs bottom-up at HS 6-digit level from the 14 USTR pre-publication notices and their annexes. I combined them with the forced-labour Section 301 tiers (91 FR 47717) and the official Section 232 product lists. The regime in force today comes from GTA’s modelled US tariff estimates. Tariffs that China, the EU and Canada now apply to US goods are included in every scenario.</li>
+<li><strong>GE model.</strong> A universal-gravity model (Allen, Arkolakis and Takahashi, 2020) of 81 economies, calibrated to 2025 bilateral goods trade from Trade Data Monitor. It excludes precious metals and uses θ = 5.14.</li>
+<li><strong>Uncertainty.</strong> I ran 5,000 Monte Carlo draws on Aston’s TAURUS cluster. They vary the trade and supply elasticities, how close the final rates come to the “up to” ceilings, the exemption mapping, Section 232 coverage and the weighting year.</li>
+<li><strong>Money values.</strong> £ figures apply the percentage changes to ONS 2025 GDP.</li>
+<li><strong>Caveats.</strong>
+<ul>
+<li>The GE model has one sector and no dynamics.</li>
+<li>The final rates may be lower than the “up to” ceilings, and product exclusions will follow.</li>
+<li>The deflection estimates are upper bounds.</li>
+<li>The notices are pre-publication versions.</li>
+</ul></li>
+</ul>
+
+
+<!-- -->
+
+</section>
+
+ ]]></description>
+  <category>trade-wars</category>
+  <category>uk-trade</category>
+  <category>section-301</category>
+  <guid>https://shepotylo.com/blog/2026-11-25-section-301-excess-capacity-uk/</guid>
+  <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://shepotylo.com/blog/2026-11-25-section-301-excess-capacity-uk/images/fig_ge_uk_welfare.png" medium="image" type="image/png" height="83" width="144"/>
+</item>
+<item>
+  <title>Trump Trade War Diary — Day 673</title>
+  <dc:creator>Oleksandr Shepotylo</dc:creator>
+  <link>https://shepotylo.com/blog/2026-11-25-trump-trade-war-diary-day-673/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><strong>Topic:</strong> Section 301 “structural excess capacity” determinations, the legal rebuild of the reciprocal tariffs.</p>
+<p>Eight and a half months ago USTR launched sixteen Section 301 investigations (<a href="../../blog/2026-03-11-trump-trade-war-diary-day-414/index.html">Day 414</a>). Today USTR Jamieson Greer <a href="https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural">announced</a> determinations for 14 of the 16 economies. In every one of them, the acts, policies and practices “relating to structural excess capacity and production in manufacturing sectors” are found to be <strong>unreasonable and to burden or restrict U.S. commerce</strong>. That makes them actionable under Section 301(b).</p>
+<p>Mexico and Norway got no determination “at this time”. Mexico is the largest single-country supplier of US imports ($517bn in 2025), so leaving it out is a political choice, not an analytical one. The process drew more than 1,070 written comments, and nearly 140 witnesses testified at the hearings of May 5–8, 2026.</p>
+<p>Greer’s framing: trading partners pursued “industrial strategies built on targeting manufacturing, wage and labor suppression…”. The President therefore proposes action “to bring about the elimination of these unfair acts, policies, and practices.”</p>
+<p>The press release gives only the headline rates. The real content is in the 14 pre-publication Federal Register notices (FRNs) and their product annexes. I downloaded all of them and went through them line by line. The numbers below are my own calculations from the FRNs and 2025 US trade data.</p>
+<section id="what-is-proposed" class="level2">
+<h2 class="anchored" data-anchor-id="what-is-proposed">What is proposed</h2>
+<p>Each action is a tariff of “up to” X% on <strong>all goods</strong> from the economy, minus a list of exemptions. Each FRN also contains something the press release leaves out: an <strong>alternative rate</strong>.</p>
+<ul>
+<li><strong>Countries with a deal:</strong> the alternative is a higher <em>fallback</em> rate, which applies if “ongoing consultations and existing commitments are unsatisfactory”.</li>
+<li><strong>Countries without a deal (India, Vietnam, Singapore):</strong> it works the other way round. The headline rate is the stick. A lower rate applies “were [the country] to reach an Agreement on Reciprocal Trade … responsive to the determinations”.</li>
+</ul>
+<table class="caption-top table">
+<caption>The 14 proposed Section 301 actions at a glance.</caption>
+<colgroup>
+<col style="width: 10%">
+<col style="width: 13%">
+<col style="width: 13%">
+<col style="width: 13%">
+<col style="width: 13%">
+<col style="width: 13%">
+<col style="width: 13%">
+<col style="width: 10%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Economy</th>
+<th style="text-align: right;">US imports 2025 (<img src="https://latex.codecogs.com/png.latex?bn)%20%7C%20Proposed%20rate%20(%25)%20%7C%20Alternative%20(%25)%20%7C%20IEEPA%20rate,%20Jul%202025%20(%25)%20%7C%20Exempt:%20annex%20/%20S232%20(%25%20of%20imports)%20%7C%20Exposed%20to%20proposed%20rate%20(">bn)</th>
+<th style="text-align: right;">Sectors singled out</th>
+<th style="text-align: right;"></th>
+<th style="text-align: right;"></th>
+<th style="text-align: right;"></th>
+<th style="text-align: right;"></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>European Union</td>
+<td style="text-align: right;">586.8</td>
+<td style="text-align: right;">15*</td>
+<td style="text-align: right;">20* (fallback)</td>
+<td style="text-align: right;">15</td>
+<td style="text-align: right;">51 / 16</td>
+<td style="text-align: right;">189.6</td>
+<td>autos, chemicals, pharmaceuticals</td>
+</tr>
+<tr class="even">
+<td>China</td>
+<td style="text-align: right;">292.5</td>
+<td style="text-align: right;">20 (10 on Annex A)</td>
+<td style="text-align: right;">40 (fallback)</td>
+<td style="text-align: right;">20†</td>
+<td style="text-align: right;">8 / –</td>
+<td style="text-align: right;">270.0‡</td>
+<td>22 sectors: steel, aluminium, EVs, batteries, chips, solar, ships, robotics, textiles…</td>
+</tr>
+<tr class="odd">
+<td>Taiwan</td>
+<td style="text-align: right;">198.4</td>
+<td style="text-align: right;">15*</td>
+<td style="text-align: right;">25 (fallback)</td>
+<td style="text-align: right;">20</td>
+<td style="text-align: right;">84 / 6</td>
+<td style="text-align: right;">20.3</td>
+<td>electronics, semiconductors, telecoms</td>
+</tr>
+<tr class="even">
+<td>Vietnam</td>
+<td style="text-align: right;">191.7</td>
+<td style="text-align: right;">35</td>
+<td style="text-align: right;">20 (if deal)</td>
+<td style="text-align: right;">20</td>
+<td style="text-align: right;">53 / 6</td>
+<td style="text-align: right;">78.8</td>
+<td>textiles, apparel, footwear, shipbuilding, cement, ICT</td>
+</tr>
+<tr class="odd">
+<td>Japan</td>
+<td style="text-align: right;">140.2</td>
+<td style="text-align: right;">15*</td>
+<td style="text-align: right;">20* (fallback)</td>
+<td style="text-align: right;">15</td>
+<td style="text-align: right;">28 / 44</td>
+<td style="text-align: right;">39.7</td>
+<td>autos, steel, semiconductors, optical fibre</td>
+</tr>
+<tr class="even">
+<td>Korea</td>
+<td style="text-align: right;">121.7</td>
+<td style="text-align: right;">15*</td>
+<td style="text-align: right;">25* (fallback)</td>
+<td style="text-align: right;">15</td>
+<td style="text-align: right;">35 / 44</td>
+<td style="text-align: right;">25.6</td>
+<td>autos, semiconductors, petrochemicals</td>
+</tr>
+<tr class="odd">
+<td>India</td>
+<td style="text-align: right;">101.4</td>
+<td style="text-align: right;">25</td>
+<td style="text-align: right;">17 (if deal)</td>
+<td style="text-align: right;">25</td>
+<td style="text-align: right;">52 / 11</td>
+<td style="text-align: right;">38.1</td>
+<td>pharma, medical devices, steel, solar, ICT</td>
+</tr>
+<tr class="even">
+<td>Thailand</td>
+<td style="text-align: right;">90.3</td>
+<td style="text-align: right;">18</td>
+<td style="text-align: right;">25 (fallback)</td>
+<td style="text-align: right;">19</td>
+<td style="text-align: right;">61 / 12</td>
+<td style="text-align: right;">24.6</td>
+<td>electronics, autos, machinery, electrical equipment</td>
+</tr>
+<tr class="odd">
+<td>Malaysia</td>
+<td style="text-align: right;">57.2</td>
+<td style="text-align: right;">18</td>
+<td style="text-align: right;">25 (fallback)</td>
+<td style="text-align: right;">19</td>
+<td style="text-align: right;">63 / 7</td>
+<td style="text-align: right;">17.2</td>
+<td>ICT, autos</td>
+</tr>
+<tr class="even">
+<td>Switzerland</td>
+<td style="text-align: right;">41.7</td>
+<td style="text-align: right;">15*</td>
+<td style="text-align: right;">20* (fallback)</td>
+<td style="text-align: right;">39</td>
+<td style="text-align: right;">59 / 3</td>
+<td style="text-align: right;">15.9</td>
+<td>pharmaceuticals, steel, chemicals</td>
+</tr>
+<tr class="odd">
+<td>Indonesia</td>
+<td style="text-align: right;">34.4</td>
+<td style="text-align: right;">18</td>
+<td style="text-align: right;">25 (fallback)</td>
+<td style="text-align: right;">19</td>
+<td style="text-align: right;">25 / 8</td>
+<td style="text-align: right;">23.1</td>
+<td>textiles, apparel, mining &amp; metals, renewables</td>
+</tr>
+<tr class="even">
+<td>Singapore</td>
+<td style="text-align: right;">31.4</td>
+<td style="text-align: right;">20</td>
+<td style="text-align: right;">10 (if deal)</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">63 / 2</td>
+<td style="text-align: right;">10.8</td>
+<td>electronics, semiconductors, health, petrochemicals</td>
+</tr>
+<tr class="odd">
+<td>Cambodia</td>
+<td style="text-align: right;">15.1</td>
+<td style="text-align: right;">18</td>
+<td style="text-align: right;">25 (fallback)</td>
+<td style="text-align: right;">19</td>
+<td style="text-align: right;">4 / 11</td>
+<td style="text-align: right;">12.9</td>
+<td>apparel, solar, tyres</td>
+</tr>
+<tr class="even">
+<td>Bangladesh</td>
+<td style="text-align: right;">9.3</td>
+<td style="text-align: right;">18</td>
+<td style="text-align: right;">20 (fallback)</td>
+<td style="text-align: right;">20</td>
+<td style="text-align: right;">0 / 0</td>
+<td style="text-align: right;">9.3</td>
+<td>ready-made garments</td>
+</tr>
+<tr class="odd">
+<td><strong>Total, 14 economies</strong></td>
+<td style="text-align: right;"><strong>1,912.2</strong></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"><strong>775.9</strong></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>* All-in rate, “net of MFN rates and existing Section 301 tariffs” (as in the 15% EU/Japan/Korea deals). The other rates are additional to MFN and net of existing Section 301 duties only. Taiwan’s 25% fallback is net of Section 301 only. † China: 10% reciprocal + 10% fentanyl after the Kuala Lumpur arrangement (EO 14358, Nov 2025). ‡ China: $167.5bn at the 20% rate plus $102.5bn of Annex A goods at 10%.</p>
+<p><em>Sources:</em> USTR pre-publication FRNs (25 Nov 2026); EO of 31 Jul 2025, Annex I. US imports are from TDM (HS6, 2025), excluding precious metals (7106, 7108, 7110, 7112, 7115) and special provisions (ch.&nbsp;98–99). Annex exemptions are weighted by HTS-8 line shares within each HS6. Section 232 coverage comes from the official product lists.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://shepotylo.com/blog/2026-11-25-trump-trade-war-diary-day-673/images/s301_ec_rates_Nov2026.png" class="img-fluid figure-img" alt="Dot chart of the 14 economies showing the proposed Section 301 rate, the fallback or deal rate, and the July 2025 IEEPA rate. Most proposed rates sit exactly on the old IEEPA deal rates: 15% for the EU, Japan, Korea and Taiwan, 20% for China, 18% for the ASEAN partners."></p>
+<figcaption>Proposed Section 301 rates vs the struck-down IEEPA rates</figcaption>
+</figure>
+</div>
+<p>The chart makes the main point clear. <strong>The “remedies” are the reciprocal-tariff deals, moved to a new legal basis.</strong></p>
+<ul>
+<li><strong>EU, Japan and Korea</strong> get 15% all-in, exactly their 2025 framework rate.</li>
+<li><strong>Switzerland</strong> gets 15%. That is its November 2025 framework rate, not the punitive 39%.</li>
+<li><strong>Taiwan</strong> gets 15%, per the February 2026 Agreement on Reciprocal Trade.</li>
+<li><strong>China</strong> gets 20%. The FRN says explicitly that this “accounts for the commitments and 20 percent tariff rate announced as part of the Kuala Lumpur Joint Arrangement”.</li>
+<li><strong>Thailand, Malaysia, Indonesia and Cambodia</strong> all have deals or frameworks, and they get 18%. That is one point below their old 19%, a small sweetener for having signed.</li>
+</ul>
+<p>Each FRN footnotes the relevant bilateral agreement. The diagnosis is supposedly the same “structural excess capacity” everywhere, yet the rate follows deal status, not any measure of the harm. A Section 301 remedy is supposed to be set at whatever level gets the practice eliminated. These rates simply repeat the price agreed in the last negotiation.</p>
+</section>
+<section id="what-is-exempted" class="level2">
+<h2 class="anchored" data-anchor-id="what-is-exempted">What is exempted</h2>
+<p>The exemption annexes are close to identical across economies:</p>
+<ul>
+<li><strong>A common core of 2,114 HTS-8 lines</strong> appears unchanged in the annexes for Japan, Korea, India, Singapore, Thailand and Vietnam. China’s <strong>Annex A is exactly the same list</strong>, but for China it is a 10% tier, not an exemption.
+<ul>
+<li>The EU gets 44 extra lines.</li>
+<li>Countries with signed agreements (Bangladesh, Cambodia, Indonesia, Malaysia, Taiwan, Switzerland) get 86–156 extra lines. These are mostly agricultural products and inputs from their agreements.</li>
+</ul></li>
+<li><strong>The core list is essentially the old IEEPA Annex II plus later additions.</strong> It covers:
+<ul>
+<li>pharmaceuticals and their chemical inputs (641 lines in HS29 alone, roughly 700 lines restricted to pharmaceutical use);</li>
+<li>civil aircraft and parts (roughly 550 lines restricted to civil aircraft);</li>
+<li>energy (HS27), critical minerals and metals, and gold;</li>
+<li>tropical agricultural products (coffee, spices, fruit, beef);</li>
+<li><strong>the electronics exemption of April 2025:</strong> computers (8471), smartphones (8517.13), network equipment and chips.</li>
+</ul></li>
+<li><strong>All economies except China also get a carve-out for goods already under Section 232.</strong> These are steel, aluminium, copper, passenger vehicles and light trucks, medium and heavy trucks and their parts, wood products, patented pharmaceuticals and semiconductors. <strong>The China FRN contains no Section 232 carve-out.</strong></li>
+<li><strong>China’s Annex B (77 lines, fully exempt)</strong> comes from the U.S.-China Board of Trade “30-for-30” list: toys (9503, $9bn), fireworks, plastic tableware, bed and table linen, electric blankets.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://shepotylo.com/blog/2026-11-25-trump-trade-war-diary-day-673/images/s301_ec_exposure_Nov2026.png" class="img-fluid figure-img" alt="Stacked bar chart of 2025 US imports from each of the 14 economies, split into goods exposed to the proposed rate, China's 10% Annex A tier, Section 232 goods and annex-exempt goods. Exposure ranges from 10% for Taiwan to 92% for China and 99% for Bangladesh."></p>
+<figcaption>Exposure of 2025 US imports to the proposed actions</figcaption>
+</figure>
+</div>
+<p>A few numbers from 2025 US imports:</p>
+<ul>
+<li><strong>The 14 economies supplied $1.91 trillion</strong>, about 61% of US goods imports (excluding precious metals). Only about <strong>$776bn (41%)</strong> would face the proposed rates. The rest is exempt, either through the annex (mostly pharma and electronics) or through Section 232.</li>
+<li><strong>Exposure varies hugely.</strong>
+<ul>
+<li><strong>Taiwan: 10%.</strong> Computers, servers and their parts are exempt, $132bn in 8471/8473 alone.</li>
+<li><strong>Korea and Japan: 21–28%.</strong> Autos and other goods are already under Section 232.</li>
+<li><strong>China 92%, Cambodia 85% and Bangladesh 99%.</strong> Garment exporters have nothing in the annex.</li>
+</ul></li>
+<li><strong>China’s 10% tier covers about $100bn.</strong> It is led by smartphones ($23.5bn), <strong>lithium-ion batteries</strong> ($11.7bn) and laptops ($8.6bn). The FRN names batteries as one of China’s excess-capacity sectors, yet batteries land in the <em>low</em> tier.</li>
+<li><strong>The extra duty is about $71bn a year at 2025 volumes:</strong> $28bn China, $18bn Vietnam, $9bn EU. This is far less than the headline rates suggest, because the new duty only tops up the forced-labour Section 301 that has applied to 60 economies since 24 July 2026. Once trade responds to the new tariffs, extra US tariff revenue is closer to <strong>$34bn</strong>.</li>
+</ul>
+</section>
+<section id="procedure-and-timing" class="level2">
+<h2 class="anchored" data-anchor-id="procedure-and-timing">Procedure and timing</h2>
+<ul>
+<li><strong>Comments and hearings.</strong> Written comments and requests to appear are due <strong>January 5, 2027</strong>. Hearings start <strong>January 25, 2027</strong> at the USITC. Comments go to separate dockets for each economy (e.g.&nbsp;China USTR-2026-0278, EU USTR-2026-0730). Requests to appear go to USTR-2026-0741.</li>
+<li><strong>No effective date yet.</strong> Realistically, the earliest implementation is Q1–Q2 2027.</li>
+<li><strong>An EU sunset.</strong> For the EU, USTR proposes that the action <strong>terminate on December 1, 2028</strong>. This matches the EU’s own Regulation (EU) 2026/1455, which grants tariff concessions on US goods from July 1, 2026 to December 31, 2029. The deal is being codified on both sides, with sunset dates attached.</li>
+<li><strong>China’s rate stacks on another 301.</strong> China’s 20% is net of the duty from yet another Section 301 action, on China’s failure to prohibit imports of goods made with forced labour (91 FR 47318, July 28, 2026). China declined USTR’s request for consultations.</li>
+<li><strong>A plurilateral option.</strong> USTR also asks for comments on whether to negotiate a <strong>plurilateral agreement on structural excess capacity, including with China</strong>. This is the only multilateral element in the whole exercise.</li>
+</ul>
+</section>
+<section id="my-observations" class="level2">
+<h2 class="anchored" data-anchor-id="my-observations">My observations</h2>
+<ol type="1">
+<li><strong>This is the Supreme Court workaround.</strong> On February 20 the IEEPA tariffs were struck down. GTA’s modelled trade-weighted US tariff (top 1,000 flows) fell from about 10% in December 2025 to 5.8% on the day of the ruling. It stands at about 8.7% today (GTA US Tariff Estimates, model snapshot 2026-10-23). These 14 actions would rebuild most of the reciprocal-tariff wall on a statute that courts have treated with much more deference than IEEPA.
+<ul>
+<li>In <em>HMTX Industries v. United States</em> (25 Sep 2025), the Federal Circuit upheld the 2018 China Lists 3 and 4A. A cert petition (No.&nbsp;25-1012) followed in February 2026.</li>
+<li>Section 301 requires an investigation, a determination, notice and comment. The administration has now done all of that.</li>
+</ul></li>
+<li><strong>“Excess capacity” has been stretched to mean “anything we don’t like about your macroeconomy”.</strong> The list of “unreasonable” practices includes:
+<ul>
+<li>Japan’s <em>household investment promotion</em>;</li>
+<li>Singapore’s <em>savings promotion policies that suppress domestic consumption</em>;</li>
+<li>Switzerland’s currency;</li>
+<li>financial repression almost everywhere;</li>
+<li>Taiwan’s past purchases of Russian feedstock;</li>
+<li>for all of them, “failure to address global excess capacity”, i.e.&nbsp;buying Chinese inputs or hosting Chinese FDI.</li>
+</ul>
+This is a saving-investment imbalance argument relabelled as an unfair trade practice. Comments on methodology were noted and set aside. They argued, for example, that low capacity utilisation can reflect the business cycle, and that trade surpluses reflect saving patterns.</li>
+<li><strong>The remedy does not target the sectors in the diagnosis.</strong> The FRNs name steel, autos, semiconductors and pharma. Those are exactly the goods that are <em>exempted</em>, because they sit under Section 232 or in the annex. What is actually taxed is everything else: apparel from Bangladesh and Cambodia, furniture and footwear from Vietnam, machinery and consumer goods from Europe. The cost falls on garment workers in Dhaka and on US consumers, not on Chinese or Korean steel mills.</li>
+<li><strong>It is a negotiating instrument with a legal wrapper.</strong> The stick-and-carrot structure shows the real objective: lock in the 2025–26 bilateral deals and keep leverage over them.
+<ul>
+<li>The sticks are fallback rates of up to 40% for China and 25% for Korea and Taiwan.</li>
+<li>The carrots are deal rates of 17% for India, 20% for Vietnam and 10% for Singapore.</li>
+<li>Korea’s 25% fallback matches the rate Trump threatened in January, when the Korean legislature had not passed the deal (<a href="../../blog/2026-01-27-trump-trade-war-diary-day-371/index.html">Day 371</a>).</li>
+</ul></li>
+<li><strong>The WTO dimension is unchanged.</strong> Country-specific tariffs on all goods break MFN just as the IEEPA tariffs did. A WTO panel already found the 2018 China 301 tariffs inconsistent with GATT Articles I and II (DS543, 15 Sep 2020). The US appealed that ruling into the void left by the non-functioning Appellate Body, and nobody expects the WTO to matter here. The more interesting question is Mexico. Excluding the largest bilateral exporter while hitting Cambodia at 18% says a lot about where the USMCA review is.</li>
+</ol>
+<p>The comment period runs over Christmas. Expect a flood of product-by-product exclusion requests. That is exactly how the deals will be renegotiated in 2027.</p>
+</section>
+<section id="the-uk-angle" class="level2">
+<h2 class="anchored" data-anchor-id="the-uk-angle">The UK angle</h2>
+<p>The UK is not on the list. That is good news for British exporters, but it comes with a catch.</p>
+<ul>
+<li><strong>The UK already pays 10% under the forced-labour Section 301.</strong> The new rates are <em>net of existing Section 301 duties</em>, so the excess-capacity action tops each target up to its headline rate and leaves the UK where it is.</li>
+<li><strong>That reverses the UK’s position against the EU.</strong> On a typical covered product, the UK goes from paying 2pp more than EU exporters to paying 3pp less.</li>
+</ul>
+<p>I ran the proposal through a general-equilibrium trade model to see who gains and who loses: the US, China, the EU and the UK. I also looked at which UK product groups are likely to benefit. The results are in a companion post: <a href="../../blog/2026-11-25-section-301-excess-capacity-uk/index.html">Section 301 “excess capacity” tariffs: the US, China and Vietnam lose, the UK gains, if it stays outside</a>.</p>
+
+
+<!-- -->
+
+</section>
+
+ ]]></description>
+  <category>trade-wars</category>
+  <category>trump-trade-war-diary</category>
+  <category>section-301</category>
+  <guid>https://shepotylo.com/blog/2026-11-25-trump-trade-war-diary-day-673/</guid>
+  <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://shepotylo.com/blog/2026-11-25-trump-trade-war-diary-day-673/images/s301_ec_rates_Nov2026.png" medium="image" type="image/png" height="99" width="144"/>
+</item>
 <item>
   <title>UK trade in September 2026: gold drives a $60bn goods deficit</title>
   <dc:creator>Oleksandr Shepotylo</dc:creator>
@@ -1196,49 +1897,6 @@
   <category>trump-trade-war-diary</category>
   <guid>https://shepotylo.com/blog/2026-03-11-trump-trade-war-diary-day-414/</guid>
   <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Trump Trade War Diary — Day 395</title>
-  <link>https://shepotylo.com/blog/2026-02-20-trump-trade-war-diary-day-395/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>The US Supreme Court strikes down Trump tariffs. Trump has got an angry <img src="https://shepotylo.com/blog/2026-02-20-trump-trade-war-diary-day-395/figures/Trump tweet 20 Feb 2026 SCOTUS decision.png" class="img-fluid" alt="tweet"> and likewise <a href="https://youtube.com/shorts/B9SXfzk9HTg?si=k7s24btKlNkn6UdW">speach</a></p>
-<p>The decision is available <a href="https://www.supremecourt.gov/opinions/25pdf/24-1287_4gcj.pdf">here</a></p>
-
-
-<!-- -->
-
-
- ]]></description>
-  <category>trade-wars</category>
-  <category>trump-trade-war-diary</category>
-  <guid>https://shepotylo.com/blog/2026-02-20-trump-trade-war-diary-day-395/</guid>
-  <pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
-  <media:content url="https://shepotylo.com/blog/2026-02-20-trump-trade-war-diary-day-395/figures/Trump tweet 20 Feb 2026 SCOTUS decision.png" medium="image" type="image/png" height="165" width="144"/>
-</item>
-<item>
-  <title>Europe Flirts with a “Buy European” Era</title>
-  <link>https://shepotylo.com/blog/2026-02-13-europe-flirts-with-buy-european-era/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>The EU is adopting a “Buy European” policy that favours EU-made products in government procurement and industrial support for strategic sectors such as defence, clean tech, and AI. The shift reflects Europe’s declining share of global manufacturing (down from 25% to 20%), competition from China’s dominance in sectors like solar panels and batteries, and the aggressive subsidies of the US Inflation Reduction Act. Framed as a security measure rather than protectionism, the policy could nonetheless squeeze out US and UK suppliers and risks triggering retaliation — another sign of the drift from open-market globalisation toward bloc-based economic strategy.</p>
-<p><strong>Originally published on Substack</strong>, February 13, 2026.</p>
-<p><a href="https://oleksandrshepotylo.substack.com/p/europe-flirts-with-a-buy-european">Read the full piece →</a></p>
-
-
-<!-- -->
-
-
- ]]></description>
-  <category>trade-wars</category>
-  <guid>https://shepotylo.com/blog/2026-02-13-europe-flirts-with-buy-european-era/</guid>
-  <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
