@@ -20,7 +20,7 @@ The short answer:
 
 ## Key takeaways
 
-- **It is a top-up, not a new wall.** On average the proposal adds **2.3pp** to US import tariffs, mostly on China (+9.7pp) and Vietnam (+9.3pp). The EU gets about +1.6pp, and Japan and Korea less than 1pp.
+- **It is a top-up, not a new wall.** The proposal raises the average US tariff from 11.2% to **13.5%**. Most of the increase falls on China (25% to 34.7%) and Vietnam (13.4% to 22.6%). The EU's average rises by 1.6pp to 10.7%, and Japan's and Korea's by less than 1pp. **The UK's stays at 7.3%.**
 - **The US loses in every scenario and in all 5,000 model runs.** US real income falls by 0.03–0.06%, even after about **$34bn a year** of extra tariff revenue.
 - **China loses 0.03–0.05%**, and about twice that if talks fail and its rate rises to 40%. Vietnam (−0.5% to −0.8%) and Cambodia (−1.0% to −1.6%) lose far more.
 - **The EU is roughly unaffected on income.** But it faces **$17–35bn** of goods diverted from the US market, several times more than the UK.
@@ -32,23 +32,47 @@ The short answer:
 
 The key to the numbers is a detail of the notices: every proposed rate is *net of existing Section 301 duties*. Since 24 July 2026, 60 economies, the UK among them, have paid a forced-labour Section 301 tariff of 10–12.5%. The new action uses exactly the same core exemption list. So for most targets it only **tops up** the duty they already pay to the new headline rate. The UK stays where it is.
 
-Take a product with a 2% MFN tariff that is covered by both actions:
+China is a partial exception. The new duty tops up only its forced-labour duty, so the 2018–19 Section 301 tariffs stay on top: 25% on Lists 1–3 and 7.5% on List 4A.
 
-| Exporter | Today | Under the proposal | Gap to the UK |
-|:--|--:|--:|--:|
-| **United Kingdom** | **12** | **12** | – |
-| EU | 10 | 15 | +3 |
-| Japan, Korea, Switzerland | 12.5 | 15 | +3 |
-| Thailand, Malaysia, Indonesia, Cambodia | 12–14.5 | 20 | +8 |
-| China | 14.5 | 22 | +10 |
-| India | 12 | 27 | +15 |
-| Vietnam | 14.5 | 37 | +25 |
+The table shows what this means for the average tariff each economy pays on all its goods, today and under each scenario.
 
-: Total US tariff (MFN + Section 301) on an illustrative covered product with 2% MFN, %. Sources: forced-labour Section 301 tiers (91 FR 47717) and the proposed rates in the USTR notices of 25 November 2026.
+| Exporter | US imports 2025 (\$bn) | Today | Proposal | Deals signed | Talks fail | Gap to UK under proposal (pp) |
+|:--|--:|--:|--:|--:|--:|--:|
+| **United Kingdom** | 54.8 | **7.3** | **7.3** | 7.3 | 7.3 | – |
+| EU | 586.8 | 9.1 | 10.7 | 10.7 | 12.2 | +3.3 |
+| Japan | 140.2 | 13.0 | 13.7 | 13.7 | 15.2 | +6.4 |
+| Korea | 121.7 | 13.0 | 13.5 | 13.5 | 15.6 | +6.2 |
+| Switzerland | 41.7 | 5.3 | 6.3 | 6.3 | 8.2 | −1.1 |
+| Taiwan | 198.4 | 5.3 | 5.8 | 5.8 | 7.0 | −1.6 |
+| China | 292.5 | 25.0 | 34.7 | 34.7 | 58.8 | +27.4 |
+| Vietnam | 191.7 | 13.4 | 22.6 | 16.5 | 22.6 | +15.3 |
+| India | 101.4 | 18.2 | 23.8 | 20.8 | 23.8 | +16.5 |
+| Thailand | 90.3 | 11.8 | 13.3 | 13.3 | 15.2 | +6.0 |
+| Malaysia | 57.2 | 6.3 | 8.7 | 8.7 | 10.8 | +1.4 |
+| Indonesia | 34.4 | 14.8 | 20.2 | 20.2 | 24.9 | +12.9 |
+| Cambodia | 15.1 | 20.6 | 27.5 | 27.5 | 33.4 | +20.1 |
+| Bangladesh | 9.3 | 25.2 | 33.2 | 33.2 | 35.2 | +25.9 |
+| Singapore | 31.4 | 19.6 | 22.2 | 19.6 | 22.2 | +14.9 |
+| **All model economies** | 3,060.0 | 11.2 | 13.5 | 13.0 | 16.5 | |
 
-**On covered goods, the UK goes from paying 2pp more than EU exporters to paying 3pp less.** Against Asian suppliers, the UK's advantage widens to between 8 and 25 points.
+: Average US tariff on all goods by exporter, trade-weighted, %. "Today" is from GTA's US Tariff Estimates for 25 November 2026. It covers MFN tariffs, Section 232, every Section 301 action (including China's 2018 lists), Section 338 and deal terms. The scenarios add the model's incremental excess-capacity duty (2025 import weights).
 
-"Covered" is a big qualifier. Almost half of what the US buys from the 14 economies is exempt through the product annex: pharmaceuticals, civil aircraft, energy, smartphones and computers. Cars, steel, aluminium and the other Section 232 goods are also carved out, for every target except China. Only about 41% of these imports face the new rates, which is why the trade-weighted increases are much smaller than the headline rates.
+**Averaged over all goods, the margins are much smaller than the headline rates suggest.** Only about 41% of what the US buys from the 14 economies faces the new rates. The rest is exempt through the product annex (aircraft, most pharmaceuticals, smartphones and computers, energy) or, for every target except China, carved out as Section 232 goods (cars, steel, aluminium). Under the proposal:
+
+- the UK's average stays at **7.3%**;
+- the EU's rises from 9.1% to 10.7%, **3.3pp above the UK**;
+- Japan's rises from 13.0% to 13.7%, and Korea's from 13.0% to 13.5%;
+- China's rises from 25% to 34.7%, and to 58.8% if talks fail;
+- India's rises from 18.2% to 23.8%, and Vietnam's from 13.4% to 22.6%.
+
+Switzerland and Taiwan stay below the UK on average even under the proposal, because much of what they ship is exempt (Swiss medicines, Taiwanese computers and servers).
+
+**On covered goods the margins are larger.** Take a good covered by both actions, with a 2% MFN rate:
+
+- From the UK it pays 12% today, and from the EU 10%. Under the proposal the EU pays 15%. **The UK moves from paying 2pp more than EU exporters to paying 3pp less.**
+- From China the same good pays 14.5% today if it is outside the 2018 Section 301 lists, 22% if it is on List 4A and 39.5% if it is on Lists 1–3. The proposal adds 7.5pp to each.
+
+A second source gives almost the same levels today. The Yale Budget Lab's Tariff Rate Tracker puts the average at 10.7% across all economies in the model, against 11.2% from GTA, with the UK at 7.0% and China at 25.1%.
 
 ## Winners and losers around the world
 
@@ -69,7 +93,7 @@ The new tariffs mostly re-label duties that the Supreme Court struck down in Feb
 
 ### China and its replacements
 
-China loses **0.03–0.05%** of real income under the proposal. If talks fail and the 40% fallback applies to all Chinese goods, the loss rises to **0.08–0.10%**, and to 0.09–0.13% if China retaliates.
+China already faces the highest average US tariff of any large exporter, 25%, because its 2018–19 Section 301 duties remain in place. The proposal raises that to 34.7%, and to 58.8% if talks fail. China loses **0.03–0.05%** of real income under the proposal. If talks fail and the 40% fallback applies to all Chinese goods, the loss rises to **0.08–0.10%**, and to 0.09–0.13% if China retaliates.
 
 But China is not the biggest loser in proportional terms. Between January–May 2024 and January–May 2026, China's share of US imports fell from 12.6% to 7.3%. Over the same period the other twelve targets rose from 26.7% to 36.4%. This is exactly the relocation that the "failure to address global excess capacity" findings take aim at, and the costs fall on the economies that took China's place:
 
@@ -81,7 +105,7 @@ The biggest winners are the US's neighbours left out of the action: **Mexico (+0
 
 ### The EU: little change on income, more pressure on imports
 
-The EU's headline rate is unchanged at 15% all-in. In practice, it moves from the forced-labour cap of 10% to 15% on covered goods. Only about a third of EU exports to the US are exposed, so the trade-weighted increase is about 1.6pp.
+The EU's headline rate is unchanged at 15% all-in. In practice, it moves from the forced-labour cap of 10% to 15% on covered goods. Only about a third of EU exports to the US are exposed, so its average tariff rises by just 1.6pp, from 9.1% to 10.7%. That still leaves EU exporters 3.3pp above the UK's 7.3% on average, and 3pp above it on covered goods, where today they pay 2pp less.
 
 - **Income barely moves.** The central estimate is −0.004%, and the Monte Carlo median is essentially zero, with gains and losses equally likely.
 - **Germany (−0.010%) and France (−0.013%)** lose a little. Ireland gains a little (+0.013%): most of its exports are exempt, so its tariff rises less than its competitors'.
@@ -91,7 +115,7 @@ The bigger issue for Brussels is **trade deflection**. Chinese and Vietnamese go
 
 ## The UK: winning by standing still
 
-The UK is not targeted, and it already pays the forced-labour 10%. Its exporters therefore gain a preference margin over almost every competitor in the US market, without the UK doing anything.
+The UK is not targeted, and it already pays the forced-labour 10%. Its exporters therefore gain a preference margin without the UK doing anything. On covered goods they pay less than exporters from every one of the 14 targets. Averaged over all goods, only Switzerland and Taiwan pay less than the UK's 7.3%.
 
 ![UK welfare by scenario](images/fig_ge_uk_welfare.png){fig-alt="Bar chart of the change in UK real income under six scenarios. Proposal +0.016%, deals signed +0.012%, talks fail +0.030%, escalation +0.018%, UK drawn in at 15% +0.002%, UK drawn in at 20% −0.010%."}
 

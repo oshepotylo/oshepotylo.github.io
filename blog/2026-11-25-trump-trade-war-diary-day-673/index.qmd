@@ -44,7 +44,7 @@ Each action is a tariff of "up to" X% on **all goods** from the economy, minus a
 
 : The 14 proposed Section 301 actions at a glance.
 
-\* All-in rate, "net of MFN rates and existing Section 301 tariffs" (as in the 15% EU/Japan/Korea deals). The other rates are additional to MFN and net of existing Section 301 duties only. Taiwan's 25% fallback is net of Section 301 only. † China: 10% reciprocal + 10% fentanyl after the Kuala Lumpur arrangement (EO 14358, Nov 2025). ‡ China: $167.5bn at the 20% rate plus $102.5bn of Annex A goods at 10%.
+\* All-in rate, "net of MFN rates and existing Section 301 tariffs" (as in the 15% EU/Japan/Korea deals). The other rates are additional to MFN and net of existing Section 301 duties only. For China, only the forced-labour Section 301 duty is netted off: the 2018–19 Section 301 duties stay on top. Taiwan's 25% fallback is net of Section 301 only. † China: 10% reciprocal + 10% fentanyl after the Kuala Lumpur arrangement (EO 14358, Nov 2025). ‡ China: $167.5bn at the 20% rate plus $102.5bn of Annex A goods at 10%.
 
 *Sources:* USTR pre-publication FRNs (25 Nov 2026); EO of 31 Jul 2025, Annex I. US imports are from TDM (HS6, 2025), excluding precious metals (7106, 7108, 7110, 7112, 7115) and special provisions (ch. 98–99). Annex exemptions are weighted by HTS-8 line shares within each HS6. Section 232 coverage comes from the official product lists.
 
@@ -93,7 +93,7 @@ A few numbers from 2025 US imports:
 - **Comments and hearings.** Written comments and requests to appear are due **January 5, 2027**. Hearings start **January 25, 2027** at the USITC. Comments go to separate dockets for each economy (e.g. China USTR-2026-0278, EU USTR-2026-0730). Requests to appear go to USTR-2026-0741.
 - **No effective date yet.** Realistically, the earliest implementation is Q1–Q2 2027.
 - **An EU sunset.** For the EU, USTR proposes that the action **terminate on December 1, 2028**. This matches the EU's own Regulation (EU) 2026/1455, which grants tariff concessions on US goods from July 1, 2026 to December 31, 2029. The deal is being codified on both sides, with sunset dates attached.
-- **China's rate stacks on another 301.** China's 20% is net of the duty from yet another Section 301 action, on China's failure to prohibit imports of goods made with forced labour (91 FR 47318, July 28, 2026). China declined USTR's request for consultations.
+- **China's rate stacks on another 301.** China's 20% is net of the duty from yet another Section 301 action, on China's failure to prohibit imports of goods made with forced labour (91 FR 47318, July 28, 2026). The 2018–19 Section 301 tariffs (25% on Lists 1–3, 7.5% on List 4A) stay on top. China declined USTR's request for consultations.
 - **A plurilateral option.** USTR also asks for comments on whether to negotiate a **plurilateral agreement on structural excess capacity, including with China**. This is the only multilateral element in the whole exercise.
 
 ## My observations
@@ -124,6 +124,6 @@ The comment period runs over Christmas. Expect a flood of product-by-product exc
 The UK is not on the list. That is good news for British exporters, but it comes with a catch.
 
 - **The UK already pays 10% under the forced-labour Section 301.** The new rates are *net of existing Section 301 duties*, so the excess-capacity action tops each target up to its headline rate and leaves the UK where it is.
-- **That reverses the UK's position against the EU.** On a typical covered product, the UK goes from paying 2pp more than EU exporters to paying 3pp less.
+- **That reverses the UK's position against the EU.** On a typical covered product, the UK goes from paying 2pp more than EU exporters to paying 3pp less. Averaged over all goods, the UK's US tariff stays at 7.3% while the EU's rises from 9.1% to 10.7%.
 
 I ran the proposal through a general-equilibrium trade model to see who gains and who loses: the US, China, the EU and the UK. I also looked at which UK product groups are likely to benefit. The results are in a companion post: [Section 301 "excess capacity" tariffs: the US, China and Vietnam lose, the UK gains, if it stays outside](../2026-11-25-section-301-excess-capacity-uk/index.qmd).
