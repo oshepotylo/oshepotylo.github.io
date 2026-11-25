@@ -24,7 +24,7 @@ Each action is a tariff of "up to" X% on **all goods** from the economy, minus a
 - **Countries with a deal:** the alternative is a higher *fallback* rate, which applies if "ongoing consultations and existing commitments are unsatisfactory".
 - **Countries without a deal (India, Vietnam, Singapore):** it works the other way round. The headline rate is the stick. A lower rate applies "were [the country] to reach an Agreement on Reciprocal Trade ... responsive to the determinations".
 
-| Economy | US imports 2025 ($bn) | Proposed rate (%) | Alternative (%) | IEEPA rate, Jul 2025 (%) | Exempt: annex / S232 (% of imports) | Exposed to proposed rate ($bn) | Sectors singled out |
+| Economy | US imports 2025 (\$bn) | Proposed rate (%) | Alternative (%) | IEEPA rate, Jul 2025 (%) | Exempt: annex / S232 (% of imports) | Exposed to proposed rate (\$bn) | Sectors singled out |
 |---|---:|---:|---:|---:|---:|---:|---|
 | European Union | 586.8 | 15\* | 20\* (fallback) | 15 | 51 / 16 | 189.6 | autos, chemicals, pharmaceuticals |
 | China | 292.5 | 20 (10 on Annex A) | 40 (fallback) | 20† | 8 / – | 270.0‡ | 22 sectors: steel, aluminium, EVs, batteries, chips, solar, ships, robotics, textiles... |

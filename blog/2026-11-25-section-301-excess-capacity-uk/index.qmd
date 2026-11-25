@@ -124,7 +124,7 @@ To see where the gains land, I used a product-level model at HS 6-digit level. U
 
 ![Where UK exporters pick up share in the US market](images/fig_pe_uk_gains_by_chapter.png){fig-alt="Horizontal bar chart of the change in UK exports to the US by HS chapter under the proposal and talks-fail scenarios. Machinery leads with about $690m (proposal) and $1.5bn (talks fail), followed by optical and medical instruments, electrical machinery, plastics, organic chemicals and chemical products."}
 
-| HS chapter | UK exports to US, 2025 ($bn) | Gain, proposal ($m) | Gain, % | Gain if talks fail ($m) |
+| HS chapter | UK exports to US, 2025 (\$bn) | Gain, proposal (\$m) | Gain, % | Gain if talks fail (\$m) |
 |:--|--:|--:|--:|--:|
 | 84 Machinery and mechanical appliances | 12.3 | +690 | +5.6 | +1,489 |
 | 90 Optical, measuring and medical instruments | 3.4 | +421 | +12.3 | +920 |
